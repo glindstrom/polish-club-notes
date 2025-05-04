@@ -1,0 +1,52 @@
+site_name: Polish Club Notes
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+  features:
+    - content.code.copy
+    - content.tabs
+    - navigation.tabs
+    - navigation.top
+docs_dir: docs
+nav:
+  - Home: index.md
+  - Openings:
+      - Opening Bids: openings/openings.md
+      - 1♣ Opening: openings/one-club.md
+      - 1♣ Interference: openings/one-club-interference.md
+      - 1♦ Opening: openings/one-diamond.md
+      - 1♦ Interference: openings/one-diamond-interference.md
+      - 1♥ Opening: openings/one-heart.md
+      - 1♠ Opening: openings/one-spade.md
+      - 1♥/1♠ Interference: openings/one-heart-one-spade-interference.md
+      - 1NT Opening: openings/one-nt.md
+      - 1NT Interference: openings/one-nt-interference.md
+      - Preemptive Openings Overview: openings/preemptive-openings-overview.md
+      - 2♣ Opening: openings/two-club.md
+      - 2♣ Interference: openings/two-club-interference.md
+      - 2♦ Opening: openings/two-diamond.md
+      - 2♦ Interference: openings/two-diamond-interference.md
+      - 2♥/2♠ Openings: openings/two-major.md
+      - 2♥/2♠ Interference: openings/two-major-interference.md
+      - 2NT Opening: openings/two-nt.md
+      - Three-Level Openings: openings/three-level-openings.md
+      - Four-Level Openings: openings/four-level-openings.md
+  - Slam Bidding: slam-bidding.md
+  - Conventions: conventions.md
+  - Hand Evaluation: hand-evaluation.md
+  - Competitive Bidding: competitive-bidding.md
+  - Carding Agreements: carding-agreements.md
+
+markdown_extensions:
+  - tables
+  - fenced_code
+  - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      toc_depth: 3 # Include up to ### headers
+extra_css:
+  - css/custom.css

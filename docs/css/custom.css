@@ -1,0 +1,85 @@
+/* Compact Tables */
+.md-typeset table {
+    font-size: 0.85rem; /* Smaller font size for table content */
+    line-height: 1.2; /* Tighter line spacing */
+}
+
+.md-typeset th,
+.md-typeset td {
+    padding: 4px 8px; /* Reduced padding for compact tables (default is ~8px 16px) */
+    vertical-align: top; /* Align text to the top for better readability */
+}
+
+/* Ensure table headers are slightly larger and bold */
+.md-typeset th {
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+/* Style for Notes (#### Note) */
+.md-typeset h4 {
+    font-size: 1.1rem; /* Slightly smaller than default h4 */
+    margin-top: 0.5em;
+    margin-bottom: 0.3em;
+    color: #555; /* Subtle gray for distinction */
+}
+
+/* Style for content under Notes (e.g., bullet points) */
+.md-typeset h4 + ul {
+    font-size: 0.85rem; /* Smaller font for note content */
+    margin-top: 0;
+    margin-bottom: 1em;
+    line-height: 1.3;
+}
+
+/* Admonitions (??? note blocks) */
+.md-typeset .admonition {
+    border-left: 4px solid #6200ea; /* Purple left border to match Material theme */
+    background-color: #f3e5f5; /* Light purple background for distinction */
+    margin: 1em 0;
+    padding: 0.5em 1em;
+    font-size: 0.9rem; /* Slightly smaller font for admonition content */
+}
+
+/* Admonition titles (e.g., "Responder Responses to 1NT") */
+.md-typeset .admonition-title {
+    background-color: #ede7f6; /* Slightly darker purple for title */
+    font-size: 1rem;
+    padding: 0.3em 0.6em;
+    font-weight: 600;
+}
+
+/* Improve spacing for lists and paragraphs inside admonitions */
+.md-typeset .admonition ul,
+.md-typeset .admonition p {
+    margin: 0.5em 0;
+}
+
+/* General spacing adjustments */
+.md-typeset h3 {
+    font-size: 1.2rem; /* Slightly smaller h3 headers */
+    margin-top: 0.8em;
+    margin-bottom: 0.4em;
+}
+
+.md-typeset p,
+.md-typeset ul {
+    font-size: 0.9rem; /* Smaller font for general text */
+    line-height: 1.4;
+}
+
+/* Ensure the layout remains readable on smaller screens */
+@media screen and (max-width: 600px) {
+    .md-typeset table {
+        font-size: 0.75rem;
+    }
+
+    .md-typeset th,
+    .md-typeset td {
+        padding: 3px 6px;
+    }
+
+    .md-typeset .admonition {
+        font-size: 0.85rem;
+    }
+}
