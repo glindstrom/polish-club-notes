@@ -1,5 +1,6 @@
 site_name: Polish Club Notes
 site_url: https://glindstrom.github.io/polish-club-notes/
+use_directory_urls: true
 theme:
   name: material
   palette:
@@ -52,8 +53,5 @@ markdown_extensions:
   - toc:
       toc_depth: 3 # Include up to ### headers
 
-extra:
-  base_url: /polish-club-notes/
-  
 extra_css:
   - css/custom.css
