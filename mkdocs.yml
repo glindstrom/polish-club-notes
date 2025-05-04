@@ -51,5 +51,9 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       toc_depth: 3 # Include up to ### headers
+
+extra:
+  base_url: /polish-club-notes/
+  
 extra_css:
   - css/custom.css
