@@ -1,4 +1,5 @@
 site_name: Polish Club Notes
+site_url: https://glindstrom.github.io/polish-club-notes/
 theme:
   name: material
   palette:
