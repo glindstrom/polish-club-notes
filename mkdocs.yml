@@ -7,6 +7,7 @@ theme:
   features:
     - content.code.copy
     - content.tabs
+    - navigation.tabs
     - navigation.expand
     - navigation.top
 docs_dir: docs
