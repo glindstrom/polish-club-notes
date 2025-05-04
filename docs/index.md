@@ -2,6 +2,8 @@
 
 Welcome to the Polish Club bidding system documentation. This project provides detailed notes on opening bids, responses, and interference in the Polish Club system.
 
+Updated May 4 2025.
+
 ## Sections
 - [Openings](openings/openings.md)
 - [Slam Bidding](slam-bidding.md)
