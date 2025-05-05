@@ -122,8 +122,8 @@
     | Bid    | Meaning                  |
     | ------ | ------------------------ |
     | Double | 4-card major, 5 diamonds |
-    | 2♥     | 4-4+ majors              |
-    | 2♠     | Natural                  |
+    | 2♣     | 4-4+ majors              |
+    | 2♦     | Natural                  |
 
     | Sequence | They | We   | They | We  |
     | -------- | ---- | ---- | ---- | --- |
@@ -132,25 +132,6 @@
     | Bid    | Meaning               |
     | ------ | --------------------- |
     | Double | 4-card major, 5 clubs |
-    | 2♥     | 4-4+ majors           |
+    | 2♣     | Natural               |
+    | 2♦     | 4-4+ majors           |
     | 2♠     | Natural               |
-
-    | Sequence | We  | They | We  | They |
-    | -------- | --- | ---- | --- | ---- |
-    |          | 1♣  | 1NT  | ?   |      |
-
-    | Bid    | Meaning              |
-    | ------ | -------------------- |
-    | Double | 8+ points, penalties |
-    | 2♥     | 4-4+ majors          |
-    | 2♠     | Natural              |
-
-    | Sequence | We  | They | We  | They |
-    | -------- | --- | ---- | --- | ---- |
-    |          | 1♦  | 1NT  | ?   |      |
-
-    | Bid    | Meaning              |
-    | ------ | -------------------- |
-    | Double | 8+ points, penalties |
-    | 2♥     | 4-4+ majors          |
-    | 2♠     | Natural              |

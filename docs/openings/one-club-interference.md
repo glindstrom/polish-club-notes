@@ -7,10 +7,9 @@ The 1♣ opening has three meanings:
 - **Club Variant**: At least 5 clubs, unbalanced distribution (12-17 HCP).
 - **Strong Variant**: 18+ HCP.
 
-??? note "Bidding after Interference"
-    ### Bidding after Interference
+??? note "After Opponent’s Double"
+    ### After Opponent’s Double (1♣ - Dbl)
 
-    #### After Double (1♣ - Dbl)
     | Response    | Meaning                                                 |
     | ----------- | ------------------------------------------------------- |
     | Pass        | 0-6; no diamond suit                                    |
@@ -27,7 +26,9 @@ The 1♣ opening has three meanings:
     - Pass: Opener should not leave 1♣ doubled if the next opponent passes.
     - Redouble: Partner may pass with three clubs.
 
-    #### After 1♣ - (1♦)
+??? note "After Opponent’s 1♦ Overcall"
+    ### After 1♣ - (1♦)
+
     | Response | Meaning                                        |
     | -------- | ---------------------------------------------- |
     | Double   | 7+; 4+ hearts                                  |
@@ -42,15 +43,15 @@ The 1♣ opening has three meanings:
     | 3♣       | 4-9; 6+ clubs                                  |
 
     #### After 1♣ - (1♦) - Double (4+ Hearts) - Pass
-    | Opener’s Rebid | Meaning                            |
-    | -------------- | ---------------------------------- |
-    | 1♥             | 12-14; exactly 3 hearts            |
-    | 1♠             | 12+; natural, forcing, no 3 hearts |
-    | 1NT            | 12-14; no 3 hearts                 |
-    | 2♣             | 12-17; 5+ clubs, no 3 hearts       |
-    | 2♦             | [Odwrotka](../conventions/odwrotka.md)            |
-    | 2♥             | 12-14; exactly 4 hearts            |
-    | 3♥             | 15-17; exactly 4 hearts            |
+    | Opener’s Rebid | Meaning                                |
+    | -------------- | -------------------------------------- |
+    | 1♥             | 12-14; exactly 3 hearts                |
+    | 1♠             | 12+; natural, forcing, no 3 hearts     |
+    | 1NT            | 12-14; no 3 hearts                     |
+    | 2♣             | 12-17; 5+ clubs, no 3 hearts           |
+    | 2♦             | [Odwrotka](../conventions/odwrotka.md) |
+    | 2♥             | 12-14; exactly 4 hearts                |
+    | 3♥             | 15-17; exactly 4 hearts                |
 
     #### After 1♣ - (1♦) - 1♠ (Transfer to Notrump) - Pass
     | Opener’s Rebid | Meaning                                |
@@ -61,7 +62,9 @@ The 1♣ opening has three meanings:
     | 2♥/2♠          | 18+; natural 5-card suit               |
     | 2NT            | 18+; with diamond stopper              |
 
-    #### After 1♣ - (1♥)
+??? note "After Opponent’s 1♥ Overcall"
+    ### After 1♣ - (1♥)
+
     | Response | Meaning                              |
     | -------- | ------------------------------------ |
     | Double   | 4+ spades                            |
@@ -74,12 +77,24 @@ The 1♣ opening has three meanings:
     | 2NT      | Natural, invitational                |
     | 3♣       | 4-9; 6+ clubs                        |
 
-    #### After Other Interferences
-    - Double: Negative (4 hearts after 1♠ overcall).
-    - New suit without jump: Forcing.
-    - Jump in a new suit: Preemptive (weaker than two-level bid).
+??? note "After Opponent’s 1NT Overcall"
+    ### After Opponent’s 1NT Overcall
 
-    #### Balancing after 1♣ - Pass - 1♦ - 1♥
+    See [Two-Suited Bids After Opponent Interference](../after-intervention/two-suited-bids.md) for responses to an opponent’s 1NT overcall after our 1♣ opening.
+
+??? note "After Other Suit Overcalls"
+    ### After Other Suit Overcalls
+
+    | Response              | Meaning                                |
+    | --------------------- | -------------------------------------- |
+    | Double                | Negative (4 hearts after 1♠ overcall)  |
+    | New suit without jump | Forcing                                |
+    | Jump in a new suit    | Preemptive (weaker than two-level bid) |
+
+??? note "Balancing After Responder’s Bid"
+    ### Balancing After Responder’s Bid
+
+    #### After 1♣ - Pass - 1♦ - 1♥
     | Opener’s Rebid | Meaning                                                     |
     | -------------- | ----------------------------------------------------------- |
     | Double         | 1) 15+; 5+ clubs and 4 spades, or<br>2) 18+; takeout double |
@@ -92,37 +107,6 @@ The 1♣ opening has three meanings:
     | 2NT            | 21-23; natural                                              |
 
     #### After 1♣ - Pass - 1♥ - 1♠
-    | Opener’s Rebid | Meaning                                        |
-    | -------------- | ---------------------------------------------- |
-    | Pass           | 12-14; no three hearts                         |
-    | Double         | 12-17; 3 hearts                                |
-    | 1NT            | 12-14; good spade stopper                      |
-    | 2♣             | 12+; natural                                   |
-    | 2♦             | [Odwrotka](../conventions/odwrotka.md)                        |
-    | 2♥             | 12-14; four hearts                             |
-    | 2♠             | 18+; asking for spade stopper, no three hearts |
-    | 2NT            | 18+; natural with spade stopper                |
-    | 3♣/3♦          | 18+; natural                                   |
-    | 3♠             | 18+; Splinter with four-card heart support     |
-
-    #### After 1♣ - Pass - 1♥ - 2♦
-    | Opener’s Rebid | Meaning                                             |
-    | -------------- | --------------------------------------------------- |
-    | Double         | At least 3-card heart support; strength not defined |
-    | 2NT            | 18+; natural, no three hearts, with diamond stopper |
-    | 3♣             | 15+; forcing, no three hearts                       |
-    | 3♦             | 18+; no three hearts, no diamond stopper            |
-
-    #### High-Level Interference: After 1♣ - Pass - 1♥ - 2♠
-    | Opener’s Rebid | Meaning                                    |
-    | -------------- | ------------------------------------------ |
-    | Double         | 18+; no heart support specified            |
-    | 2NT            | 18+; natural                               |
-    | 3♣             | 15+; natural, forcing                      |
-    | 3♠             | 18+; Splinter with four-card heart support |
-
-    #### After 1♣ - Pass - 1♠ - 3♥
-    | Opener’s Rebid | Meaning                                    |
-    | -------------- | ------------------------------------------ |
-    | Double         | 18+; no spade support specified            |
-    | 4♥             | 18+; Splinter with four-card spade support |
+    | Opener’s Rebid | Meaning |
+    | -------------- | ------- |
+    | Pass           | 12      |

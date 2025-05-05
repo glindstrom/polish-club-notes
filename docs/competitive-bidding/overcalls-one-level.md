@@ -6,46 +6,30 @@
 - **Suit**: 5+ cards (occasionally 4).
 - **Strength**: Up to 17 points; non-vulnerable with partner passed, decent suit only.
 
-??? note "Responses after 1♠ Overcall"
-    ### Responses after 1♠ Overcall
+??? note "Responses after 1♥ or 1♠ Overcall"
+    ### Responses after 1♥ or 1♠ Overcall
 
-    | Sequence | They  | We  | They | We  |
-    | -------- | ----- | --- | ---- | --- |
-    |          | 1♣/1♦ | 1♠  | Pass | ?   |
+    | Sequence | They  | We    | They | We  |
+    | -------- | ----- | ----- | ---- | --- |
+    |          | 1♣/1♦ | 1♥/1♠ | Pass | ?   |
 
-    | Response | Meaning                                          |
-    | -------- | ------------------------------------------------ |
-    | 1NT      | 8–12 points, stopper in opponent’s suit, no fit  |
-    | 2♣/2♥    | 4+ card suit, non-forcing                        |
-    | 2♦       | 12+ points, opponent’s suit, no fit              |
-    | 2♠       | 6–10 points, weak raise (3+ spades)              |
-    | 2NT      | 13–15 points, stopper in opponent’s suit, no fit |
-    | 3♣/3♥    | 10+ points, natural, forcing                     |
-    | 3♦       | 12+ points, opponent’s suit, no fit              |
-    | 3♠       | 7–10 points, 4+ spades, invitational             |
+    | Response                                | Meaning                                                                                   |
+    | --------------------------------------- | ----------------------------------------------------------------------------------------- |
+    | 1♠ (after 1♥)                           | 4+ spades, 6–10 points, non-forcing                                                       |
+    | 1NT                                     | 8–12 points, stopper in opponent’s suit, denies fit                                       |
+    | 2♣                                      | Drury: 3+ cards in overcaller’s suit, 10–12 points (see [Drury](../conventions/drury.md)) |
+    | 2♦/2♥ (after 1♠) or 2♣/2♦ (after 1♥)    | 5+ cards, 10+ points, non-forcing                                                         |
+    | 2♥ (after 1♥) or 2♠ (after 1♠)          | 6–10 points, weak raise (3+ cards)                                                        |
+    | 2NT                                     | 13–15 points, stopper in opponent’s suit, denies fit                                      |
+    | 3♣/3♦/3♥ (after 1♠) or 3♣/3♦ (after 1♥) | 5+ cards, 10+ points, forcing                                                             |
+    | 3♥ (after 1♥) or 3♠ (after 1♠)          | 7–10 points, 4+ cards, invitational                                                       |
 
-    #### Overcaller’s Continuations
-    - Identical to continuations after a 1♠ opening (e.g., new suit = natural, raise = support).
-
-??? note "Responses after 1♥ Overcall"
-    ### Responses after 1♥ Overcall
-
-    | Sequence | They  | We  | They | We  |
-    | -------- | ----- | --- | ---- | --- |
-    |          | 1♣/1♦ | 1♥  | Pass | ?   |
-
-    | Response | Meaning                                          |
-    | -------- | ------------------------------------------------ |
-    | 1♠       | 4+ spades, non-forcing                           |
-    | 1NT      | 8–12 points, stopper in opponent’s suit, no fit  |
-    | 2♣/2♦    | 10+ points, 4+ card suit, non-forcing            |
-    | 2♥       | 6–10 points, weak raise (3+ hearts)              |
-    | 2NT      | 13–15 points, stopper in opponent’s suit, no fit |
-    | 3♣/3♦    | 10+ points, natural, forcing                     |
-    | 3♥       | 7–10 points, 4+ hearts, invitational             |
+    #### Notes
+    - New suits at the 2-level (e.g., 2♦/2♥ after 1♠) or as a jump (e.g., 3♣/3♦) typically require 5+ cards, but 4-card suits are occasionally acceptable in standard systems with a strong suit and 10+ points.
+    - Overcaller may raise a 2-level new suit with three-card support.
 
     #### Overcaller’s Continuations
-    - Identical to continuations after a 1♥ opening (e.g., new suit = natural, raise = support).
+    - Identical to continuations after a 1♥ or 1♠ opening (e.g., new suit = natural, raise = support).
 
 ??? note "Drury Convention"
     ### Drury Convention
@@ -56,15 +40,15 @@
 ??? note "After Opponent’s Double"
     ### After Opponent’s Double
 
-    | Sequence | They | We  | They   | We  |
-    | -------- | ---- | --- | ------ | --- |
-    |          | 1♣   | 1♥  | Double | ?   |
+    | Sequence | They  | We    | They   | We  |
+    | -------- | ----- | ----- | ------ | --- |
+    |          | 1♣/1♦ | 1♥/1♠ | Double | ?   |
 
-    | Response | Meaning                                                 |
-    | -------- | ------------------------------------------------------- |
-    | 2♥       | 6–10 points, 3+ hearts, no top honor (e.g., K, Q, or J) |
-    | 2♠       | 6–10 points, 3+ hearts, includes top honor              |
-    | Others   | Same as after 1♥ opening and opponent’s double          |
+    | Response                       | Meaning                                                                        |
+    | ------------------------------ | ------------------------------------------------------------------------------ |
+    | 2♥ (after 1♥) or 2♠ (after 1♠) | 6–10 points, 3+ cards in overcaller’s suit, includes top honor (e.g., K, Q, J) |
+    | 2♦ (after 1♥) or 2♥ (after 1♠) | 6–10 points, 3+ cards in overcaller’s suit, no top honor                       |
+    | Others                         | Same as after 1♥ or 1♠ opening and opponent’s double                           |
 
 ??? note "After Other Opponent Bids"
     ### After Other Opponent Bids

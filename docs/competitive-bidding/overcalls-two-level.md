@@ -57,17 +57,15 @@
     | Double           | Take-out, 3+ hearts (unbid major) |
     | 2NT              | 6 clubs, 4 diamonds               |
 
-??? note "Responses after 2♦ Overcall of 1♣"
-    ### Responses after 2♦ Overcall of 1♣
+??? note "Responses after 2♣ Overcall of 1♣"
+    ### Responses after 2♣ Overcall of 1♣
 
     | Sequence | They | We  | They | We  |
     | -------- | ---- | --- | ---- | --- |
-    |          | 1♣   | 2♦  | Pass | ?   |
+    |          | 1♣   | 2♣  | Pass | ?   |
 
-    | Response | Meaning                                                 |
-    | -------- | ------------------------------------------------------- |
-    | 2♥       | 10+ points, artificial, forcing (may seek 4-card major) |
-    | 2♠       | 5+ spades, forcing                                      |
-    | 3♣       | Weaker than 2♥ then 3♣, non-forcing                     |
-    | 3♦       | 7–10 points, 3+ diamonds, invitational                  |
-    | 3♥/3♠    | Natural, forcing                                        |
+    | Response | Meaning                                                                |
+    | -------- | ---------------------------------------------------------------------- |
+    | 2♦       | 10+ points, artificial, forcing (including looking for a 4-card major) |
+    | 2♥/2♠    | Natural, 5+ cards, forcing                                             |
+    | 3♣       | Weaker than when preceded by 2♦, non-forcing                           |

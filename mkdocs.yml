@@ -2,7 +2,7 @@ site_name: Polish Club Notes
 site_url: https://glindstrom.github.io/polish-club-notes/
 strict: true
 docs_dir: docs
-site_dir: site  # Explicitly set to match deploy.yml
+site_dir: site
 theme:
   name: material
   palette:
@@ -59,13 +59,15 @@ nav:
       - Two-Suited Overcalls: competitive-bidding/two-suited-overcalls.md
       - Defence Against Specific Openings: competitive-bidding/defence-specific-openings.md
       - General Principles: competitive-bidding/general-principles.md
-  - Conventions: 
+  - After Intervention:
+      - Overview: after-intervention/overview.md
+      - Two-Suited Bids: after-intervention/two-suited-bids.md
+  - Conventions:
       - Overview: conventions/overview.md
       - Forcing 2NT: conventions/forcing-2nt.md
       - Drury: conventions/drury.md
   - Slam Bidding: slam-bidding.md
   - Hand Evaluation: hand-evaluation.md
-  - Competitive Bidding: competitive-bidding.md
   - Carding Agreements: carding-agreements.md
 extra_css:
   - css/custom.css
