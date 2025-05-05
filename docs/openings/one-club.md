@@ -142,7 +142,7 @@
     | 1♠    | 12+; 4+ spades; forcing for one round                          |
     | 1NT   | 12-14; without four spades and four hearts                     |
     | 2♣    | 12-17; five clubs without four spades                          |
-    | 2♦    | Fourth suit forcing (18+ with heart fit)                       |
+    | 2♦    | Odwrotka (see "Rebid 2♦ (Odwrotka)" for details)                 |
     | 2♥    | 12-14; four hearts                                             |
     | 2♠    | 18+; 6+ good spades                                            |
     | 2NT   | 18+; without three hearts and four spades                      |
@@ -321,10 +321,11 @@
     - **Meaning**: 7+ points, 4+ spades (similar to 1♥ response).
     - **Differences from 1♥**:
       - After 1♣ - 1♠ - 2♣ (12-17; 5+ clubs):
-        | Responder’s Bid | Meaning                                  |
-        | --------------- | ---------------------------------------- |
-        | 2♦              | Artificial, forcing, without four hearts |
-        | 2♥              | 10+; 5+ spades, 4+ hearts                |
+
+        | Responder’s Bid | Meaning                                                |
+        | --------------- | ------------------------------------------------------ |
+        | 2♦              | Artificial, forcing for one round, without four hearts |
+        | 2♥              | 10+; 5+ spades, 4+ hearts                              |
 
     #### After 1♣ - 1♠ - 2♣ - 2♦ (Artificial, Forcing)
     | Opener’s Rebid | Meaning                    |
@@ -346,7 +347,7 @@
     | --------------- | -------------------- |
     | 3NT             | Asking for shortness |
     | 4♣/4♦/4♥        | Cue bids             |
-
+    
 ??? note "Response 1NT"
     ### Response 1NT
 

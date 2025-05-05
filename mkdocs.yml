@@ -69,3 +69,4 @@ nav:
   - Carding Agreements: carding-agreements.md
 extra_css:
   - css/custom.css
+plugins: []
