@@ -48,7 +48,7 @@ The 1♣ opening has three meanings:
     | 1♠             | 12+; natural, forcing, no 3 hearts |
     | 1NT            | 12-14; no 3 hearts                 |
     | 2♣             | 12-17; 5+ clubs, no 3 hearts       |
-    | 2♦             | Odwrotka                           |
+    | 2♦             | [Odwrotka](../conventions/odwrotka.md)            |
     | 2♥             | 12-14; exactly 4 hearts            |
     | 3♥             | 15-17; exactly 4 hearts            |
 
@@ -98,7 +98,7 @@ The 1♣ opening has three meanings:
     | Double         | 12-17; 3 hearts                                |
     | 1NT            | 12-14; good spade stopper                      |
     | 2♣             | 12+; natural                                   |
-    | 2♦             | Odwrotka                                       |
+    | 2♦             | [Odwrotka](../conventions/odwrotka.md)                        |
     | 2♥             | 12-14; four hearts                             |
     | 2♠             | 18+; asking for spade stopper, no three hearts |
     | 2NT            | 18+; natural with spade stopper                |
@@ -126,9 +126,3 @@ The 1♣ opening has three meanings:
     | -------------- | ------------------------------------------ |
     | Double         | 18+; no spade support specified            |
     | 4♥             | 18+; Splinter with four-card spade support |
-
-    #### Odwrotka in Competitive Auctions
-    - After a double: 2♦ remains odwrotka (e.g., 1♣ - Dbl - 1♥ - Pass - 2♦).
-    - After intervention and a major suit shown by transfer or double: 2♦ is odwrotka (e.g., 1♣ - 1♦ - Dbl - Pass - 2♦).
-    - Defensively after opponent’s 1♣ and our double: 2♦ is odwrotka (e.g., 1♣ - Dbl - Pass - 1♥ - Pass - 2♦).
-    - To show 18+ with diamonds after a takeout double of 1♣, bid 3♦ or 2NT.

@@ -142,7 +142,7 @@
     | 1♠    | 12+; 4+ spades; forcing for one round                          |
     | 1NT   | 12-14; without four spades and four hearts                     |
     | 2♣    | 12-17; five clubs without four spades                          |
-    | 2♦    | Odwrotka (see "Rebid 2♦ (Odwrotka)" for details)                 |
+    | 2♦    | [Odwrotka](../conventions/odwrotka.md)          |
     | 2♥    | 12-14; four hearts                                             |
     | 2♠    | 18+; 6+ good spades                                            |
     | 2NT   | 18+; without three hearts and four spades                      |
@@ -194,7 +194,7 @@
 
     #### Notes
     - ¹ To avoid elevating the auction if partner wants to play 2♦.
-    - ² With five spades and four hearts, use odwrotka immediately.
+    - ² With five spades and four hearts, use [Odwrotka](../conventions/odwrotka.md) immediately.
 
     #### After 1♣ - 1♥ - 1♠ - 2♣ - 2♦
     | Responder’s Bid | Meaning                                   |
@@ -262,7 +262,7 @@
     | 3♥             | 14-16; 3 hearts¹              |
 
     #### Notes
-    - ¹ With 17 points, natural clubs, and heart support, use odwrotka.
+    - ¹ With 17 points, natural clubs, and heart support, use [Odwrotka](../conventions/odwrotka.md).
 
     #### Rebid 2♥ (12-14; Four Hearts)
     | Responder’s Bid | Meaning                                      |
@@ -313,7 +313,7 @@
     #### Rebid 3NT (7 Solid Clubs, Stopper Outside Hearts)
 
     #### Rebids 3♠/4♦ (15-17; 4 Hearts, Shortness in Bid Suit)
-    - With more strength, use odwrotka first, then a Splinter.
+    - With more strength, use [Odwrotka](../conventions/odwrotka.md) first, then a Splinter.
 
 ??? note "Response 1♠"
     ### Response 1♠
@@ -339,7 +339,7 @@
     | 3♠             | 14-16; 3 spades¹           |
 
     #### Notes
-    - ¹ With 17 points and a three-card fit, use Fourth Suit Forcing.
+    - ¹ With 17 points and a three-card fit, use [Odwrotka](../conventions/odwrotka.md).
     - With 7-9 points, 5 spades, 4 hearts, respond 2♥ directly over 1♣.
 
     #### After 1♣ - 1♠ - 3♠ (12-17; 5+ Clubs, 4 Spades)
@@ -480,54 +480,5 @@
     - **With 15-17 Points**: Open 1NT with six clubs or five clubs and a guard in short suits (even a singleton queen).
     - **With 12-14 Points**: Open 1♣, but don’t show clubs immediately—bid 1NT if possible.
     - **With 17+ Points**:
-      - On five clubs with a fit in partner’s suit, bid odwrotka.
+      - On five clubs with a fit in partner’s suit, bid [Odwrotka](../conventions/odwrotka.md).
       - On six clubs, bid 3♣.
-
-??? note "Rebid 2♦ (Odwrotka)"
-    ### Rebid 2♦ (Odwrotka)
-
-    - **Meaning**: Artificial, after 1♥ or 1♠ response, promises a strong club variant (18+) with at least three-card support in partner’s suit¹.
-    - **Note**: Does not agree partner’s suit; further bidding may find a better trump suit.
-
-    #### Notes
-    - ¹ With an unbalanced hand (five clubs, three cards in partner’s suit), use odwrotka even with 17 HCP.
-    - **Avoid Using Odwrotka**:
-      - With a second five-card major (complicates agreeing the second major).
-      - With 5-4-3-1 shape (five-card minor, four cards in the other major, three in partner’s suit)—bid naturally.
-
-    #### Responses to Odwrotka (1♣ - 1♥/1♠ - 2♦)
-    - **Weak Hand**: Within 7+ points, not encouraging for slam.
-    - **Strong Hand**: Would open at the one level, or 9-11 with a high-quality major and honors in long suits.
-
-    | Responder’s Bid | Meaning           |
-    | --------------- | ----------------- |
-    | 2♥              | Weak with four    |
-    | 2♠              | Strong with four  |
-    | 2NT             | Weak with five    |
-    | 3♣              | Strong with five  |
-    | 3♦              | Weak with six     |
-    | 3♥              | Strong with six   |
-    | 3♠              | Weak with seven   |
-    | 3NT             | Strong with seven |
-
-    #### Further Bidding after 1♣ - 1♥ - 2♦ - 2♥ (Weak with Four)
-    | Opener’s Rebid | Meaning                                  |
-    | -------------- | ---------------------------------------- |
-    | 2♠             | Natural, four spades with three hearts   |
-    | 2NT            | "Tell me more"                           |
-    | 3♣/3♦          | Bid five-card suit with three hearts     |
-    | 3♥             | Strong heart raise with at least four    |
-    | 3♠/4♣/4♦       | 18+; Splinters with at least four hearts |
-
-    #### After 1♣ - 1♥ - 2♦ - 2♥ - 2NT ("Tell Me More")
-    | Responder’s Bid | Meaning                                 |
-    | --------------- | --------------------------------------- |
-    | 3♣/3♦           | Five-card suit shown                    |
-    | 3♥              | Both minors four cards                  |
-    | 3♠              | Four spades                             |
-    | 3NT             | Balanced hand                           |
-    | 4♣/4♦           | Very good six-card suit in the bid suit |
-
-    #### Notes
-    - After "strong with four" (2♠), 3♣/3♦ can show a four-card suit.
-    - After five or six cards, the suit is agreed, and other suit bids are cue bids.
