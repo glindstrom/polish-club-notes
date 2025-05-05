@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write       # Ändrat från read till write
   pages: write
   id-token: write
 
@@ -32,7 +32,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install mkdocs mkdocs-material pymdown-extensions
 
-      - name: Debug site directory
+      - name: Build MkDocs site
         run: |
           mkdocs build
           touch ./site/.nojekyll
@@ -45,6 +45,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: './site'
+          name: github-pages  # Viktigt för att koppla till deploy-steget
 
   deploy:
     environment:
