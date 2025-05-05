@@ -6,7 +6,7 @@ Welcome to the Polish Club bidding system documentation. This project provides d
 - [Openings](openings/openings.md)
 - [Competitive Bidding in Defence](competitive-bidding/overview.md)
 - [Slam Bidding](slam-bidding.md)
-- [Conventions](conventions.md)
+- [Conventions](conventions/overview.md)
 - [Hand Evaluation](hand-evaluation.md)
 - [Competitive Bidding](competitive-bidding.md)
 - [Carding Agreements](carding-agreements.md)
