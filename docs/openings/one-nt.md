@@ -18,8 +18,8 @@
     | 3♦       | 7-9 HCP, invitational, 6♦ |
     | 3♥       | 9+ HCP, 5-4 minors, ♥ shortness, game forcing |
     | 3♠       | 9+ HCP, 5-4 minors, ♠ shortness, game forcing |
-    | 4♦       | “Big” transfer to ♥, 5+♥ |
-    | 4♥       | “Big” transfer to ♠, 5+♠ |
+    | 4♦       | “Big” transfer to ♥ |
+    | 4♥       | “Big” transfer to ♠ |
 
     #### Note
 
@@ -165,4 +165,5 @@
     | 4♣             | Strong support for ♣ |
     | 4♦             | Strong support for ♦ |
     | 4♥             | 4 good ♥, suggests 7-card trump suit |
+    | 4♠             | 4-card fits in both minors, slam interest |
     | 4NT            | 4-card fits in both minors, no slam interest, forcing |

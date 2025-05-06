@@ -64,8 +64,11 @@ nav:
       - Two-Suited Bids: after-intervention/two-suited-bids.md
   - Conventions:
       - Overview: conventions/overview.md
-      - Forcing 2NT: conventions/forcing-2nt.md
       - Drury: conventions/drury.md
+      - Fourth Suit Forcing: conventions/fourth-suit.md
+      - Jump in Opponent's Suit: conventions/jump-to-opponents-suit.md
+      - Odwrotka: conventions/odwrotka.md
+      - Third Suit Forcing: conventions/third-suit.md
   - Slam Bidding: slam-bidding.md
   - Hand Evaluation: hand-evaluation.md
   - Carding Agreements: carding-agreements.md

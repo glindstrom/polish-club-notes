@@ -94,7 +94,7 @@
     | Responder’s Bid | Description |
     |-----------------|-------------|
     | 2♠              | 9-11 HCP, 5+♠, encouraging |
-    | 2NT             | 9-12 HCP, forcing query about distribution |
+    | 2NT             | forcing query about distribution |
     | 3♠              | 12+ HCP, 6+♠, forcing |
 
 ??? note "Opener Rebids after 1♥ - 1♠ - 2♥ - 2NT (Forcing Query)"
