@@ -69,7 +69,13 @@ nav:
       - Jump in Opponent's Suit: conventions/jump-to-opponents-suit.md
       - Odwrotka: conventions/odwrotka.md
       - Third Suit Forcing: conventions/third-suit.md
-  - Slam Bidding: slam-bidding.md
+  - Slam Bidding: 
+      - Overview: slam-bidding/overview.md
+      - Keycard Blackwood: slam-bidding/blackwood.md
+      - Grand Slam Force: slam-bidding/grand-slam-force.md
+      - Cue Bidding: slam-bidding/cue-bidding.md
+      - Pick a Slam: slam-bidding/pick-a-slam.md
+      - 5 in Agreed Major: slam-bidding/five-level-major.md
   - Hand Evaluation: hand-evaluation.md
   - Carding Agreements: carding-agreements.md
 extra_css:
