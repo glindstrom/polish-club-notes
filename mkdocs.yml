@@ -31,7 +31,7 @@ plugins:
 nav:
   - Home: index.md
   - Openings:
-      - Opening Bids: openings/openings.md
+      - Opening Bids: openings/overview.md
       - 1♣ Opening: openings/one-club.md
       - 1♣ Interference: openings/one-club-interference.md
       - 1♦ Opening: openings/one-diamond.md
@@ -41,7 +41,7 @@ nav:
       - 1♥/1♠ Interference: openings/one-heart-one-spade-interference.md
       - 1NT Opening: openings/one-nt.md
       - 1NT Interference: openings/one-nt-interference.md
-      - Preemptive Openings Overview: openings/preemptive-openings-overview.md
+      - Preemptive Openings Overview: openings/preemptive-openings.md
       - 2♣ Opening: openings/two-club.md
       - 2♣ Interference: openings/two-club-interference.md
       - 2♦ Opening: openings/two-diamond.md
