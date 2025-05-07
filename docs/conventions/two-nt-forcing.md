@@ -2,15 +2,15 @@
 
 ### Description
 
-Responder’s 2NT bid is forcing, asking opener to further describe their hand.
+Responder’s 2NT bid after opener’s rebid is forcing, asking opener to further describe their hand, typically to explore game or slam potential. It is used in specific sequences to clarify distribution or strength.
 
-### Sequences Where 2NT is Forcing
-- 1♣ - 1♥ - 2♥ - 2NT [see details](../openings/one-club.md#rebid-2-12-14-four-hearts)
-- 1♣ - 1♠ - 2♠ - 2NT [see details](../openings/one-club.md#responder-rebids-after-1-1-2)
-- 1♦ - 1♥ - 2♥ - 2NT [see details](../openings/one-diamond.md#responder-rebids-after-1-1-2)
-- 1♦ - 1♠ - 2♠ - 2NT [see details](../openings/one-diamond.md#responder-rebids-after-1-1-2)
-- 1♦ - 1♥ - 2♠ - 2NT [see opener’s rebids](../openings/one-diamond.md#after-2nt-asking-about-distribution)
-- 1♦ - 1♠ - 2♥ - 2NT [see opener’s rebids](../openings/one-diamond.md#after-2nt-asking-about-distribution)
-- 1♦ - 2♦ - 2♥ - 2NT [see details](../openings/one-diamond.md#responder-rebids-after-1-2-2-or-1-2-2)
-- 1♦ - 2♦ - 2♠ - 2NT [see details](../openings/one-diamond.md#responder-rebids-after-1-2-2-or-1-2-2)
-- 1♥ - 1♠ - 2♠ - 2NT [see opener’s rebids](../openings/one-heart.md#after-2nt-forcing-query)
+### Sequences Where Two NT Forcing Applies
+- **1♣ - 1♥ - 2♥ - 2NT** [see details](../openings/one-club.md#responder-rebids-1c-1h-2h)
+- **1♣ - 1♠ - 2♠ - 2NT** [see details](../openings/one-club.md#responder-rebids-1c-1s-2s)
+- **1♣ - 1♥ - 2♠ - 2NT** [see details](../openings/one-club.md#responder-rebids-1c-1h-2s)
+- **1♣ - 1♠ - 2♥ - 2NT** [see details](../openings/one-club.md#responder-rebids-1c-1s-2h)
+- **1♦ - 2♦ - 2♥/2♠ - 2NT** [see details](../openings/one-diamond.md#responder-rebids-1d-2d-2h-or-1d-2d-2s)
+
+### Notes
+- Used to pinpoint opener’s distribution or strength for optimal contract placement.
+- Opener’s response typically clarifies their suit lengths or high-card strength.

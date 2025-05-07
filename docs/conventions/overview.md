@@ -5,6 +5,7 @@
 Conventions in the Polish Club system enhance bidding precision for game and slam contracts. They include specialized bids to explore fits, strength, and stoppers, used in various bidding contexts.
 
 ### Sections
+- [Checkback](checkback.md): Responder’s 2♣ (10-12 HCP, weak) or 2♦ (13+ HCP, strong) after opener’s 1♠ or 1NT rebid following a 1♥ response, exploring fit or strength.
 - [Drury](drury.md): Used by a passed hand after a 1♥/1♠ opening to show a fit and 10+ points.
 - [Fourth Suit](fourth-suit.md): Artificial and forcing bid of the fourth suit to explore the best contract, verify NT stoppers, or investigate slam.
 - [Odwrotka](odwrotka.md): Artificial bid by opener after a 1♣ opening and 1♥/1♠ response, showing 18+ with at least three-card support for partner’s suit.
