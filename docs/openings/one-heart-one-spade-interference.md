@@ -5,14 +5,14 @@
 
     | Response | Description |
     |----------|-------------|
-    | XX       | 10+ HCP, balanced hand |
-    | 1♠       | 5-10 HCP, 5+♠, non-forcing |
+    | XX       | 10+; balanced hand |
+    | 1♠       | 5-10; 5+♠, non-forcing |
     | 1NT      | Transfer to ♣, forcing |
     | 2♣       | Transfer to ♦, forcing |
     | 2♦       | Transfer to ♥, weak raise, forcing |
-    | 2♥       | 7-10 HCP, standard raise with ♥ fit |
-    | 3♣       | 8-11 HCP, 5+♣, 3-card ♥ fit |
-    | 3♦       | 8-11 HCP, 5+♦, 3-card ♥ fit |
+    | 2♥       | 7-10; standard raise with ♥ fit |
+    | 3♣       | 8-11; 5+♣, 3-card ♥ fit |
+    | 3♦       | 8-11; 5+♦, 3-card ♥ fit |
 
     #### Note
 
@@ -23,14 +23,14 @@
 
     | Response | Description |
     |----------|-------------|
-    | XX       | 10+ HCP, balanced hand |
+    | XX       | 10+; balanced hand |
     | 1NT      | Transfer to ♣, forcing |
     | 2♣       | Transfer to ♦, forcing |
     | 2♦       | Transfer to ♥, forcing |
-    | 2♥       | 3-6 HCP, weak raise with ♠ fit |
-    | 2♠       | 7-10 HCP, standard raise with ♠ fit |
-    | 3♣       | 8-11 HCP, 5+♣, 3-card ♠ fit |
-    | 3♦       | 8-11 HCP, 5+♦, 3-card ♠ fit |
+    | 2♥       | 3-6; weak raise with ♠ fit |
+    | 2♠       | 7-10; standard raise with ♠ fit |
+    | 3♣       | 8-11; 5+♣, 3-card ♠ fit |
+    | 3♦       | 8-11; 5+♦, 3-card ♠ fit |
 
     #### Note
 

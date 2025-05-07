@@ -5,14 +5,14 @@
 
     | Response | Description                                      |
     | -------- | ------------------------------------------------ |
-    | XX       | 10+ HCP, denies diamond support                  |
-    | 1♥       | 5-9 HCP, natural, non-forcing, good suit quality |
-    | 1♠       | 5-9 HCP, natural, non-forcing, good suit quality |
-    | 2♣       | 5-9 HCP, natural, non-forcing, good suit quality |
-    | 2♦       | 5-9 HCP, weak raise, 3-card diamond support      |
-    | 2♥       | 5-9 HCP, preemptive, 6+♥                         |
-    | 2♠       | 5-9 HCP, preemptive, 6+♠                         |
-    | 3♣       | 5-9 HCP, preemptive, 6+♣                         |
+    | XX       | 10+; denies diamond support                  |
+    | 1♥       | 5-9; natural, non-forcing, good suit quality |
+    | 1♠       | 5-9; natural, non-forcing, good suit quality |
+    | 2♣       | 5-9; natural, non-forcing, good suit quality |
+    | 2♦       | 5-9; weak raise, 3-card diamond support      |
+    | 2♥       | 5-9; preemptive, 6+♥                         |
+    | 2♠       | 5-9; preemptive, 6+♠                         |
+    | 3♣       | 5-9; preemptive, 6+♣                         |
 
     #### Note
 
@@ -23,16 +23,16 @@
 
     | Response | Description                                         |
     | -------- | --------------------------------------------------- |
-    | X        | 7+ HCP, 4+♠                                         |
-    | 1♠       | 7+ HCP, transfer to 1NT, does not promise ♥ stopper |
-    | 1NT      | 7-10 HCP, natural, implies ♥ stopper                |
-    | 2♣       | 10+ HCP, natural, forcing, denies 4♠                |
-    | 2♦       | 6-9 HCP, natural, non-forcing                       |
-    | 2♥       | 10+ HCP, diamond support                            |
-    | 2♠       | 5-9 HCP, 6+♠                                        |
-    | 2NT      | 10-12 HCP, natural, invitational                    |
-    | 3♣       | 5-9 HCP, 6+♣                                        |
-    | 3♦       | 5-9 HCP, 6+♦                                        |
+    | X        | 7+; 4+♠                                         |
+    | 1♠       | 7+; transfer to 1NT, does not promise ♥ stopper |
+    | 1NT      | 7-10; natural, implies ♥ stopper                |
+    | 2♣       | 10+; natural, forcing, denies 4♠                |
+    | 2♦       | 6-9; natural, non-forcing                       |
+    | 2♥       | 10+; diamond support                            |
+    | 2♠       | 5-9; 6+♠                                        |
+    | 2NT      | 10-12; natural, invitational                    |
+    | 3♣       | 5-9; 6+♣                                        |
+    | 3♦       | 5-9; 6+♦                                        |
 
     #### Note
 
@@ -43,25 +43,25 @@
 
     | Opener’s Rebid | Description                                                       |
     | -------------- | ----------------------------------------------------------------- |
-    | 1♠             | 12-14 HCP, 3♠                                                     |
-    | 1NT            | 12-14 HCP, no 3♠, does not promise ♥ stopper                      |
-    | 2♣             | 12-14 HCP, 4+♣, no 3♠                                             |
-    | 2♦             | 12-14 HCP, 6+♦, no 3♠                                             |
-    | 2♥             | 15-17 HCP, 3♠                                                     |
-    | 2♠             | 12-14 HCP, 4♠                                                     |
-    | 3♠             | 12-17 HCP, 4♠, 17-19 HLDF or 15-17 with 5-4-2-2 or 12+ unbalanced |
+    | 1♠             | 12-14; 3♠                                                     |
+    | 1NT            | 12-14; no 3♠, does not promise ♥ stopper                      |
+    | 2♣             | 12-14; 4+♣, no 3♠                                             |
+    | 2♦             | 12-14; 6+♦, no 3♠                                             |
+    | 2♥             | 15-17; 3♠                                                     |
+    | 2♠             | 12-14; 4♠                                                     |
+    | 3♠             | 12-17; 4♠, 17-19 HLDF or 15-17 with 5-4-2-2 or 12+ unbalanced |
 
 ??? note "Opener Rebids after 1♦ - (1♥) - 1♠ - (Pass)"
     ### Opener Rebids after 1♦ - (1♥) - 1♠ - (Pass)
 
     | Opener’s Rebid | Description                                     |
     | -------------- | ----------------------------------------------- |
-    | 1NT            | 12-14 HCP, balanced, does not promise ♥ stopper |
-    | 2♣             | 12-17 HCP, 4+♣                                  |
-    | 2♦             | 12-14 HCP, 6+♦                                  |
-    | 2NT            | 15-17 HCP, 6+♦, ♥ stopper                       |
-    | 3♣             | 15-17 HCP, 5+♣                                  |
-    | 3♦             | 15-17 HCP, 6+♦, no ♥ stopper                    |
+    | 1NT            | 12-14; balanced, does not promise ♥ stopper |
+    | 2♣             | 12-17; 4+♣                                  |
+    | 2♦             | 12-14; 6+♦                                  |
+    | 2NT            | 15-17; 6+♦, ♥ stopper                       |
+    | 3♣             | 15-17; 5+♣                                  |
+    | 3♦             | 15-17; 6+♦, no ♥ stopper                    |
 
     #### Note
 
@@ -72,16 +72,16 @@
 
     | Response | Description                             |
     | -------- | --------------------------------------- |
-    | X        | 7+ HCP, 4+♥ or 6-9 HCP with 5♥          |
-    | 1NT      | 7-10 HCP, natural                       |
-    | 2♣       | 10+ HCP, natural, forcing, denies 4♥    |
-    | 2♦       | 6-9 HCP, natural, non-forcing           |
-    | 2♥       | 10+ HCP, 5+♥, forcing                   |
-    | 2♠       | 10+ HCP, ♠ stopper, asks about ♥ length |
-    | 2NT      | 10-12 HCP, natural, invitational        |
-    | 3♣       | 5-9 HCP, 6+♣                            |
-    | 3♦       | 5-9 HCP, 4+♦                            |
-    | 3♥       | 5-9 HCP, 6+♥                            |
+    | X        | 7+; 4+♥ or 6-9 HCP with 5♥          |
+    | 1NT      | 7-10; natural                       |
+    | 2♣       | 10+; natural, forcing, denies 4♥    |
+    | 2♦       | 6-9; natural, non-forcing           |
+    | 2♥       | 10+; 5+♥, forcing                   |
+    | 2♠       | 10+; ♠ stopper, asks about ♥ length |
+    | 2NT      | 10-12; natural, invitational        |
+    | 3♣       | 5-9; 6+♣                            |
+    | 3♦       | 5-9; 4+♦                            |
+    | 3♥       | 5-9; 6+♥                            |
 
     #### Note
 
@@ -92,34 +92,34 @@
 
     | Opener’s Rebid | Description                                        |
     | -------------- | -------------------------------------------------- |
-    | 2♠             | 12-17 HCP, no extra values ("nothing more to say") |
-    | 2NT            | 12-13 HCP, ♠ stopper                               |
-    | 3♣             | 12-17 HCP, natural, forcing                        |
-    | 3♦             | 12-14 HCP, 6+♦                                     |
-    | 3♥             | 12-13 HCP, ♥ support, non-forcing                  |
-    | 3NT            | 14-17 HCP, ♠ stopper                               |
-    | 4♥             | 14-17 HCP, ♥ support                               |
+    | 2NT            | 12-13; ♠ stopper                               |
+    | 3♣             | 12-17; natural, forcing                        |
+    | 3♦             | 12-14; 6+♦                                     |
+    | 3♥             | 12-13; ♥ support, non-forcing                  |
+    | 3NT            | 14-17; ♠ stopper                               |
+    | 4♥             | 14-17; ♥ support                               |
+      | 2♠             | any other hand ("nothing else to say") |
 
 ??? note "Responder Rebids after 1♦ - (1♠) - 2♥ - (Pass) - 2♠ - (Pass)"
     ### Responder Rebids after 1♦ - (1♠) - 2♥ - (Pass) - 2♠ - (Pass)
 
     | Responder’s Bid | Description                        |
     | --------------- | ---------------------------------- |
-    | 2NT             | 10-11 HCP, invitational, ♠ stopper |
+    | 2NT             | 10-11; invitational, ♠ stopper |
     | 3♣              | Natural, forcing                   |
-    | 3♦              | 10-11 HCP, non-forcing             |
-    | 3♥              | 10-11 HCP, 6+♥, non-forcing        |
+    | 3♦              | 10-11; non-forcing             |
+    | 3♥              | 10-11, 6+♥, non-forcing        |
 
 ??? note "Responder Responses after 1♦ - (2♣)"
     ### Responder Responses after 1♦ - (2♣)
 
     | Response | Description                    |
     | -------- | ------------------------------ |
-    | X        | 7-9 HCP, 5-card major possible |
-    | 2♥       | 10+ HCP, 5+♥, forcing          |
-    | 2♠       | 10+ HCP, 5+♠, forcing          |
-    | 3♥       | 6-9 HCP, 6+♥, non-forcing      |
-    | 3♠       | 6-9 HCP, 6+♠, non-forcing      |
+    | X        | 7-9; 5-card major possible |
+    | 2♥       | 10+; 5+♥, forcing          |
+    | 2♠       | 10+; 5+♠, forcing          |
+    | 3♥       | 6-9; 6+♥, non-forcing      |
+    | 3♠       | 6-9; 6+♠, non-forcing      |
 
     #### Note
 
@@ -130,8 +130,8 @@
 
     | Responder’s Bid | Description              |
     | --------------- | ------------------------ |
-    | 2♥              | 7-9 HCP, 5♥, non-forcing |
-    | 2♠              | 7-9 HCP, 5♠, non-forcing |
+    | 2♥              | 7-9; 5♥, non-forcing |
+    | 2♠              | 7-9; 5♠, non-forcing |
 
 ??? note "After Opponent’s 1NT Overcall"
     ### After Opponent’s 1NT Overcall
