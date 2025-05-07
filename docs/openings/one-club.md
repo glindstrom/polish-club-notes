@@ -142,7 +142,7 @@
     | 1♠    | 12+; 4+ spades; forcing for one round                          |
     | 1NT   | 12-14; without four spades and four hearts                     |
     | 2♣    | 12-17; five clubs without four spades                          |
-    | 2♦    | [Odwrotka](../conventions/odwrotka.md)          |
+    | 2♦    | [Odwrotka](../conventions/odwrotka.md)                         |
     | 2♥    | 12-14; four hearts                                             |
     | 2♠    | 18+; 6+ good spades                                            |
     | 2NT   | 18+; without three hearts and four spades                      |
@@ -265,13 +265,13 @@
     - ¹ With 17 points, natural clubs, and heart support, use [Odwrotka](../conventions/odwrotka.md).
 
     #### Rebid 2♥ (12-14; Four Hearts)
-    | Responder’s Bid | Meaning                                      |
-    | --------------- | -------------------------------------------- |
-    | 2♠/3♣/3♦        | Asks about support in the bid suit           |
-    | 2NT             | Forcing inquiry                              |
-    | 3♥              | Invites to 4♥                                |
-    | 3NT             | Suggests contract (4-3-3-3 with four hearts) |
-    | 3♠/4♣/4♦        | Splinters                                    |
+    | Responder’s Bid | Meaning                                                                  |
+    | --------------- | ------------------------------------------------------------------------ |
+    | 2♠/3♣/3♦        | Asks about support in the bid suit                                       |
+    | 2NT             | Forcing inquiry (see [Two NT Forcing](../conventions/two-nt-forcing.md)) |
+    | 3♥              | Invites to 4♥                                                            |
+    | 3NT             | Suggests contract (4-3-3-3 with four hearts)                             |
+    | 3♠/4♣/4♦        | Splinters                                                                |
 
     #### Notes
     - After asking about support, opener responds positively (4♥) or negatively (3♥) based on honors or ruffing values in responder’s second suit.
@@ -347,7 +347,13 @@
     | --------------- | -------------------- |
     | 3NT             | Asking for shortness |
     | 4♣/4♦/4♥        | Cue bids             |
-    
+
+??? note "Responder Rebids after 1♣ - 1♠ - 2♠"
+    ### Responder Rebids after 1♣ - 1♠ - 2♠
+    | Responder’s Bid | Description                                                                                 |
+    | --------------- | ------------------------------------------------------------------------------------------- |
+    | 2NT             | Forcing, asking about distribution (see [Two NT Forcing](../conventions/two-nt-forcing.md)) |
+
 ??? note "Response 1NT"
     ### Response 1NT
 

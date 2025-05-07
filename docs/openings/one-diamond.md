@@ -46,6 +46,12 @@
     | 4♣             | 15-17 HCP, 4♥, splinter                     |
     | 3NT            | 14-17 HCP, solid 7♦, AKQ                    |
 
+??? note "Responder Rebids after 1♦ - 1♥ - 2♥"
+    ### Responder Rebids after 1♦ - 1♥ - 2♥
+    | Responder’s Bid | Description                                                                                 |
+    | --------------- | ------------------------------------------------------------------------------------------- |
+    | 2NT             | Forcing, asking about distribution (see [Two NT Forcing](../conventions/two-nt-forcing.md)) |
+
 ??? note "Responder Rebids after 1♦ - 1♥ - 1♠"
     ### Responder Rebids after 1♦ - 1♥ - 1♠
 
@@ -137,9 +143,9 @@
 ??? note "Responder Rebids after 1♦ - 1♥ - 2♠"
     ### Responder Rebids after 1♦ - 1♥ - 2♠
 
-    | Responder’s Bid | Description                        |
-    | --------------- | ---------------------------------- |
-    | 2NT             | 10+ HCP, asking about distribution |
+    | Responder’s Bid | Description                                                                                 |
+    | --------------- | ------------------------------------------------------------------------------------------- |
+    | 2NT             | 10+ HCP, asking about distribution (see [Two NT Forcing](../conventions/two-nt-forcing.md)) |
 
 ??? note "Opener Rebids after 1♦ - 1♥ - 2♠ - 2NT (Asking about Distribution)"
     ### Opener Rebids after 1♦ - 1♥ - 2♠ - 2NT (Asking about Distribution)
@@ -182,6 +188,18 @@
 
     - Responder’s 2♦ shows 10+ HCP and a 4-card diamond fit. Opener shows distribution; responder shows stoppers. Responder’s 3♦ in the next round shows the bottom of their range (10-11 HCP) and is non-forcing; other bids (including 2NT) are forcing.
 
+??? note "Responder Rebids after 1♦ - 2♦ - 2♥"
+    ### Responder Rebids after 1♦ - 2♦ - 2♥
+    | Responder’s Bid | Description                                                                                 |
+    | --------------- | ------------------------------------------------------------------------------------------- |
+    | 2NT             | Forcing, asking about distribution (see [Two NT Forcing](../conventions/two-nt-forcing.md)) |
+
+??? note "Responder Rebids after 1♦ - 2♦ - 2♠"
+    ### Responder Rebids after 1♦ - 2♦ - 2♠
+    | Responder’s Bid | Description                                                                                 |
+    | --------------- | ------------------------------------------------------------------------------------------- |
+    | 2NT             | Forcing, asking about distribution (see [Two NT Forcing](../conventions/two-nt-forcing.md)) |
+
 ??? note "Opener Rebids after 1♦ - 2♥"
     ### Opener Rebids after 1♦ - 2♥
 
@@ -221,6 +239,12 @@
     | 4♣             | 15-17 HCP, 4♠, splinter               |
     | 3NT            | 14-17 HCP, solid 7♦, AKQ              |
 
+??? note "Responder Rebids after 1♦ - 1♠ - 2♠"
+    ### Responder Rebids after 1♦ - 1♠ - 2♠
+    | Responder’s Bid | Description                                                                                 |
+    | --------------- | ------------------------------------------------------------------------------------------- |
+    | 2NT             | Forcing, asking about distribution (see [Two NT Forcing](../conventions/two-nt-forcing.md)) |
+
 ??? note "Responder Rebids after 1♦ - 1♠ - 1NT"
     ### Responder Rebids after 1♦ - 1♠ - 1NT
 
@@ -255,10 +279,10 @@
 ??? note "Responder Rebids after 1♦ - 1♠ - 2♥"
     ### Responder Rebids after 1♦ - 1♠ - 2♥
 
-    | Responder’s Bid | Description                        |
-    | --------------- | ---------------------------------- |
-    | 2NT             | 10+ HCP, asking about distribution |
-    | 3♥              | 10+ HCP, 5+♠, 4+♥                  |
+    | Responder’s Bid | Description                                                                                 |
+    | --------------- | ------------------------------------------------------------------------------------------- |
+    | 2NT             | 10+ HCP, asking about distribution (see [Two NT Forcing](../conventions/two-nt-forcing.md)) |
+    | 3♥              | 10+ HCP, 5+♠, 4+♥                                                                           |
 
 ??? note "Opener Rebids after 1♦ - 1♠ - 2♥ - 2NT (Asking about Distribution)"
     ### Opener Rebids after 1♦ - 1♠ - 2♥ - 2NT (Asking about Distribution)
