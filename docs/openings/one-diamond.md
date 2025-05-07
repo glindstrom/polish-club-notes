@@ -46,7 +46,7 @@
         | 2NT            | 15-17; 6♦, no 3-card support, shapeless |
         | 3♣             | 15-17; 5+♣, 5+♦                         |
         | 3♦             | 15-17; 6+♦, no 3-card support, colored  |
-        | 3♥             | 12-17; 5+♦, 4♥, 17-19 HLDF              |
+        | 3♥             | 12-17; 5+♦, 4♥, unbalanced, 17-19 HLDF  |
         | 3♠             | 15-17; 4♥, splinter                     |
         | 4♣             | 15-17; 4♥, splinter                     |
         | 3NT            | 14-17; solid 7♦, AKQ                    |
@@ -162,6 +162,17 @@
             | 3♦           | 15-17; 6+♦, 3♥    |
             | 3♥           | 15-17; 5♦, 3♠, 3♥ |
 
+    ??? note "Responder Rebids after 1♦ - 1♥ - 3♥"
+        <a id="responder-rebids-1d-1h-3h"></a>
+        #### Responder Rebids after 1♦ - 1♥ - 3♥
+        After 1♦ - 1♥ - 3♥, opener shows 12-17 HCP, 4 hearts, 5+ diamonds, and an unbalanced hand (17-19 HLDF).
+
+        | Responder’s Bid | Meaning                                           |
+        | --------------- | ------------------------------------------------- |
+        | 3♠              | [Shortness ask](../conventions/short-suit-ask.md) |
+        | 3NT             | Cue bid (spades)                                  |
+        | 4♣/4♦           | Cue bid in the bid suit                           |
+
 ??? note "Response 1♠"
     ### Response 1♠
 
@@ -250,6 +261,16 @@
             | 3♠           | 15-17; 6+♦, 3♠ (playing in spades) |
             | Other        | 15-17; 5+♦, 4♥ (playing in hearts) |
 
+    ??? note "Responder Rebids after 1♦ - 1♠ - 3♠"
+        <a id="responder-rebids-1d-1s-3s"></a>
+        #### Responder Rebids after 1♦ - 1♠ - 3♠
+        After 1♦ - 1♠ - 3♠, opener shows 12-17 HCP, 4 spades, 5+ diamonds, and an unbalanced hand.
+
+        | Responder’s Bid | Meaning                                           |
+        | --------------- | ------------------------------------------------- |
+        | 3NT             | [Shortness ask](../conventions/short-suit-ask.md) |
+        | 4♣/4♦/4♥        | Cue bid in the bid suit                           |
+        
 ??? note "Response 1NT"
     ### Response 1NT
 
@@ -289,6 +310,8 @@
 
     - **Meaning**: 10+; 4+♦.
 
+    Responder’s 2♦ shows 10+ HCP and a 4-card diamond fit. Opener shows distribution; responder shows stoppers. Responder’s 3♦ in the next round shows the bottom of their range (10-11 HCP) and is non-forcing; other bids (including 2NT) are forcing.
+
     ??? note "Opener Rebids"
         #### Opener Rebids
 
@@ -302,11 +325,6 @@
         | 3♥             | 15-17; splinter, shortness in ♥        |
         | 3♠             | 15-17; splinter, shortness in ♠        |
         | 4♣             | 15-17; splinter, shortness in ♣        |
-
-    ??? note "Notes"
-        #### Notes
-
-        - Responder’s 2♦ shows 10+ HCP and a 4-card diamond fit. Opener shows distribution; responder shows stoppers. Responder’s 3♦ in the next round shows the bottom of their range (10-11 HCP) and is non-forcing; other bids (including 2NT) are forcing.
 
     ??? note "Responder Rebids after 1♦ - 2♦ - 2♥ or 1♦ - 2♦ - 2♠"
         #### Responder Rebids after 1♦ - 2♦ - 2♥ or 1♦ - 2♦ - 2♠
