@@ -11,10 +11,14 @@ The 2♦ opening (Multi) shows 6 cards in hearts or spades, at a strength below 
     ### After Opponent's Double
 
     #### Sequence: 2♦ - (Double) - ?
-    | Response | Meaning                |
-    | -------- | ---------------------- |
-    | Pass     | I can play in diamonds |
-    | Other    | Same as without double |
+    | Response | Meaning                                          |
+    | -------- | ------------------------------------------------ |
+    | Pass     | I can play in diamonds                           |
+    | XX       | OPTIONAL: "Bid 2♥ and I will place the contract" |
+    | Other    | Same as without double                           |
+
+    #### Note
+    - The redouble (XX) meaning "bid 2♥ and I will place the contract" is a suggested approach but not yet agreed with partner.
 
 ??? note "After Opponent's Suit Overcall"
     ### After Opponent's Suit Overcall
