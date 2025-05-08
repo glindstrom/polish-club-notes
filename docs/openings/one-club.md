@@ -1,8 +1,7 @@
 # 1♣ Opening
 
 ### Description
-- 12-22 HCP.
-- 3+♣; any distribution, denies 5♥, 5♠, or 5♦.
+- 12-14 balanced, or 12+ 5+♣, or 18+ any
 
 ??? note "Responses to 1♣"
     ### Responses to 1♣

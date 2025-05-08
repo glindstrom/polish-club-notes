@@ -1,8 +1,7 @@
 # 1♦ Opening
 
 ### Description
-- 10-17 HCP before vulnerability, 12-17 HCP after vulnerability.
-- 4+♦; denies 5♥ or 5♠.
+- 12-17, 5+♦ or 4-4-4-1 (singleton ♣)
 
 ??? note "Responses to 1♦"
     ### Responses to 1♦
