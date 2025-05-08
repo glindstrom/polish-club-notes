@@ -18,3 +18,15 @@
 | 4♣  | No heart stopper, negative ("pass or correct") |
 | 4♦  | No heart stopper, positive                     |
 | 4♥  | Cue bid, slam interest                         |
+
+    #### After (1♥) – 3♥ – Pass – 4♣ (negative)
+    | Sequence | They | We  | They | We  |
+    | -------- | ---- | --- | ---- | --- |
+    |          | 1♣   | 3♥  | Pass | 4♣  |
+    |          | Pass | ?   |      |     |
+
+    | Bid       | Meaning                              |
+    | --------- | ------------------------------------ |
+    | Pass      | Solid club suit                      |
+    | 4♦        | Solid diamond suit                   |
+    | 4♠ /5♣/5♦ | Strong one-suited hand, game forcing |

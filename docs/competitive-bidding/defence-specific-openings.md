@@ -7,7 +7,10 @@
 - **Strength**: Varies by vulnerability and position; typically 12+ points for constructive bids, 8+ at favorable vulnerability.
 
 ??? note "Defence to Strong 1NT (15–17 or 14–16)"
+    <a id="defence-to-strong-1nt"></a>
     ### Defence to Strong 1NT (15–17 or 14–16)
+
+    - Uses Multi-Landy defence.
 
     | Sequence | They | We  |
     | -------- | ---- | --- |
@@ -50,71 +53,107 @@
 ??? note "Defence to Weak 1NT (13–15 or weaker)"
     ### Defence to Weak 1NT (13–15 or weaker)
 
-    | Sequence | They | We  |
-    | -------- | ---- | --- |
-    |          | 1NT  | ?   |
-
-    | Bid    | Meaning               |
-    | ------ | --------------------- |
-    | Double | 13+, take-out         |
-    | 2♣     | Both majors (5-4+)    |
-    | 2♦     | 6-card major          |
-    | 2♥/2♠  | 5+ suit, 4+ minor     |
-    | 2NT    | Both minors (5-5)     |
-    | 3♣/3♦  | Constructive, 6+ suit |
-    | 3♥/3♠  | Preemptive            |
-
+    - **Meaning**: Double shows 13+, take-out. Overcalls show specific shapes: 2♣ for both majors (5-4+), 2♦ for a 6-card major, 2♥/2♠ for a 5+ suit and 4+ minor, 2NT for both minors (5-5), 3♣/3♦ for a constructive 6+ suit, 3♥/3♠ preemptive.
     - **Strength**: 12+ points (except preemptive bids).
 
-    #### Responses after 1NT – Double
-    | Sequence | They | We     | They | We  |
-    | -------- | ---- | ------ | ---- | --- |
-    |          | 1NT  | Double | Pass | ?   |
+    ??? note "Initial Bids"
+        #### Initial Bids
 
-    | Response    | Meaning                              |
-    | ----------- | ------------------------------------ |
-    | Pass        | 8+, balanced (suggests penalties)    |
-    | 2♣/2♦/2♥/2♠ | 0–7, natural                         |
-    | 2NT         | 8+, transfer to clubs, unbalanced    |
-    | 3♣          | 8+, transfer to diamonds, unbalanced |
-    | 3♥          | 8+, transfer to hearts, unbalanced   |
-    | 3♠          | 8+, transfer to spades, unbalanced   |
+        | Sequence | They | We  |
+        | -------- | ---- | --- |
+        |          | 1NT  | ?   |
 
-    #### After Opponent’s Natural Bid
-    | Sequence | They | We     | They | We  |
-    | -------- | ---- | ------ | ---- | --- |
-    |          | 1NT  | Double | 2♣   | ?   |
+        | Bid    | Meaning               |
+        | ------ | --------------------- |
+        | Double | 13+, take-out         |
+        | 2♣     | Both majors (5-4+)    |
+        | 2♦     | 6-card major          |
+        | 2♥/2♠  | 5+ suit, 4+ minor     |
+        | 2NT    | Both minors (5-5)     |
+        | 3♣/3♦  | Constructive, 6+ suit |
+        | 3♥/3♠  | Preemptive            |
 
-    | Bid       | Meaning                                            |
-    | --------- | -------------------------------------------------- |
-    | Double    | Penalties                                          |
-    | 2♦/2♥/2♠  | Natural, non-forcing                               |
-    | 2NT/3♣/3♥ | 8+, transfers, invitational+                       |
-    | 3♦        | Transfer to opponent’s suit, unbalanced, no hearts |
+    ??? note "Responses after 1NT (Weak) – Double"
+        #### Responses after 1NT (Weak) – Double
 
-    #### After Opponent’s Transfer
-    | Sequence | They | We     | They          | We  |
-    | -------- | ---- | ------ | ------------- | --- |
-    |          | 1NT  | Double | 2♣ (transfer) | ?   |
+        | They       | We           | They | We  |
+        | ---------- | ------------ | ---- | --- |
+        | 1NT (weak) | Double (13+) | Pass | ?   |
 
-    | Bid       | Meaning                      |
-    | --------- | ---------------------------- |
-    | Pass      | Penalty double of hearts     |
-    | Double    | Penalty, shows diamonds      |
-    | 2♦        | Unbalanced, no hearts        |
-    | 2♥        | Natural, non-forcing         |
-    | 2NT/3♣/3♥ | 8+, transfers, invitational+ |
+        | Response    | Meaning                               |
+        | ----------- | ------------------------------------- |
+        | Pass        | 8+, balanced ("let’s double them")    |
+        | 2♣/2♦/2♥/2♠ | 0–7, natural                          |
+        | 2NT         | 8+, transfer to clubs (unbalanced)    |
+        | 3♣          | 8+, transfer to diamonds (unbalanced) |
+        | 3♦          | 8+, transfer to hearts (unbalanced)   |
+        | 3♥          | 8+, transfer to hearts (unbalanced)   |
 
-    #### In Re-opening Position
-    | Sequence | They | We   | They | We  |
-    | -------- | ---- | ---- | ---- | --- |
-    |          | 1NT  | Pass | Pass | ?   |
+    ??? note "After Opponent’s Natural Bid (e.g., 2♣ or 2♥)"
+        #### After Opponent’s Natural Bid (e.g., 2♣ or 2♥)
 
-    | Bid      | Meaning       |
-    | -------- | ------------- |
-    | Double   | 13+, take-out |
-    | 2♣       | Both majors   |
-    | 2♦/2♥/2♠ | Natural       |
+        | They | We     | They | We  |
+        | ---- | ------ | ---- | --- |
+        | 1NT  | Double | 2♣   | ?   |
+
+        | Bid       | Meaning                                            |
+        | --------- | -------------------------------------------------- |
+        | Double    | Penalties                                          |
+        | 2♦/2♥/2♠  | Natural, non-forcing                               |
+        | 2NT/3♣/3♥ | 8+, transfers, at least invitational to game       |
+        | 3♦        | Transfer to opponent’s suit, unbalanced, no hearts |
+
+        ##### Example: After 1NT – Double – 2♥ (natural)
+        | They | We     | They         | We  |
+        | ---- | ------ | ------------ | --- |
+        | 1NT  | Double | 2♥ (natural) | ?   |
+
+        | Bid       | Meaning                                                |
+        | --------- | ------------------------------------------------------ |
+        | Double    | Penalties                                              |
+        | 2♠        | Natural, non-forcing                                   |
+        | 2NT/3♣/3♥ | 8+, transfers, at least invitational to game           |
+        | 3♦        | Transfer to opponent’s suit; unbalanced without hearts |
+
+    ??? note "After Opponent’s Transfer (e.g., 2♦ showing hearts)"
+        #### After Opponent’s Transfer (e.g., 2♦ showing hearts)
+
+        | They | We     | They          | We  |
+        | ---- | ------ | ------------- | --- |
+        | 1NT  | Double | 2♦ (transfer) | ?   |
+
+        | Bid       | Meaning                                      |
+        | --------- | -------------------------------------------- |
+        | Pass      | He has a penalty double of hearts            |
+        | Double    | Penalty; "I have diamonds"                   |
+        | 2♥        | Unbalanced without hearts                    |
+        | 2♠        | Natural, non-forcing                         |
+        | 2NT/3♣/3♥ | 8+, transfers, at least invitational to game |
+
+    ??? note "After Opponent’s Bid at the 3-Level"
+        #### After Opponent’s Bid at the 3-Level
+
+        | They | We     | They       | We  |
+        | ---- | ------ | ---------- | --- |
+        | 1NT  | Double | 3 any suit | ?   |
+
+        | Bid    | Meaning                           |
+        | ------ | --------------------------------- |
+        | Double | Take-out                          |
+        | Others | From combined strength of the two |
+
+    ??? note "In Re-opening Position"
+        #### In Re-opening Position
+
+        | Sequence | They | We   | They | We  |
+        | -------- | ---- | ---- | ---- | --- |
+        |          | 1NT  | Pass | Pass | ?   |
+
+        | Bid      | Meaning       |
+        | -------- | ------------- |
+        | Double   | 13+, take-out |
+        | 2♣       | Both majors   |
+        | 2♦/2♥/2♠ | Natural       |
 
 ??? note "1NT Overcall"
     ### 1NT Overcall
@@ -275,6 +314,18 @@
     | 3♦                | 5-5+ majors       |
     | Pass, then Double | Weak take-out     |
 
+??? note "Defence to Strong 2♣"
+    ### Defence to Strong 2♣
+
+    | Sequence | They | We  |
+    | -------- | ---- | --- |
+    |          | 2♣   | ?   |
+
+    | Bid    | Meaning                                                                          |
+    | ------ | -------------------------------------------------------------------------------- |
+    | Double | Clubs                                                                            |
+    | Others | Same as against strong 1NT (see [Defence to Strong 1NT](#defence-to-strong-1nt)) |
+
 ??? note "Defence to Multi 2♦"
     ### Defence to Multi 2♦
 
@@ -401,50 +452,7 @@
 ??? note "Defence to Strong 1♣ Opening"
     ### Defence to Strong 1♣ Opening
 
-    | Sequence | They | We  |
-    | -------- | ---- | --- |
-    |          | 1♣   | ?   |
-
-    | Bid      | Meaning                                |
-    | -------- | -------------------------------------- |
-    | 1♦/1♥/1♠ | 4+ suit (non-vulnerable), natural      |
-    | 2♣       | Both majors                            |
-    | 2♦       | Multi (6+ major or strong 5-card suit) |
-    | 2♥/2♠    | 5+ suit, 4+ minor                      |
-
-    #### Opponent’s Suit at 3-Level
-    | Sequence | They | We  |
-    | -------- | ---- | --- |
-    |          | 1♣   | 3♣  |
-
-    | Bid | Meaning                                                 |
-    | --- | ------------------------------------------------------- |
-    | 3♣  | Solid minor or strong one-suited hand, asks for stopper |
-
-    #### Responses after 1♣ – 3♣
-    | Sequence | They | We  | They | We  |
-    | -------- | ---- | --- | ---- | --- |
-    |          | 1♣   | 3♣  | Pass | ?   |
-
-    | Bid | Meaning                                      |
-    | --- | -------------------------------------------- |
-    | 3♦  | Natural, 6+ suit                             |
-    | 3NT | Heart stopper                                |
-    | 4♣  | No heart stopper, negative (pass or correct) |
-    | 4♦  | No heart stopper, positive                   |
-    | 4♥  | Cue bid, slam interest                       |
-
-    #### After 1♣ – 3♣ – Pass – 4♣ (negative)
-    | Sequence | They | We  | They | We  |
-    | -------- | ---- | --- | ---- | --- |
-    |          | 1♣   | 3♣  | Pass | 4♣  |
-    |          | Pass | ?   |      |     |
-
-    | Bid      | Meaning                              |
-    | -------- | ------------------------------------ |
-    | Pass     | Solid club suit                      |
-    | 4♦       | Solid diamond suit                   |
-    | 4♥/5♣/5♦ | Strong one-suited hand, game forcing |
+    Uses Multi-Landy defence (see [Defence to Strong 1NT](#defence-to-strong-1nt)).
 
 ??? note "After Artificial Suit Raise"
     ### After Artificial Suit Raise
