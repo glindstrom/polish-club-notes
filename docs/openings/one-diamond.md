@@ -259,6 +259,12 @@
         | 3♥             | 15-17; splinter, 4+♦, shortness ♥ |
         | 3♠             | 15-17; splinter, 4+♦, shortness ♠ |
 
+    ??? note "Responder Rebids after 1♦ - 2♣ - 2NT"
+        #### Responder Rebids after 1♦ - 2♣ - 2NT
+        After 1♦ - 2♣ - 2NT, opener shows 12-17 HCP with a three-suited distribution (4-4-4-1, short clubs). Later bidding is natural.
+
+        Responder’s 3♣ is non-forcing, allowing the partnership to stop below game if appropriate. All other bids (e.g., 3♦, 3♥, 3♠, or 4-level bids) are forcing to game. Opener can show a minimum hand by bidding game directly (e.g., 3NT over 3♦, 4♥ over 3♥). With a maximum hand, opener can cue-bid to show slam interest (e.g., 4♣, 4♦, 4♥, or 4♠).
+
 ??? note "Response 2♦"
     ### Response 2♦
 
