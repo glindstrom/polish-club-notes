@@ -34,28 +34,6 @@
     #### Note
     - Penalty double after 1NT opening prompts natural, non-forcing bids. Redouble is SOS, asking partner to bid a suit. After 2♣ (opener’s suit choice), responder clarifies suits: Pass confirms ♣ (e.g., ♣+♦, ♣+♥, ♣+♠), 2♦ shows ♦+♥ or ♦+♠, XX refines to ♦+♥ with longer ♥.
 
-??? note "Responses after 1NT Overcall - (X, Penalty)"
-    ### Responses after 1NT Overcall - (X, Penalty)
-
-    | Response | Description                     |
-    | -------- | ------------------------------- |
-    | XX       | SOS, two playable suits, escape |
-    | 2♣       | Natural, non-forcing            |
-    | 2♦       | Natural, non-forcing            |
-    | 2♥       | Natural, non-forcing            |
-
-??? note "Rebids after 1NT Overcall - (X, Penalty) - XX - (Pass) - 2♣ - (X)"
-    ### Rebids after 1NT Overcall - (X, Penalty) - XX - (Pass) - 2♣ - (X)
-
-    | Responder’s Bid | Description             |
-    | --------------- | ----------------------- |
-    | Pass            | Confirms ♣ as one suit  |
-    | 2♦              | Shows ♦ and ♥           |
-    | XX              | Shows ♦ and ♥, longer ♥ |
-
-    #### Note
-    - Penalty double after 1NT overcall (e.g., 1♠-1NT-X) prompts natural, non-forcing bids. Redouble is SOS, asking partner to bid a suit. After 2♣ (opener’s suit choice), responder clarifies suits: Pass confirms ♣ (e.g., ♣+♦ or ♣+♥), 2♦ shows ♦+♥ (as ♠ is opponent’s suit), XX refines to ♦+♥ with longer ♥.
-
 ??? note "Responses after 1NT - (2♥, Natural) - Rubensohl"
     ### Responses after 1NT - (2♥, Natural) - Rubensohl
 

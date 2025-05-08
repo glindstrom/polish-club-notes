@@ -53,12 +53,13 @@ nav:
       - Four-Level Openings: openings/four-level-openings.md
   - Competitive Bidding in Defence:
       - Overview: competitive-bidding/overview.md
-      - Take-Out Doubles: competitive-bidding/take-out-doubles.md
-      - Overcalls at the One Level: competitive-bidding/overcalls-one-level.md
-      - Overcalls at the Two Level and Higher: competitive-bidding/overcalls-two-level.md
-      - Two-Suited Overcalls: competitive-bidding/two-suited-overcalls.md
       - Defence Against Specific Openings: competitive-bidding/defence-specific-openings.md
       - General Principles: competitive-bidding/general-principles.md
+      - Overcalls at the One Level: competitive-bidding/overcalls-one-level.md
+      - Overcalls at the Two Level and Higher: competitive-bidding/overcalls-two-level.md
+      - Take-Out Doubles: competitive-bidding/take-out-doubles.md
+      - NT Overcalls: competitive-bidding/nt-overcalls.md
+      - Two-Suited Overcalls: competitive-bidding/two-suited-overcalls.md
   - After Intervention:
       - Overview: after-intervention/overview.md
       - Two-Suited Bids: after-intervention/two-suited-bids.md
