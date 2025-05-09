@@ -1,229 +1,210 @@
 # Keycard Blackwood 1430
 
-??? note "When 4NT is Blackwood"
-    ### When 4NT is Blackwood
+Keycard Blackwood 1430 is used to ask for key cards (four aces and the king of the agreed trump suit) when a trump suit is established or slam exploration is indicated. This section outlines when 4NT or 5NT is Blackwood, response structures, and handling of special cases like voids, interference, and trump queen asks.
+
+## When 4NT is Keycard Blackwood
+
+4NT is Keycard Blackwood 1430 unless it is a **quantitative invitation** under specific conditions:
+- After a direct no-trump raise (e.g., 1NT–2NT or 1♣–2NT).
+- Directly after 1NT opening followed by Stayman or a transfer.
+- When no suit is agreed by the three level and opener’s strength is unlimited.
+- After a 2NT rebid showing 18+ HCP with no upper limit.
+
+### Quantitative 4NT Examples
+| Sequence                         | Meaning                                       |
+| -------------------------------- | --------------------------------------------- |
+| 1♣–Pass–2NT–Pass                 | Quantitative, 18–20 HCP, inviting 6NT         |
+| 1NT–Pass–2♣\*–2♦/2♥/2♠           | Quantitative, inviting slam with 4-card major |
+| 1NT–Pass–2♦\*\*–2♥               | Quantitative, inviting slam with 5 hearts     |
+| 1♥–Pass–2♣–2♦–2NT–3♣/3♥/3♠       | Quantitative, general slam invitation         |
+| 1♣–Pass–1♥/1♠–2NT\*\*\*–3♣/3♦/3♥ | Quantitative, 22–24 HCP                       |
+
+\*2♣: Stayman.  
+\*\*2♦: Transfer to hearts.  
+\*\*\*2NT: 18+ HCP, no upper limit.
+
+In all other sequences where a trump suit is agreed or slam exploration is indicated, 4NT is Keycard Blackwood 1430.
+
+## Responses to 4NT Keycard Blackwood
+
+Responses show the number of key cards (aces + trump king):
+
+| Bid | Key Cards                     |
+| --- | ----------------------------- |
+| 5♣  | 1 or 4 key cards              |
+| 5♦  | 0 or 3 key cards              |
+| 5♥  | 2 key cards, no trump queen   |
+| 5♠  | 2 key cards, with trump queen |
 
-    **4NT is Keycard Blackwood 1430, unless specific conditions make it a quantitative invitation.** These conditions include:
+### Responses with a Void
+When holding a void, responses to 4NT Keycard Blackwood adjust as follows:
+- **2 key cards + void** (not in partner’s first-bid suit): Jump to **5NT**.
+- **1 or 3 key cards + void**:
+  - Jump to **6 of the void suit** if lower-ranking than the trump suit.
+  - Jump to **6 of the trump suit** if the void suit is higher-ranking.
+- After a void-showing response, the next step (excluding trump suit or 5NT) asks for the trump queen. New suits, if there’s room, ask for third-round control.
+
+#### Example
+- **Auction**: 1♠–Pass–3♠–Pass–4NT\* (spades agreed).
+- **Hand**: ♠QJxx ♥Kxxx ♦– ♣QJxxx (1 key card, diamond void).
+- **Bid**: 6♠ (shows 1 or 3 key cards, diamond void, as diamonds rank higher than spades).
 
-    - A direct raise of no trumps (e.g., after 2NT response).
+\*4NT: Keycard Blackwood.
 
-    - Directly after a 1NT opening followed by Stayman or a transfer.
+## When 5NT is Keycard Blackwood
 
-    - When no suit is agreed by the three level and opener has not limited their strength.
+5NT is Keycard Blackwood 1430 when a trump suit is agreed and the auction reaches the five level, typically after cue bidding.
+
+### Example Auction
+| We  | They | We      | They |
+| --- | ---- | ------- | ---- |
+| 1♠  | Pass | 4♣\*    | Pass |
+| 5♣  | Pass | 5NT\*\* | Pass |
+
+\*4♣: Cue bid, spades agreed.  
+\*\*5NT: Keycard Blackwood.
+
+### Responses to 5NT
+| Bid | Key Cards                     |
+| --- | ----------------------------- |
+| 6♣  | 1 or 4 key cards              |
+| 6♦  | 0 or 3 key cards              |
+| 6♥  | 2 key cards, no trump queen   |
+| 6♠  | 2 key cards, with trump queen |
 
-    - After a 2NT rebid showing 18+ HCP with no upper limit.
+## Exclusion Keycard Blackwood
+
+Exclusion Keycard Blackwood is used when a trump suit is agreed, and a jump to the five level in a new suit (typically a void) asks for key cards, excluding the ace of the bid suit.
 
-    The following sequences show when 4NT is **not** Blackwood:
+### Example Auction
+| We    | They | We  | They |
+| ----- | ---- | --- | ---- |
+| 1♥/1♠ | Pass | 2NT | Pass |
+| 5♣\*  | Pass | ?   |      |
+
+\*5♣: Exclusion Keycard Blackwood, clubs void.
 
-    | We  | They | We  | They |
-    | --- | ---- | --- | ---- |
-    | 1♣  | Pass | 2NT | Pass |
-    | ?   |      |     |      |
+### Responses
+| Bid | Key Cards (excluding ♣ ace)   |
+| --- | ----------------------------- |
+| 5♦  | 0 or 3 key cards              |
+| 5♥  | 1 or 4 key cards              |
+| 5♠  | 2 key cards, no trump queen   |
+| 5NT | 2 key cards, with trump queen |
 
-    | Bid | Meaning                               |
-    | --- | ------------------------------------- |
-    | 4NT | Quantitative, 18-20 HCP, inviting 6NT |
+## Trump Queen Ask
 
-    | We       | They | We  | They |
-    | -------- | ---- | --- | ---- |
-    | 1NT      | Pass | 2♣* | Pass |
-    | 2♦/2♥/2♠ | Pass | ?   |      |
+After a 5♣ (1 or 4) or 5♦ (0 or 3) response, the **next step** (excluding the trump suit) asks for the trump queen.
 
-    *\*2♣*:Stayman.
+### Example (Spades Agreed)
+| We       | They | We     | They |
+| -------- | ---- | ------ | ---- |
+| 4NT\*    | Pass | 5♦\*\* | Pass |
+| 5♥\*\*\* | Pass | ?      |      |
 
-    | Bid | Meaning                                            |
-    | --- | -------------------------------------------------- |
-    | 4NT | Quantitative, inviting slam with a four-card major |
+\*4NT: Keycard Blackwood.  
+\*\*5♦: 0 or 3 key cards.  
+\*\*\*5♥: Trump queen ask.
 
-    | We  | They | We  | They |
-    | --- | ---- | --- | ---- |
-    | 1NT | Pass | 2♦* | Pass |
-    | 2♥  | Pass | ?   |      |
+- **5♠**: No trump queen.
+- **5NT**: Trump queen, no kings.
+- **6♣**: Trump queen, one king.
+- **6♦**: Trump queen, two kings.
+- **6♥**: Trump queen, three kings.
 
-    *\*2♦*:Transfer to hearts.
+## Kings Ask
 
-    | Bid | Meaning                                      |
-    | --- | -------------------------------------------- |
-    | 4NT | Quantitative, inviting slam with five hearts |
+To ask for the number of kings after a 5♣ or 5♦ response, bid the **next step** after the trump queen ask (excluding the trump suit).
 
-    | We         | They | We  | They |
-    | ---------- | ---- | --- | ---- |
-    | 1♥         | Pass | 2♣  | Pass |
-    | 2♦*        | Pass | 2NT | Pass |
-    | **3♣/3♥/3♠ | Pass | ?   |      |
+### Example (Spades Agreed)
+| We       | They | We     | They |
+| -------- | ---- | ------ | ---- |
+| 4NT\*    | Pass | 5♣\*\* | Pass |
+| 5♥\*\*\* | Pass | ?      |      |
 
-    *\*2♦*:Any strength; **\*3♣/3♥/3♠*:Any strength.
+\*4NT: Keycard Blackwood.  
+\*\*5♣: 1 or 4 key cards.  
+\*\*\*5♥: Kings ask.
 
-    | Bid | Meaning                               |
-    | --- | ------------------------------------- |
-    | 4NT | Quantitative, general slam invitation |
+- **5♠**: No kings.
+- **5NT**: One king.
+- **6♣**: Two kings.
+- **6♦**: Three kings.
 
-    | We   | They | We       | They |
-    | ---- | ---- | -------- | ---- |
-    | 1♣   | Pass | 1♥/1♠    | Pass |
-    | 2NT* | Pass | 3♣/3♦/3♥ | Pass |
-    | ?    |      |          |      |
+## Trump Queen Ask Doubled
 
-    *\*2NT*:18+ HCP, no upper limit.
+When the trump queen ask is doubled, responses adjust to check for losers in the doubled suit (spades agreed).
 
-    | Bid | Meaning                 |
-    | --- | ----------------------- |
-    | 4NT | Quantitative, 22-24 HCP |
+### Example Auction
+| We       | They | We     | They |
+| -------- | ---- | ------ | ---- |
+| 4NT\*    | Pass | 5♦\*\* | Pass |
+| 5♥\*\*\* | Dbl  | ?      |      |
 
-    - **Note**: In all other sequences where a trump suit is agreed or the auction suggests slam exploration, 4NT is Keycard Blackwood 1430.
+\*4NT: Keycard Blackwood.  
+\*\*5♦: 0 or 3 key cards.  
+\*\*\*5♥: Trump queen ask.
 
-??? note "Responses to 4NT Keycard Blackwood"
-    ### Responses to 4NT Keycard Blackwood
+- **Pass**: Concerned about two heart losers.
+- **Others**: As if no double (no concern).
 
-    When 4NT is Keycard Blackwood 1430, the responder replies with the number of key cards using the following structure:
+When partner passes to check for heart losers:
 
-    | Bid | Meaning                       |
-    | --- | ----------------------------- |
-    | 5♣  | 1 or 4 key cards              |
-    | 5♦  | 3 or 0 key cards              |
-    | 5♥  | 2 key cards, no trump queen   |
-    | 5♠  | 2 key cards, with trump queen |
+| We       | They | We           | They |
+| -------- | ---- | ------------ | ---- |
+| 4NT\*    | Pass | 5♦\*\*       | Pass |
+| 5♥\*\*\* | Dbl  | Pass\*\*\*\* | Pass |
+| ?        | Pass |              |      |
 
-??? note "When 5NT is Keycard Blackwood"
-    ### When 5NT is Keycard Blackwood
+\*4NT: Keycard Blackwood.  
+\*\*5♦: 0 or 3 key cards.  
+\*\*\*5♥: Trump queen ask.  
+\*\*\*\*Pass: Concerned about two heart losers.
 
-    **When the auction reaches the five level and a trump suit is agreed, 5NT acts as Keycard Blackwood 1430, asking for the number of key cards:**
+- **Redouble**: No concern, proceed with queen ask response.
+- **5♠**: To play (two heart losers).
 
-    | We  | They | We  | They |
-    | --- | ---- | --- | ---- |
-    | 1♠  | Pass | 4♣* | Pass |
-    | 5♣  | Pass | 5NT | Pass |
-    | ?   |      |     |      |
+## Blackwood Response Doubled
 
-    *\*4♣*:Cue bid, spades agreed.
+When a 5♣ or 5♦ response to 4NT Keycard Blackwood is doubled, pass checks for two losers in the doubled suit (spades agreed).
 
-    | Bid | Meaning                       |
-    | --- | ----------------------------- |
-    | 6♣  | 1 or 4 key cards              |
-    | 6♦  | 3 or 0 key cards              |
-    | 6♥  | 2 key cards, no trump queen   |
-    | 6♠  | 2 key cards, with trump queen |
+### Example Auction
+| We    | They | We     | They |
+| ----- | ---- | ------ | ---- |
+| 4NT\* | Pass | 5♦\*\* | Dbl  |
+| ?     |      |        |      |
 
-??? note "Exclusion Keycard Blackwood"
-    ### Exclusion Keycard Blackwood
+\*4NT: Keycard Blackwood.  
+\*\*5♦: 0 or 3 key cards.
 
-    Exclusion Blackwood is used in a situation when a trump suit has been selected unambiguously. **A jump to the five level in a new suit asks for key cards excluding the ace of the suit bid, which is typically a void:**
+- **Pass**: Concerned about two diamond losers.
+- **5♥**: Trump queen ask.
+- **5♠**: To play.
+- **5NT**: Kings ask.
 
-    | We    | They | We  | They |
-    | ----- | ---- | --- | ---- |
-    | 1♥/1♠ | Pass | 2NT | Pass |
-    | 5♣    | Pass | ?   |      |
+When partner passes to check for diamond losers:
 
-    | Bid | Meaning                       |
-    | --- | ----------------------------- |
-    | 5♦  | 0 or 3 key cards              |
-    | 5♥  | 1 or 4 key cards              |
-    | 5♠  | 2 key cards, no trump queen   |
-    | 5NT | 2 key cards, with trump queen |
+| We         | They | We     | They |
+| ---------- | ---- | ------ | ---- |
+| 4NT\*      | Pass | 5♦\*\* | Dbl  |
+| Pass\*\*\* | Pass | ?      | Pass |
 
-??? note "Asking for the Trump Queen"
-    ### Asking for the Trump Queen
+\*4NT: Keycard Blackwood.  
+\*\*5♦: 0 or 3 key cards.  
+\*\*\*Pass: Concerned about two diamond losers.
 
-    After the 5♣ or 5♦ response to Keycard Blackwood (which say nothing about trump queen), **the next step up, not including the agreed trump suit, asks about the trump queen.** In response, the lowest step denies the trump queen, and the following steps show the trump queen and the number of kings:
+- **Redouble**: First-round diamond control (ace or void).
+- **5♥**: Second-round diamond control, no trump queen.
+- **5♠**: To play (two diamond losers).
+- **5NT**: Second-round diamond control, trump queen, no kings.
+- **6♣**: Second-round diamond control, trump queen, one king.
 
-    | We  | They | We  | They |
-    | --- | ---- | --- | ---- |
-    | 4NT | Pass | 5♦  | Pass |
-    | 5♥  | Pass | ?   |      |
+### Interference Handling (DEPO/REPO)
+When opponents interfere over a 4NT Keycard Blackwood ask, the following conventions apply:
 
-    *4NT*: Spades agreed; *5♦*: 0 or 3 key cards; *5♥*: Trump queen ask.
-
-    - 5♠: To play.
-
-    | We  | They | We  | They |
-    | --- | ---- | --- | ---- |
-    | 4NT | Pass | 5♦  | Pass |
-    | 5♥  | Pass | ?   |      |
-
-    *5♥*: Trump queen ask.
-
-    - 5♠: No trump queen.  
-    - 5NT: Trump queen, no kings.  
-    - 6♣: Trump queen, one king.  
-    - 6♦: Trump queen, two kings.  
-    - 6♥: Trump queen, three kings.
-
-??? note "Asking for Kings"
-    ### Asking for Kings
-
-    **The next step up, apart from the agreed trump suit and the question about queen of trumps, asks about the number of kings:**
-
-    | We  | They | We  | They |
-    | --- | ---- | --- | ---- |
-    | 4NT | Pass | 5♣  | Pass |
-    | 5♥  | Pass | ?   |      |
-
-    *4NT*: Spades agreed; *5♣*: 1 or 4 key cards; *5♥*: Asking for number of kings.
-
-    - 5♠: No kings.  
-    - 5NT: One king.  
-    - 6♣: Two kings.  
-    - 6♦: Three kings.
-
-??? note "Bidding after the Trump Queen Ask is Doubled"
-    ### Bidding after the Trump Queen Ask is Doubled
-
-    When the trump queen ask (e.g., 5♥ after 5♦) is doubled, the following structure applies. **Pass checks for two losers in the doubled suit:**
-
-    | We  | They | We  | They |
-    | --- | ---- | --- | ---- |
-    | 4NT | Pass | 5♦  | Pass |
-    | 5♥  | Dbl  | ?   |      |
-
-    *5♥*: Trump queen ask.
-
-    - Pass: Worried about 2 heart losers.  
-    - Others: As if there had been no double (“I am not worried about anything”).
-
-    | We  | They | We    | They |
-    | --- | ---- | ----- | ---- |
-    | 4NT | Pass | 5♦    | Pass |
-    | 5♥  | Dbl  | Pass* | Pass |
-    | ?   |      |       |      |
-
-    *\*Pass*: Worried about 2 heart losers.
-
-    - Redouble: “Don’t worry, just reply.”  
-    - 5♠: To play.
-
-??? note "DEPO/REPO Interference Handling"
-    ### DEPO/REPO Interference Handling
-
-    When opponents interfere over a 4NT Keycard Blackwood ask, **DEPO** (Double Even, Pass Odd) is used if they bid a suit. If they double 4NT, **REPO** (Redouble Even, Pass Odd) applies. These conventions show the number of key cards (even or odd):
-
-    - Double: Even number of key cards (0, 2, or 4).  
-    - Pass: Odd number of key cards (1 or 3).  
-
-    - Redouble: Even number of key cards (0, 2, or 4).  
-    - Pass: Odd number of key cards (1 or 3).
-
-??? note "Bidding after Response to Blackwood is Doubled"
-    ### Bidding after Response to Blackwood is Doubled
-
-    When the response to a 4NT Keycard Blackwood ask is doubled, the following structure applies over 5♣ (1 or 4 key cards) or 5♦ (3 or 0 key cards). **Pass is used to check whether we have two losers in the doubled suit.** In the examples, spades is the agreed suit:
-
-    | We  | They | We  | They |
-    | --- | ---- | --- | ---- |
-    | 4NT | Pass | 5♦  | Dbl  |
-    | ?   |      |     |      |
-
-    - Pass: Are we losing two diamonds?  
-    - 5♥: Asks about the trump queen.  
-    - 5♠: To play.  
-    - 5NT: Asks about the number of kings.
-
-    | We   | They | We  | They |
-    | ---- | ---- | --- | ---- |
-    | 4NT  | Pass | 5♦  | Dbl  |
-    | Pass | Pass | ?   |      |
-
-    - Redouble: First-round control in diamonds (ace or void).  
-    - 5♥: Second-round control in diamonds, no trump queen.  
-    - 5♠: To play, we have two diamond losers.  
-    - 5NT: Second-round control in diamonds, trump queen, no side kings.  
-    - 6♣: Second-round control in diamonds, trump queen, one side king.
+- **DEPO (Double Even, Pass Odd)**: Used when opponents bid a suit.
+  - **Double**: Shows 0, 2, or 4 key cards.
+  - **Pass**: Shows 1 or 3 key cards.
+- **REPO (Redouble Even, Pass Odd)**: Used when opponents double 4NT.
+  - **Redouble**: Shows 0, 2, or 4 key cards.
+  - **Pass**: Shows 1 or 3 key cards.
