@@ -8,6 +8,8 @@ theme:
   palette:
     primary: indigo
     accent: blue
+  toc:
+    depth: 2
   features:
     - navigation.tabs
     - navigation.sections
@@ -25,7 +27,7 @@ markdown_extensions:
       alternate_style: true
   - toc:
       permalink: true
-      toc_depth: 3
+      toc_depth: 2
 plugins:
   - search
 nav:
@@ -53,6 +55,7 @@ nav:
       - Four-Level Openings: openings/four-level-openings.md
   - Competitive Bidding in Defence:
       - Overview: competitive-bidding/overview.md
+      - Attacking-Defensive Double: competitive-bidding/attacking-defensive-double.md
       - Defence Against Specific Openings: competitive-bidding/defence-specific-openings.md
       - General Principles: competitive-bidding/general-principles.md
       - Overcalls at the One Level: competitive-bidding/overcalls-one-level.md
