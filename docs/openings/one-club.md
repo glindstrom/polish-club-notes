@@ -200,6 +200,7 @@
         - ² With four hearts, support hearts immediately.
 
         ??? note "Checkbacks after 1♣ - 1♥ - 1♠"
+                <a id="responder-rebids-1c-1h-1s"></a>
             #### Two Checkbacks (After 1♣ - 1♥ - 1♠)
             - **Weak Checkback (2♣)**: Below game forcing; "I want to play 2♦ or I’m inviting to game."
             - **Strong Checkback (2♦)**: Game forcing on an unspecified distribution.
@@ -283,6 +284,7 @@
             - ¹ With 17 points, natural clubs, and heart support, use [Odwrotka](../conventions/odwrotka.md).
 
     ??? note "2♥ Rebid (12-14; Four Hearts)"
+                <a id="responder-rebids-1c-1h-2h"></a>
         #### Rebid 2♥ (12-14; Four Hearts)
         | Responder’s Bid | Meaning                                                                  |
         | --------------- | ------------------------------------------------------------------------ |
@@ -355,6 +357,7 @@
         - With 7-9 points, 5 spades, 4 hearts, respond 2♥ directly over 1♣.
 
     ??? note "2♠ Rebid (12-14; Four Spades)"
+        <a id="responder-rebids-1c-1s-2s"></a>
         #### 2♠ Rebid (12-14; Four Spades)
 
         #### Responder Rebids after 1♣ - 1♠ - 2♠

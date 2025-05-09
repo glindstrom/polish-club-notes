@@ -7,8 +7,8 @@ Responder’s 2NT bid after opener’s rebid is forcing, asking opener to furthe
 ### Sequences Where Two NT Forcing Applies
 - **1♣ - 1♥ - 2♥ - 2NT** [see details](../openings/one-club.md#responder-rebids-1c-1h-2h)
 - **1♣ - 1♠ - 2♠ - 2NT** [see details](../openings/one-club.md#responder-rebids-1c-1s-2s)
-- **1♣ - 1♥ - 2♠ - 2NT** [see details](../openings/one-club.md#responder-rebids-1c-1h-2s)
-- **1♣ - 1♠ - 2♥ - 2NT** [see details](../openings/one-club.md#responder-rebids-1c-1s-2h)
+- **1♦ - 1♥ - 2♠ - 2NT** [see details](../openings/one-diamond.md#responder-rebids-1d-1h-2s)
+- **1♦ - 1♠ - 2♥ - 2NT** [see details](../openings/one-diamond.md#responder-rebids-1d-1s-2h)
 - **1♦ - 2♦ - 2♥/2♠ - 2NT** [see details](../openings/one-diamond.md#responder-rebids-1d-2d-2h-or-1d-2d-2s)
 
 ### Notes

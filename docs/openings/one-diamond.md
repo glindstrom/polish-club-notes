@@ -17,7 +17,7 @@
     | 2♠       | 13+; no 4-card majors, game forcing on balanced hands |
     | 2NT      | 11-12; no 4-card majors, invitational to 3NT          |
     | 3♣       | 10-11; 6+♣, invitational                              |
-    | 3♦       | 0-6; preemptive, 4+♦                                  |
+    | 3♦       | 5-9;4+♦, unbalancded without majors                                  |
     | 3♥       | 13-16; 4+♦, splinter, shortness in ♥                  |
     | 3♠       | 13-16; 4+♦, splinter, shortness in ♠                  |
     | 3NT      | 13-16; no 4-card majors                               |
