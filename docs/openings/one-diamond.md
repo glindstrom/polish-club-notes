@@ -47,9 +47,9 @@
         | 2NT            | 15-17; 6♦, shapeless                   |
         | 3♣             | 15-17; 5+♣                             |
         | 3♦             | 15-17; 6+♦, colored                    |
-        | 3♥             | 12-17; 5+♦, 4♥, unbalanced, 17-19 HLDF |
-        | 3♠             | 15-17; 3♥, splinter                    |
-        | 4♣             | 15-17; 3♥, splinter                    |
+        | 3♥             | 12-17; 5+♦, 4♥, 15-17 with 5422 |
+        | 3♠             | 15-17; 4♥, splinter                    |
+        | 4♣             | 15-17; 4♥, splinter                    |
 
     ??? note "Responder Rebids after 1♦ - 1♥ - 1♠"
         <a id="responder-rebids-1d-1h-1s"></a>
@@ -174,9 +174,9 @@
         | 2NT            | 15-17; 6♦, shapeless                |
         | 3♣             | 15-17; 5+♣                          |
         | 3♦             | 15-17; 6+♦, colored                 |
-        | 3♠             | 12-17; 5+♦, 4♠, unbalanced          |
-        | 3♥             | 15-17; 3♠, splinter                 |
-        | 4♣             | 15-17; 3♠, splinter                 |
+        | 3♠             | 12-17; 5+♦, 4♠, 15-17 with 5422         |
+        | 3♥             | 15-17; 4♠, splinter                 |
+        | 4♣             | 15-17; 4♠, splinter                 |
 
     ??? note "Responder Rebids after 1♦ - 1♠ - 1NT"
         <a id="responder-rebids-1d-1s-1nt"></a>
