@@ -5,6 +5,7 @@ Strategies to counter opponents’ opening bids, using take-out doubles, overcal
 
 ## Sections
 - [Specific Openings](defence-specific-openings.md): Defenses for 1NT, Multi 2♦, others.
+- [Defence Against Major Raise](defence-against-major-raise.md): Defenses after opponents’ 1♥/1♠ opening raised to 2♥/2♠.
 - [Principles](general-principles.md): Rules for competitive and undiscussed bids.
 - [1-Level Overcalls](overcalls-one-level.md): Suit bids for competition or shape.
 - [2+-Level Overcalls](overcalls-two-level.md): Strong suits, good length.
