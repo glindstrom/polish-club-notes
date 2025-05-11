@@ -47,9 +47,9 @@
         | 3♣             | 15-17; 5+♣                                         |
         | 3♦             | 15-17; 5+♦                                         |
         | 3♥             | 15-17; 6+♥                                         |
-        | 3♠             | 12-17; 4♠, 17-19 HLDF or 5-4-2-2 or 12+ unbalanced |
-        | 4♣             | 15-17; 4♠, splinter with shortness                 |
-        | 4♦             | 15-17; 4♠, splinter with shortness                 |
+        | 3♠             | 12-17; 4♠, unbalanced or 15-17 5422 (~17-19 HLDF) |
+        | 4♣             | 15-17; 4♠, splinter (20+ HLDF)                 |
+        | 4♦             | 15-17; 4♠, splinter (20+ HLDF)                 |
 
     ??? note "Responder Rebids after 1♥ - 1♠ - 1NT"
         #### Responder Rebids after 1♥ - 1♠ - 1NT

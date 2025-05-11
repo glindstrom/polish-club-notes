@@ -155,7 +155,7 @@
         | 2NT   | 18+; without three hearts and four spades                      |
         | 3♣/3♦ | 18+; 6+ cards in the bid suit                                  |
         | 3♥    | 12-17; 5+ clubs, 4 hearts; unbalanced hand¹ (17-19 HLDF)       |
-        | 3♠/4♦ | Splinters: 15-17 with 4-card heart support and shown shortness |
+        | 3♠/4♦ | Splinters: 15-17 with 4-card heart support and shown shortness (20+ HLDF) |
         | 3NT   | 7 solid clubs, stopper outside hearts                          |
 
         #### Notes
