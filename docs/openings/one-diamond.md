@@ -10,7 +10,7 @@
     | -------- | ----------------------------------------------------- |
     | 1♥       | 5+; 4+♥                                               |
     | 1♠       | 5+; 4+♠                                               |
-    | 1NT      | 6-10; no 4-card major                                 |
+    | 1NT      | 7-10; no 4-card major                                 |
     | 2♣       | 12+; 4+♣, game forcing, can have a 4-card major       |
     | 2♦       | 10+; 4+♦                                              |
     | 2♥       | 5-9; 5+♠, 4+♥                                         |
@@ -22,11 +22,10 @@
     | 3♠       | 13-16; 4+♦, splinter, shortness in ♠                  |
     | 3NT      | 13-16; no 4-card majors                               |
     | 4♣       | 13-16; 4+♦, splinter, shortness in ♣                  |
+    | 4♦       | 0-6; 5+♦, very unbalanced without major suits         |
     | 4♥       | Long ♥, weak in high cards, preemptive                |
     | 4♠       | Long ♠, weak in high cards, preemptive                |
 
-    #### Notes
-    - With 8-11 HCP and no 4-card major, bid 1NT. With 5♦ and 4♣, open 1♦, not 1♣.
 
 ??? note "Response 1♥"
     ### Response 1♥
