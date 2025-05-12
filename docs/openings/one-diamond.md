@@ -42,7 +42,7 @@
         | 2♣             | 12-17; 4+♣                                    |
         | 2♦             | 12-14; 5+♦                                    |
         | 2♥             | 12-14; 3♥                                     |
-        | 2♠             | 15-17; 6+♦, 3 key suits, artificial           |
+        | 2♠             | 15-17; 6+♦, 3-card support, artificial           |
         | 2NT            | 15-17; 6♦, shapeless                          |
         | 3♣             | 15-17; 5+♣                                    |
         | 3♦             | 15-17; 6+♦, colored                           |
@@ -178,7 +178,7 @@
         | 1NT            | 12-14; balanced                               |
         | 2♣             | 12-17; 4+♣                                    |
         | 2♦             | 12-14; 5+♦                                    |
-        | 2♥             | 15-17; 6+♦, 3 key suits, artificial           |
+        | 2♥             | 15-17; 6+♦, 4♥ 15-17 or 6+♦, 3-card support, artificial           |
         | 2♠             | 12-14; 3♠                                     |
         | 2NT            | 15-17; 6♦, shapeless                          |
         | 3♣             | 15-17; 5+♣                                    |
