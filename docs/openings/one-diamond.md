@@ -365,7 +365,7 @@
         | Opener’s Rebid | Description          |
         | -------------- | -------------------- |
         | 3♦             | 12-17; non-forcing   |
-        | 3♠             | 12-17; forces to 3NT |
+        | 3♣             | 12-17; forcing to 3♦ |
 
 ??? note "Response 3♣"
     ### Response 3♣
