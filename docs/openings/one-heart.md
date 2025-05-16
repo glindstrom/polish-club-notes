@@ -36,20 +36,20 @@
     ??? note "Opener Rebids"
         #### Opener Rebids
 
-        | Opener’s Rebid | Description                                        |
-        | -------------- | -------------------------------------------------- |
-        | 1NT            | 12-14; 5-3-3-2 pattern                             |
-        | 2♣             | 12-17; 4+♣, with 6♥ bid 2♥ if 12-14                |
-        | 2♦             | 12-17; 4+♦, with 6♥ bid 2♥ if 12-14                |
-        | 2♥             | 12-14; 6+♥                                         |
-        | 2♠             | 12-14; 4♠                                          |
-        | 2NT            | 15-17; 5-3-3-2 pattern                             |
-        | 3♣             | 15-17; 5+♣                                         |
-        | 3♦             | 15-17; 5+♦                                         |
-        | 3♥             | 15-17; 6+♥                                         |
+        | Opener’s Rebid | Description                                       |
+        | -------------- | ------------------------------------------------- |
+        | 1NT            | 12-14; 5-3-3-2 pattern                            |
+        | 2♣             | 12-17; 4+♣, with 6♥ bid 2♥ if 12-14               |
+        | 2♦             | 12-17; 4+♦, with 6♥ bid 2♥ if 12-14               |
+        | 2♥             | 12-14; 6+♥                                        |
+        | 2♠             | 12-14; 4♠                                         |
+        | 2NT            | 15-17; 5-3-3-2 pattern                            |
+        | 3♣             | 15-17; 5+♣                                        |
+        | 3♦             | 15-17; 5+♦                                        |
+        | 3♥             | 15-17; 6+♥                                        |
         | 3♠             | 12-17; 4♠, unbalanced or 15-17 5422 (~17-19 HLDF) |
-        | 4♣             | 15-17; 4♠, splinter (20+ HLDF)                 |
-        | 4♦             | 15-17; 4♠, splinter (20+ HLDF)                 |
+        | 4♣             | 15-17; 4♠, splinter (20+ HLDF)                    |
+        | 4♦             | 15-17; 4♠, splinter (20+ HLDF)                    |
 
     ??? note "Responder Rebids after 1♥ - 1♠ - 1NT"
         #### Responder Rebids after 1♥ - 1♠ - 1NT
@@ -112,6 +112,12 @@
             | 3♠           | 12-14; 3♠        |
             | 3NT          | 12-14; 6♥, no 3♠ |
 
+    ??? note "Responder Rebids after 1♥ - 1♠ - 2NT"
+        <a id="responder-rebids-1h-1s-2nt"></a>
+        #### Responder Rebids after 1♥ - 1♠ - 2NT
+
+        - **Note**: See [After Opener’s Strong Rebid](../conventions/after-openers-strong-rebid.md) for responder rebid principles (non-forcing: 2♠, 3NT).
+
     ??? note "Responder Rebids after 1♥ - 1♠ - 3♣"
         #### Responder Rebids after 1♥ - 1♠ - 3♣
 
@@ -129,7 +135,7 @@
         | --------------- | ------------------------------------------------- |
         | 3NT             | [Shortness ask](../conventions/short-suit-ask.md) |
         | 4♣/4♦/4♥        | Cue bid in the bid suit                           |
-        
+
 ??? note "Response 1NT"
     ### Response 1NT
 

@@ -1,0 +1,61 @@
+/* docs/css/pdf.css */
+body {
+  font-family: "DejaVu Sans", "Helvetica", "Arial", sans-serif;
+  font-size: 11pt;
+  line-height: 1.5;
+  color: #000;
+  margin: 2cm;
+}
+
+h1 {
+  font-size: 22pt;
+  margin-bottom: 1cm;
+  text-align: center;
+  color: #1a3c6d;
+  break-before: page;
+}
+
+h2 {
+  font-size: 16pt;
+  margin-top: 1cm;
+  margin-bottom: 0.5cm;
+  color: #1a3c6d;
+}
+
+h3 {
+  font-size: 13pt;
+  margin-top: 0.8cm;
+  margin-bottom: 0.3cm;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 1cm;
+  margin: 0.5cm 0;
+}
+
+li {
+  margin-bottom: 0.4cm;
+  break-inside: avoid;
+}
+
+strong {
+  font-weight: bold;
+  color: #2e2e2e;
+}
+
+ul ul {
+  padding-left: 1.5cm;
+}
+
+li>ul>li:not(:first-child) {
+  font-style: italic;
+  font-size: 10pt;
+  color: #555;
+  padding-left: 0.5cm;
+}
+
+a {
+  text-decoration: none;
+  color: #1a3c6d;
+}
