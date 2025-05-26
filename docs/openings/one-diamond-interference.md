@@ -137,3 +137,9 @@
     ### After Opponent’s 1NT Overcall
 
     See [Two-Suited Bids After Opponent Interference](../after-intervention/two-suited-bids.md) for responses to an opponent’s 1NT overcall after our 1♦ opening.
+
+??? note "Two-Suited Overcalls"
+    <a id="two-suited-overcalls"></a>
+    ### Two-Suited Overcalls
+
+    For bidding after two-suited overcalls (e.g., 2♦ Michaels showing both majors or 2NT showing clubs and hearts), see [Bidding After an Opponent’s Two-Suited Overcall](../after-intervention/bidding-after-two-suited-overcall.md).

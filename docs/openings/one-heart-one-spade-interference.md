@@ -43,6 +43,7 @@
 
 ??? note "Responses after 1♥/1♠ - (Overcall)"
     ### Responses after 1♥/1♠ - (Overcall)
+    <a id="responses-after-1-1---overcall"></a>
 
     When an opponent overcalls our 1♥ or 1♠ opening bid, the following responses promise a fit in the opened major.
 
@@ -50,6 +51,8 @@
     | --------------- | -------------------------------------------- |
     | 2NT             | Game forcing with fit                        |
     | Opponent’s suit | Invitation to game with fit or "bad forcing" |
+
+    - **Note**: For two-suited overcalls (e.g., 2♥ or 2♠ Michaels, or 2NT showing both minors after 1♥), see [Bidding After an Opponent’s Two-Suited Overcall](../after-intervention/bidding-after-two-suited-overcall.md).
 
     #### Note
 
