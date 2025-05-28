@@ -34,20 +34,65 @@
 
     ??? note "Opener’s Rebids after 1♣ - 1♦"
         #### Opener’s Rebids after 1♣ - 1♦
-        | Bid        | Meaning                                                                                                                                                        |
-        | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-        | 1♥/1♠      | 1) 12-14 with longer major suit<br>2) 12-21 with four-card suit and 5+ clubs<br>3) 18-21 with five-card suit<br>4) 18-21 with four-card suit and five diamonds |
-        | 1NT        | 18-20 balanced                                                                                                                                                 |
-        | ರ</img> 2♣ | 12-17 with 6+ clubs¹                                                                                                                                           |
-        | 2♦         | Game forcing (not two-suited)                                                                                                                                  |
-        | 2♥/2♠      | 21-22 with five-card suit                                                                                                                                      |
-        | 2NT        | 21-23 balanced                                                                                                                                                 |
-        | 3♣/3♦      | 18-22 with 6+ cards in bid suit                                                                                                                                |
-        | 3♥         | Game forcing; two-suiter with hearts (and any second suit)                                                                                                     |
-        | 3♠         | Game forcing; two-suiter with spades (and a minor)                                                                                                             |
-        | 4♣         | Game forcing; two-suiter in minors                                                                                                                             |
+        | Bid   | Meaning                                                                                                                                                        |
+        | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+        | 1♥/1♠ | 1) 12-14 with longer major suit<br>2) 12-21 with four-card suit and 5+ clubs<br>3) 18-21 with five-card suit<br>4) 18-21 with four-card suit and five diamonds |
+        | 1NT   | 18-20 balanced                                                                                                                                                 |
+        | 2♣    | 12-17 with 6+ clubs¹                                                                                                                                           |
+        | 2♦    | Game forcing (not two-suited)                                                                                                                                  |
+        | 2♥/2♠ | 21-22 with five-card suit                                                                                                                                      |
+        | 2NT   | 21-23 balanced                                                                                                                                                 |
+        | 3♣/3♦ | 18-22 with 6+ cards in the bid suit                                                                                                                            |
+        | 3♥    | Game forcing; two-suiter with hearts (and any second suit)                                                                                                     |
+        | 3♠    | Game forcing; two-suiter with spades (and a minor)                                                                                                             |
+        | 4♣    | Game forcing; two-suiter in minors                                                                                                                             |
+
+        ??? note "Further Bidding after 1♣ - 1♦ - 3♥ (Game Forcing, Two-Suiter with Hearts)"
+            #### Further Bidding after 1♣ - 1♦ - 3♥
+            After 1♣ - 1♦ - 3♥, opener shows a game-forcing hand with at least 5 hearts and a second suit (at least 5-5).
+
+            | Responder’s Bid | Meaning                      |
+            | --------------- | ---------------------------- |
+            | 3♠              | Prefers spades over hearts   |
+            | 3NT             | Asks for opener’s minor suit |
+            | 4♣/4♦           | Cue bid agreeing hearts      |
+
+            #### Notes
+            - Responder’s 3♠ shows a preference for spades if opener’s second suit is spades, indicating spades are better than hearts.
+            - 3NT asks opener to bid their minor suit.
+            - 4♣ and 4♦ are cue bids, showing agreement in hearts and interest in slam exploration.
+
+        ??? note "Further Bidding after 1♣ - 1♦ - 3♠ (Game Forcing, Two-Suiter with Spades)"
+            #### Further Bidding after 1♣ - 1♦ - 3♠
+            After 1♣ - 1♦ - 3♠, opener shows a game-forcing hand with at least 5 spades and a minor suit (at least 5-5).
+
+            | Responder’s Bid | Meaning                      |
+            | --------------- | ---------------------------- |
+            | 3NT             | Asks for opener’s minor suit |
+            | 4♣/4♦/4♥        | Cue bid agreeing spades      |
+
+            #### Notes
+            - 3NT asks opener to bid their minor suit.
+            - 4♣, 4♦, and 4♥ are cue bids, showing agreement in spades and interest in slam exploration.
+
+        ??? note "Further Bidding after 1♣ - 1♦ - 4♣ (Game Forcing, Two-Suiter in Minors)"
+            #### Further Bidding after 1♣ - 1♦ - 4♣
+            After 1♣ - 1♦ - 4♣, opener shows a game-forcing hand with both minor suits (at least 5-5 in clubs and diamonds).
+
+            | Responder’s Bid | Meaning                  |
+            | --------------- | ------------------------ |
+            | 4♦              | Agrees diamonds          |
+            | 4♥/4♠           | Cue bid agreeing clubs   |
+            | 4NT             | Blackwood agreeing clubs |
+
+            #### Notes
+            - 4♦ agrees diamonds as the trump suit.
+            - 4♥ and 4♠ are cue bids, showing agreement in clubs and interest in slam exploration.
+            - 4NT is Blackwood, with clubs agreed as the trump suit.
 
         #### Notes
+        - Two-suiters are only shown after a 1♦ response. They are never used after any intervention by the opponents.
+        - Two-suiters not strong enough for a game force after a 1♦ response are shown by bidding the major suit at the one level followed by a jump to the three level in the other suit on the next round of bidding.
         - ¹ With 5-3-3-2 including clubs, bid better major; with 5 clubs and 4 diamonds, bid 3-card major if available, otherwise 2♣.
         - With a two-suited hand (at least 5-5) that’s game forcing, opener bids with a double jump (3♥, 3♠, 4♣).
         - With a minor five-card suit and a major four-card suit, opener bids the major unless they have game forcing strength.
@@ -144,19 +189,19 @@
 
     ??? note "Opener’s Rebids after 1♣ - 1♥"
         #### Opener’s Rebids after 1♣ - 1♥
-        | Rebid | Meaning                                                        |
-        | ----- | -------------------------------------------------------------- |
-        | 1♠    | 12+; 4+ spades; forcing for one round                          |
-        | 1NT   | 12-14; without four spades and four hearts                     |
-        | 2♣    | 12-17; five clubs without four spades                          |
-        | 2♦    | [Odwrotka](../conventions/odwrotka.md)                         |
-        | 2♥    | 12-14; four hearts                                             |
-        | 2♠    | 18+; 6+ good spades                                            |
-        | 2NT   | 18+; without three hearts and four spades                      |
-        | 3♣/3♦ | 18+; 6+ cards in the bid suit                                  |
-        | 3♥    | 12-17; 5+ clubs, 4 hearts; unbalanced hand¹ (17-19 HLDF)       |
+        | Rebid | Meaning                                                                   |
+        | ----- | ------------------------------------------------------------------------- |
+        | 1♠    | 12+; 4+ spades; forcing for one round                                     |
+        | 1NT   | 12-14; without four spades and four hearts                                |
+        | 2♣    | 12-17; five clubs without four spades                                     |
+        | 2♦    | [Odwrotka](../conventions/odwrotka.md)                                    |
+        | 2♥    | 12-14; four hearts                                                        |
+        | 2♠    | 18+; 6+ good spades                                                       |
+        | 2NT   | 18+; without three hearts and four spades                                 |
+        | 3♣/3♦ | 18+; 6+ cards in the bid suit                                             |
+        | 3♥    | 12-17; 5+ clubs, 4 hearts; unbalanced hand¹ (17-19 HLDF)                  |
         | 3♠/4♦ | Splinters: 15-17 with 4-card heart support and shown shortness (20+ HLDF) |
-        | 3NT   | 7 solid clubs, stopper outside hearts                          |
+        | 3NT   | 7 solid clubs, stopper outside hearts                                     |
 
         #### Notes
         - ¹ 15-17 with 5+ clubs and 4 hearts without shortness; lower strength possible with bigger shape (e.g., 6 clubs).
@@ -200,7 +245,7 @@
         - ² With four hearts, support hearts immediately.
 
         ??? note "Checkbacks after 1♣ - 1♥ - 1♠"
-                <a id="responder-rebids-1c-1h-1s"></a>
+            <a id="responder-rebids-1c-1h-1s"></a>
             #### Two Checkbacks (After 1♣ - 1♥ - 1♠)
             - **Weak Checkback (2♣)**: Below game forcing; "I want to play 2♦ or I’m inviting to game."
             - **Strong Checkback (2♦)**: Game forcing on an unspecified distribution.
@@ -284,7 +329,7 @@
             - ¹ With 17 points, natural clubs, and heart support, use [Odwrotka](../conventions/odwrotka.md).
 
     ??? note "2♥ Rebid (12-14; Four Hearts)"
-                <a id="responder-rebids-1c-1h-2h"></a>
+        <a id="responder-rebids-1c-1h-2h"></a>
         #### Rebid 2♥ (12-14; Four Hearts)
         | Responder’s Bid | Meaning                                                                  |
         | --------------- | ------------------------------------------------------------------------ |
@@ -370,10 +415,10 @@
         #### Responder Rebids after 1♣ - 1♠ - 3♠
         After 1♣ - 1♠ - 3♠, opener shows 12-17 HCP, 4 spades, 5+ clubs, and an unbalanced hand.
 
-        | Responder’s Bid | Meaning |
-        | --------------- | ------- |
+        | Responder’s Bid | Meaning                                           |
+        | --------------- | ------------------------------------------------- |
         | 3NT             | [Shortness ask](../conventions/short-suit-ask.md) |
-        | 4♣/4♦/4♥        | Cue bid in the bid suit |                                      |
+        | 4♣/4♦/4♥        | Cue bid in the bid suit                           |  |
 
 ??? note "Response 1NT"
     ### Response 1NT
