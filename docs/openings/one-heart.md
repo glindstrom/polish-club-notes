@@ -116,7 +116,7 @@
         <a id="responder-rebids-1h-1s-2nt"></a>
         #### Responder Rebids after 1♥ - 1♠ - 2NT
 
-        - **Note**: See [After Opener’s Strong Rebid](../conventions/after-openers-strong-rebid.md) for responder rebid principles (non-forcing: 2♠, 3NT).
+        - **Note**: See [After Opener’s Strong Rebid](../conventions/after-openers-strong-rebid.md) for responder rebid principles (non-forcing: 3NT).
 
     ??? note "Responder Rebids after 1♥ - 1♠ - 3♣"
         #### Responder Rebids after 1♥ - 1♠ - 3♣

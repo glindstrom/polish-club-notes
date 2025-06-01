@@ -134,7 +134,7 @@
         | --------------- | ---------------------------------------------------------------------------------- |
         | 2NT             | Asking about distribution (see [Two NT Forcing](../conventions/two-nt-forcing.md)) |
 
-        - **Note**: See [After Opener’s Strong Rebid](../conventions/after-openers-strong-rebid.md) for complete responder rebid principles (non-forcing: 2♥, 3♦, 3NT).
+        - **Note**: See [After Opener’s Strong Rebid](../conventions/after-openers-strong-rebid.md) for complete responder rebid principles (non-forcing: 3♦, 3NT).
 
         ??? note "After 2NT (Asking about Distribution)"
             #### After 2NT (Asking about Distribution)
@@ -149,7 +149,7 @@
         <a id="responder-rebids-1d-1h-2nt"></a>
         #### Responder Rebids after 1♦ - 1♥ - 2NT
 
-        - **Note**: See [After Opener’s Strong Rebid](../conventions/after-openers-strong-rebid.md) for responder rebid principles (non-forcing: 2♥, 3♦, 3NT).
+        - **Note**: See [After Opener’s Strong Rebid](../conventions/after-openers-strong-rebid.md) for responder rebid principles (non-forcing: 3♦, 3NT).
 
     ??? note "Responder Rebids after 1♦ - 1♥ - 3♣"
         <a id="responder-rebids-1d-1h-3c"></a>
@@ -236,7 +236,7 @@
         <a id="responder-rebids-1d-1s-2nt"></a>
         #### Responder Rebids after 1♦ - 1♠ - 2NT
 
-        - **Note**: See [After Opener’s Strong Rebid](../conventions/after-openers-strong-rebid.md) for responder rebid principles (non-forcing: 2♠, 3♦, 3NT).
+        - **Note**: See [After Opener’s Strong Rebid](../conventions/after-openers-strong-rebid.md) for responder rebid principles (non-forcing: 3♦, 3NT).
 
     ??? note "Responder Rebids after 1♦ - 1♠ - 3♣"
         <a id="responder-rebids-1d-1s-3c"></a>
