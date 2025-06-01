@@ -48,3 +48,22 @@
     | --------------- | --------------------------------------- |
     | 2♥              | 4 hearts, forcing                       |
     | 2♠              | Negative, 2+ spades, choice of contract |
+
+??? note "Passed Hand Drury"
+    ### Passed Hand Drury
+
+    - **Context**: After our initial pass, opponent’s opening, and partner’s overcall in a major (1♥ or 1♠).
+    - **Bidding**:
+      - 2♣ is natural, showing a club suit and denying a fit for partner’s major.
+      - To show a maximum passed hand with a fit (3+ cards in partner’s major), bid the opponent’s suit.
+
+    | We   | They  | We    | They |
+    | ---- | ----- | ----- | ---- |
+    | Pass | 1♣/1♦ | 1♥/1♠ | Pass |
+    |   ?  |       |       |      |
+
+    | Response         | Meaning                                      |
+    | ---------------- | -------------------------------------------- |
+    | 2♣               | Natural, club suit, no fit for partner’s major |
+    | Opponent’s suit  | Maximum passed hand, 3+ card fit for partner’s major |    
+    
