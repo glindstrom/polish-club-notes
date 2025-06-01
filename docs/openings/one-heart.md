@@ -92,8 +92,9 @@
             | 3♠           | 15-17; 3♠                  |
             | 3NT          | 15-17; no 3♠, ♦ stopper    |
 
-    ??? note "Responder Rebids after 1♥ - 1♠ - 2♠"
-        #### Responder Rebids after 1♥ - 1♠ - 2♠
+    ??? note "Responder Rebids after 1♥ - 1♠ - 2♥"
+        <a id="responder-rebids-1h-1s-2h"></a>
+        #### Responder Rebids after 1♥ - 1♠ - 2♥
 
         | Responder’s Bid | Description                                                                               |
         | --------------- | ----------------------------------------------------------------------------------------- |

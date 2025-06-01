@@ -10,6 +10,8 @@ Responder’s 2NT bid after opener’s rebid is forcing, asking opener to furthe
 - **1♦ - 1♥ - 2♠ - 2NT** [see details](../openings/one-diamond.md#responder-rebids-1d-1h-2s)
 - **1♦ - 1♠ - 2♥ - 2NT** [see details](../openings/one-diamond.md#responder-rebids-1d-1s-2h)
 - **1♦ - 2♦ - 2♥/2♠ - 2NT** [see details](../openings/one-diamond.md#responder-rebids-1d-2d-2h-or-1d-2d-2s)
+- **1♥ - 1♠ - 2♥ - 2NT** [see details](../openings/one-heart.md#responder-rebids-1h-1s-2h)
+- **1♥ - 1♠ - 2♠ - 2NT** 
 
 ### Notes
 - Used to pinpoint opener’s distribution or strength for optimal contract placement.

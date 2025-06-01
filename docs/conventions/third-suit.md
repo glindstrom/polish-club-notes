@@ -51,4 +51,4 @@
     - Other bids:
       - Rebid own suit if long and strong.
       - Raise responder’s first suit with 3-card support.
-      - Bid NT with a good stopper in the unbid suit (e.g., 1♥ – 2♣ – 2♥ – 3♠ – 3NT shows no diamond stopper).
+      - Bid NT with a good stopper in the unbid suit (e.g., 1♥ – 2♣ – 2♥ – 3♠ – 3NT shows a diamond stopper).
