@@ -145,36 +145,63 @@
             | 3♦/3♥          | 18-21; 5 spades and bid five-card suit; forcing to game |
             | 4♣             | 18+; 4 spades, 5 clubs; forcing                         |
 
-    ??? note "Notrump Rebids (1NT: 18-20; 2NT: 21-23)"
-        #### Notrump Rebids (1NT: 18-20; 2NT: 21-23)
-        - Similar to 1NT opening sequences (see 1NT opening section for details).
-        - **After 1♣ - 1♦ - 1NT**:
-          | Responder’s Bid | Meaning                              |
-          | --------------- | ------------------------------------ |
-          | 2♣              | Stayman (up to 6 points)             |
-          | 2♦/2♥/2♠/3♣     | Transfers (up to 6 points)           |
-          | 3♦              | Game invite in diamonds (4-6)        |
-          | 3♥/3♠           | 5-4-3-1 convention (forcing to game) |
+??? note "Notrump Rebids (1NT: 18-20; 2NT: 21-23)"
+    #### Notrump Rebids (1NT: 18-20; 2NT: 21-23)
+    - Similar to 1NT opening sequences (see 1NT opening section for details).
+    - **After 1♣ - 1♦ - 1NT**:
 
-        - **After 1♣ - 1♦ - 2NT**:
-          | Responder’s Bid | Meaning                    |
-          | --------------- | -------------------------- |
-          | 3♣              | Stayman (up to 6 points)   |
-          | 3♦/3♥           | Transfers (up to 6 points) |
-          | 3♠              | 5+4+ in minor suits (6-11) |
-          | 4♣/4♦           | Natural, forcing (8-11)    |
+      | Responder's Bid | Meaning                              |
+      | --------------- | ------------------------------------ |
+      | 2♣              | Stayman (up to 6 points)             |
+      | 2♦/2♥/2♠/3♣     | Transfers (up to 6 points)           |
+      | 3♦              | Game invite in diamonds (4-6)        |
+      | 3♥/3♠           | 5-4-3-1 convention (forcing to game) |
 
-        #### Notes
-        - Stayman and major suit transfers limit responder to 6 points; next bid is non-forcing (e.g., 1♣ - 1♦ - 1NT - 2♥ - 2♠ - 3♠: 4-6 points, non-forcing).
-        - 5-4-3-1 convention and minor suit transfers limit responder to 11 points; 5-4-3-1 is forcing to game.
+    - **After 1♣ - 1♦ - 2NT**:
+
+      | Responder's Bid | Meaning                    |
+      | --------------- | -------------------------- |
+      | 3♣              | Stayman (up to 6 points)   |
+      | 3♦/3♥           | Transfers (up to 6 points) |
+      | 3♠              | 5+4+ in minor suits (6-11) |
+      | 4♣/4♦           | Natural, forcing (8-11)    |
+
+    #### Notes
+    - Stayman and major suit transfers limit responder to 6 points; next bid is non-forcing (e.g., 1♣ - 1♦ - 1NT - 2♥ - 2♠ - 3♠: 4-6 points, non-forcing).
+    - 5-4-3-1 convention and minor suit transfers limit responder to 11 points; 5-4-3-1 is forcing to game.
 
     ??? note "2♦ Rebid (Game Forcing, Not Two-Suited)"
         #### 2♦ Rebid (Game Forcing, Not Two-Suited)
+        - **Meaning**: Opener’s 2♦ rebid after `1♣ - 1♦` is game-forcing and does not promise a two-suited hand.
+
         | Responder’s Bid | Meaning                               |
         | --------------- | ------------------------------------- |
         | 2♥              | Nothing interesting (second negative) |
         | 2NT             | 5-6 points, balanced hand             |
         | 2♠/3♣/3♦/3♥     | Good 5-card suit with two honors      |
+
+        ??? note "Further Bidding after 1♣ - 1♦ - 2♦ - 2♥"
+            #### Further Bidding after 1♣ - 1♦ - 2♦ - 2♥
+            - **Meaning**: Responder’s 2♥ is a second negative, indicating a weak hand with no significant features.
+            - **Opener’s Rebids**:
+            - **2NT**: Shows a balanced hand with at least 24 HCP, game-forcing (even if responder has zero points, the auction cannot stop short of game). The auction proceeds as it would after `1♣ - 1♦ - 2NT` (see [Notrump Rebids](#notrump-rebids-1nt-18-20-2nt-21-23) for responder’s bids).
+            - **2♠, 3♣, 3♦, 3♥**: Natural, showing a 5+ card suit in the bid suit.
+
+            #### Notes
+            - The 2♥ response allows opener to describe their hand further, with 2NT indicating a strong balanced hand and other bids showing specific suits naturally.
+            - Opener’s 2NT rebid with 24+ HCP uses the same response structure as the 2NT rebid after `1♣ - 1♦` (21-23 HCP), including Stayman, transfers, and other conventions as outlined in the Notrump Rebids section.
+
+        ??? note "Further Bidding after 1♣ - 1♦ - 2♦ - 2NT"
+            #### Further Bidding after 1♣ - 1♦ - 2♦ - 2NT
+            - **Meaning**: Responder’s 2NT shows 5-6 points and a balanced hand.
+            - **Opener’s Rebids**: Opener bids naturally, showing specific suits or features:
+            - 3♣: Shows a club suit (typically 5+ cards).
+            - Other bids (e.g., 3♦, 3♥, 3♠): Natural, showing a 5+ card suit in the bid suit.
+            - 3NT: Suggests a balanced hand suitable for notrump, typically with stoppers in unbid suits.
+
+            #### Notes
+            - Opener’s natural bids aim to describe their hand further, allowing responder to clarify their holding or suggest a final contract.
+            - The auction remains game-forcing due to the 2♦ rebid.
 
     ??? note "Other Rebids"
         #### Other Rebids
