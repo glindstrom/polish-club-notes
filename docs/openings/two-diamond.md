@@ -102,20 +102,22 @@
 
 ??? note "Response 3♣"
     ### Response 3♣
-
     - **Meaning**: Show your suit by transfer. Aims to either invite game or leave the choice of game denomination to partner.
 
     #### After 2♦ - 3♣ - 3♦ (Hearts)
-    | Responder’s Bid | Description                                           |
+    | Responder's Bid | Description                                           |
     | --------------- | ----------------------------------------------------- |
     | 3♥              | Invitational to 4♥                                    |
-    | 3NT             | Contract proposal (partner can correct to their suit) |
+    | 3NT*            | Contract proposal (partner can correct to their suit) |
 
     #### After 2♦ - 3♣ - 3♥ (Spades)
-    | Responder’s Bid | Description        |
+    | Responder's Bid | Description        |
     | --------------- | ------------------ |
     | 3♠              | Invitational to 4♠ |
-    | 3NT             | Contract proposal  |
+    | 3NT*            | Contract proposal  |
+
+    #### Notes
+    - *With a 6-4 shape or a seven-card major, opener should correct the contract. If opener wants to remove 3NT, it is best done with a transfer to ensure the stronger hand is the declarer.
 
 ??? note "Response 3♦"
     ### Response 3♦
