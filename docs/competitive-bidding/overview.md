@@ -13,3 +13,4 @@ Strategies to counter opponents’ opening bids, using take-out doubles, overcal
 - [NT Overcalls](nt-overcalls.md): 1NT, 2NT, or 3NT bids.
 - [Two-Suited Overcalls](two-suited-overcalls.md): Michaels or similar, two suits.
 - [Attacking-Defensive Double](attacking-defensive-double.md): Double with shape, shortage.
+- [Balancing](balancing.md): Low-point doubles and NT bids in protective position.
