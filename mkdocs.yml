@@ -33,26 +33,26 @@ plugins:
 nav:
   - Home: index.md
   - Openings:
-      - 1♣ Interference: openings/one-club-interference.md
-      - 1♣ Opening: openings/one-club.md
-      - 1♦ Interference: openings/one-diamond-interference.md
-      - 1♦ Opening: openings/one-diamond.md
-      - 1♥ Opening: openings/one-heart.md
-      - 1♥/1♠ Interference: openings/one-heart-one-spade-interference.md
-      - 1♠ Opening: openings/one-spade.md
-      - 1NT Interference: openings/one-nt-interference.md
-      - 1NT Opening: openings/one-nt.md
-      - 2♣ Interference: openings/two-club-interference.md
-      - 2♣ Opening: openings/two-club.md
-      - 2♦ Interference: openings/two-diamond-interference.md
-      - 2♦ Opening: openings/two-diamond.md
-      - 2♥/2♠ Interference: openings/two-major-interference.md
-      - 2♥/2♠ Openings: openings/two-major.md
-      - 2NT Opening: openings/two-nt.md
-      - Four-Level Openings: openings/four-level-openings.md
       - Opening Bids: openings/overview.md
-      - Preemptive Openings Overview: openings/preemptive-openings.md
+      - 1♣ Opening: openings/one-club.md
+      - 1♣ Interference: openings/one-club-interference.md
+      - 1♦ Opening: openings/one-diamond.md
+      - 1♦ Interference: openings/one-diamond-interference.md
+      - 1♥ Opening: openings/one-heart.md
+      - 1♠ Opening: openings/one-spade.md
+      - 1♥/1♠ Interference: openings/one-heart-one-spade-interference.md
+      - 1NT Opening: openings/one-nt.md
+      - 1NT Interference: openings/one-nt-interference.md
+      - 2♣ Opening: openings/two-club.md
+      - 2♣ Interference: openings/two-club-interference.md
+      - 2♦ Opening: openings/two-diamond.md
+      - 2♦ Interference: openings/two-diamond-interference.md
+      - 2♥/2♠ Openings: openings/two-major.md
+      - 2♥/2♠ Interference: openings/two-major-interference.md
+      - 2NT Opening: openings/two-nt.md
       - Three-Level Openings: openings/three-level-openings.md
+      - Four-Level Openings: openings/four-level-openings.md
+      - Preemptive Openings Overview: openings/preemptive-openings.md
   - Competitive Bidding in Defence:
       - Attacking-Defensive Double: competitive-bidding/attacking-defensive-double.md
       - Balancing: competitive-bidding/balancing.md
@@ -66,28 +66,28 @@ nav:
       - Take-Out Doubles: competitive-bidding/take-out-doubles.md
       - Two-Suited Overcalls: competitive-bidding/two-suited-overcalls.md
   - After Intervention:
+      - Overview: after-intervention/overview.md
       - Bidding After Major Suit Agreement: after-intervention/bidding-after-major-suit-agreement.md
       - Bidding After an Opponent’s Two-Suited Overcall: after-intervention/bidding-after-two-suited-overcall.md
-      - Overview: after-intervention/overview.md
       - Support Double and Redouble: after-intervention/support-double-redouble.md
       - Two-Suited Bids: after-intervention/two-suited-bids.md
   - Conventions:
+      - Overview: conventions/overview.md
+      - Fourth Suit Forcing: conventions/fourth-suit.md
+      - Third Suit Forcing: conventions/third-suit.md
       - 2NT Forcing: conventions/two-nt-forcing.md
+      - Drury: conventions/drury.md
+      - Odwrotka: conventions/odwrotka.md
       - After Opener's Strong Rebid: conventions/after-openers-strong-rebid.md
       - Checkback: conventions/checkback.md
-      - Drury: conventions/drury.md
-      - Fourth Suit Forcing: conventions/fourth-suit.md
-      - Jump in Opponent's Suit: conventions/jump-to-opponents-suit.md
-      - Odwrotka: conventions/odwrotka.md
-      - Overview: conventions/overview.md
       - Shortness Ask: conventions/short-suit-ask.md
-      - Third Suit Forcing: conventions/third-suit.md
+      - Jump in Opponent's Suit: conventions/jump-to-opponents-suit.md
   - Slam Bidding:
+      - Overview: slam-bidding/overview.md
       - 5 NT Slam Conventions: slam-bidding/five-nt-slam-conventions.md
       - 5 in Agreed Major: slam-bidding/five-level-major.md
       - Cue Bidding: slam-bidding/cue-bidding.md
       - Keycard Blackwood: slam-bidding/blackwood.md
-      - Overview: slam-bidding/overview.md
       - Specific King Ask: slam-bidding/specific-king-ask.md
   - Hand Evaluation: hand-evaluation.md
   - Carding Agreements: carding-agreements.md
