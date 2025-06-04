@@ -57,10 +57,6 @@
             | 3NT             | Asks for opener’s minor suit |
             | 4♣/4♦           | Cue bid agreeing hearts      |
 
-            #### Notes
-            - Responder’s 3♠ shows a preference for spades if opener’s second suit is spades, indicating spades are better than hearts.
-            - 3NT asks opener to bid their minor suit.
-            - 4♣ and 4♦ are cue bids, showing agreement in hearts and interest in slam exploration.
 
         ??? note "Further Bidding after 1♣ - 1♦ - 3♠ (Game Forcing, Two-Suiter with Spades)"
             #### Further Bidding after 1♣ - 1♦ - 3♠
@@ -70,10 +66,6 @@
             | --------------- | ---------------------------- |
             | 3NT             | Asks for opener’s minor suit |
             | 4♣/4♦/4♥        | Cue bid agreeing spades      |
-
-            #### Notes
-            - 3NT asks opener to bid their minor suit.
-            - 4♣, 4♦, and 4♥ are cue bids, showing agreement in spades and interest in slam exploration.
 
         ??? note "Further Bidding after 1♣ - 1♦ - 4♣ (Game Forcing, Two-Suiter in Minors)"
             #### Further Bidding after 1♣ - 1♦ - 4♣
@@ -85,10 +77,6 @@
             | 4♥/4♠           | Cue bid agreeing clubs   |
             | 4NT             | Blackwood agreeing clubs |
 
-            #### Notes
-            - 4♦ agrees diamonds as the trump suit.
-            - 4♥ and 4♠ are cue bids, showing agreement in clubs and interest in slam exploration.
-            - 4NT is Blackwood, with clubs agreed as the trump suit.
 
         #### Notes
         - Two-suiters are only shown after a 1♦ response. They are never used after any intervention by the opponents.
