@@ -2,7 +2,7 @@
 
 ## Opening Context
 
-- **1♣**: Balanced distribution (12-14;), including 4-4-4-1 with four clubs; or at least 5 clubs, unbalanced distribution (12-17;); or 18+;.
+- **1♣**: Balanced distribution (12-14), including 4-4-4-1 with four clubs; or at least 5 clubs, unbalanced distribution (12-17); or 18+.
 
 ??? note "After Opponent’s Double"
     ### After Opponent’s Double (1♣ - Dbl)
