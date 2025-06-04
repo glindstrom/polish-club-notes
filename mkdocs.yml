@@ -33,46 +33,45 @@ plugins:
 nav:
   - Home: index.md
   - Openings:
-      - Opening Bids: openings/overview.md
-      - 1♣ Opening: openings/one-club.md
       - 1♣ Interference: openings/one-club-interference.md
-      - 1♦ Opening: openings/one-diamond.md
+      - 1♣ Opening: openings/one-club.md
       - 1♦ Interference: openings/one-diamond-interference.md
+      - 1♦ Opening: openings/one-diamond.md
       - 1♥ Opening: openings/one-heart.md
-      - 1♠ Opening: openings/one-spade.md
       - 1♥/1♠ Interference: openings/one-heart-one-spade-interference.md
-      - 1NT Opening: openings/one-nt.md
+      - 1♠ Opening: openings/one-spade.md
       - 1NT Interference: openings/one-nt-interference.md
-      - Preemptive Openings Overview: openings/preemptive-openings.md
-      - 2♣ Opening: openings/two-club.md
+      - 1NT Opening: openings/one-nt.md
       - 2♣ Interference: openings/two-club-interference.md
-      - 2♦ Opening: openings/two-diamond.md
+      - 2♣ Opening: openings/two-club.md
       - 2♦ Interference: openings/two-diamond-interference.md
-      - 2♥/2♠ Openings: openings/two-major.md
+      - 2♦ Opening: openings/two-diamond.md
       - 2♥/2♠ Interference: openings/two-major-interference.md
+      - 2♥/2♠ Openings: openings/two-major.md
       - 2NT Opening: openings/two-nt.md
-      - Three-Level Openings: openings/three-level-openings.md
       - Four-Level Openings: openings/four-level-openings.md
+      - Opening Bids: openings/overview.md
+      - Preemptive Openings Overview: openings/preemptive-openings.md
+      - Three-Level Openings: openings/three-level-openings.md
   - Competitive Bidding in Defence:
-      - Overview: competitive-bidding/overview.md
       - Attacking-Defensive Double: competitive-bidding/attacking-defensive-double.md
-      - Defence Against Specific Openings: competitive-bidding/defence-specific-openings.md
+      - Balancing: competitive-bidding/balancing.md
       - Defence Against Major Raise: competitive-bidding/defence-against-major-raise.md
+      - Defence Against Specific Openings: competitive-bidding/defence-specific-openings.md
       - General Principles: competitive-bidding/general-principles.md
+      - NT Overcalls: competitive-bidding/nt-overcalls.md
       - Overcalls at the One Level: competitive-bidding/overcalls-one-level.md
       - Overcalls at the Two Level and Higher: competitive-bidding/overcalls-two-level.md
+      - Overview: competitive-bidding/overview.md
       - Take-Out Doubles: competitive-bidding/take-out-doubles.md
-      - NT Overcalls: competitive-bidding/nt-overcalls.md
       - Two-Suited Overcalls: competitive-bidding/two-suited-overcalls.md
-      - Balancing: competitive-bidding/balancing.md
   - After Intervention:
-      - Overview: after-intervention/overview.md
-      - Bidding After an Opponent’s Two-Suited Overcall: after-intervention/bidding-after-two-suited-overcall.md
-      - Two-Suited Bids: after-intervention/two-suited-bids.md
       - Bidding After Major Suit Agreement: after-intervention/bidding-after-major-suit-agreement.md
+      - Bidding After an Opponent’s Two-Suited Overcall: after-intervention/bidding-after-two-suited-overcall.md
+      - Overview: after-intervention/overview.md
       - Support Double and Redouble: after-intervention/support-double-redouble.md
+      - Two-Suited Bids: after-intervention/two-suited-bids.md
   - Conventions:
-      - Overview: conventions/overview.md
       - 2NT Forcing: conventions/two-nt-forcing.md
       - After Opener's Strong Rebid: conventions/after-openers-strong-rebid.md
       - Checkback: conventions/checkback.md
@@ -80,14 +79,15 @@ nav:
       - Fourth Suit Forcing: conventions/fourth-suit.md
       - Jump in Opponent's Suit: conventions/jump-to-opponents-suit.md
       - Odwrotka: conventions/odwrotka.md
+      - Overview: conventions/overview.md
       - Shortness Ask: conventions/short-suit-ask.md
       - Third Suit Forcing: conventions/third-suit.md
-  - Slam Bidding: 
-      - Overview: slam-bidding/overview.md
-      - Keycard Blackwood: slam-bidding/blackwood.md
-      - Cue Bidding: slam-bidding/cue-bidding.md
+  - Slam Bidding:
       - 5 NT Slam Conventions: slam-bidding/five-nt-slam-conventions.md
       - 5 in Agreed Major: slam-bidding/five-level-major.md
+      - Cue Bidding: slam-bidding/cue-bidding.md
+      - Keycard Blackwood: slam-bidding/blackwood.md
+      - Overview: slam-bidding/overview.md
       - Specific King Ask: slam-bidding/specific-king-ask.md
   - Hand Evaluation: hand-evaluation.md
   - Carding Agreements: carding-agreements.md
