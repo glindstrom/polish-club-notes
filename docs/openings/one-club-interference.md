@@ -110,19 +110,19 @@
     | Double         | 12-17; support double, 3+ hearts                      |
     | 1NT            | 12-14; good spade stopper                             |
     | 2♣             | 12+; natural                                          |
-    | 2♥             | 18+; [Odwrotka](../conventions/odwrotka.md)           |
+    | 2♦             | 18+; [Odwrotka](../conventions/odwrotka.md)           |
+    | 2♥             | 12-14; four-card hearts |
     | 2♠             | 18+; asking for a spade stopper, without three hearts |
     | 2NT            | 18+; natural with a spade stopper                     |
-    | 3♣             | 18+; natural                                          |
-    | 3♦             | 18+; natural                                          |
+    | 3♣ / 3♦             | 18+; natural                                          |                                     
     | 3♠             | 18+; splinter, shortness in spades, 4+ hearts         |
 
     #### After 1♣ - (Pass) - 1♥ - (2♦)
     | Opener’s Rebid | Meaning                                                 |
     | -------------- | ------------------------------------------------------- |
-    | Double         | 18+; says nothing about a fit in partner's suit         |
+    | Double         | Shows at least 3-card support for hearts. Does not specify the strength or the variant of the 1♣ opening (may be weak or strong)         |
     | 2NT            | 18+; natural, denies 3+ hearts, with a diamond stopper  |
-    | 3♣             | 15+; natural, 5+ clubs, forcing                         |
+    | 3♣             | 15+; natural, 5+ clubs, forcing, denies 3-card heart support                         |
     | 3♦             | 18+; asking for a diamond stopper, without three hearts |
 
     #### After 1♣ - (Pass) - 1♥ - (2♠)
@@ -142,7 +142,7 @@
 
 
     #### Notes
-    - After an overcall at the two level or higher, a double indicates a strong club (18+), and the fit-showing double convention does not apply.
+    - After an overcall at two of the trump suit or higher, a double indicates a strong club (18+), and the fit-showing double convention does not apply.
     - 2♦ can be [Odwrotka](../conventions/odwrotka.md) in relevant sequences.
     - Opponent’s suit without a jump denies a fit.
     - Opponent’s suit with a jump is a splinter, showing shortness in the bid suit and support for partner’s suit.
