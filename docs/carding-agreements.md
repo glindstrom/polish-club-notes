@@ -17,8 +17,8 @@ Carding agreements in the Polish Club system cover signalling and leads, using O
 - High odd then low odd in same suit: Cancels encouraging message.  
 - Discarding twice from same suit:  
     - First discard: Attitude.  
-    - Second discard: Present count (play card you would lead from remaining holding).  
-- Discarding from suit partner led: Show current count (play card you would lead from remaining holding).  
+    - Second discard: Present count (play the card you would lead from remaining holding).  
+- Discarding from suit partner led: Show current count (play the card you would lead from remaining holding).  
 
 #### Specific Situations
 - Declarer peeling winners (no dummy entry, all tricks but one, worthless hand):  
