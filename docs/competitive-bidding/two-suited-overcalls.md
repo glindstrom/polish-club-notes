@@ -16,7 +16,7 @@ Two-suited overcalls show a hand with typically 5-5 or better distribution, incl
 | 1♥   | ?   |
 
 | Bid  | Meaning |
-| :--- | ------- |剧情              |
+| :--- | ------- |              
 | 2♥  | 5+ spades, 5+ minor            |
 | 2NT | 5-5 minors, unlimited strength |
 
