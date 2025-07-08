@@ -19,7 +19,7 @@
     | 1NT         | 7-10; no major suit four-card holdings                   |
     | 2♣/2♦       | 12+; 5+ cards, game forcing                              |
     | 2♥          | 7-9; 5+ spades, 4+ hearts                                |
-    | 2♠          | 13+; no major suit four-card holdings, game forcing      |
+    | 2♠          | 13+; no 4-card major or 5-card minor, game forcing      |
     | 2NT         | 11-12; no major suit four-card holdings, inviting to 3NT |
     | 3♣/3♦       | 9-11; good six-card suit, non-forcing                    |
     | 3♥/3♠       | 3-6; poor seven-card suit                                |
@@ -509,7 +509,7 @@
 ??? note "Response 2♠"
     ### Response 2♠
 
-    - **Meaning**: 13+ points, no 4-card majors, game forcing.
+    - **Meaning**: 13+ points, no 4-card major, no 5-card minor, game forcing.
 
     ??? note "Opener’s Rebids after 1♣ - 2♠"
         #### Opener’s Rebids after 1♣ - 2♠
