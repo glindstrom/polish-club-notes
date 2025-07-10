@@ -3,7 +3,9 @@
 ### Description
 
 - **Context**: After a 1♥ or 1♠ overcall, responder bids 2♣ to show a fit (3+ cards in partner’s major) and 10+ points.
-- **Applies**: After natural or artificial opponent opening; also used fourth in hand (both opponents bid or one opponent bids).
+- **Applies**: After natural or artificial opponent opening; also used fourth in hand (both opponents bid or one opponent bids). **Does not apply if responder has made an opening pass. Then cuebid shows support.**
+
+
 
 ??? note "Bidding Details"
     ### Bidding Details

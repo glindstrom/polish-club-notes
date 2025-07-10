@@ -14,7 +14,7 @@ The 2♦ opening (Multi) shows 6 cards in hearts or spades, at a strength below 
     | Response | Meaning                                          |
     | -------- | ------------------------------------------------ |
     | Pass     | I can play in diamonds                           |
-    | XX       | OPTIONAL: "Bid 2♥ and I will place the contract" |
+    | XX       | "Bid 2♥ and I will place the contract" |
     | Other    | Same as without double                           |
 
     #### Note
