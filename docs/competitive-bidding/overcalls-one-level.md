@@ -46,7 +46,7 @@
 
     | Response                       | Meaning                                                                        |
     | ------------------------------ | ------------------------------------------------------------------------------ |
-    | 2♥ (after 1♥) or 2♠ (after 1♠) | 6–10 points, 3+ cards in overcaller’s suit, includes top honor (e.g., K, Q, J) |
+    | 2♥ (after 1♥) or 2♠ (after 1♠) | 6–10 points, 3+ cards in overcaller’s suit, includes top honor (A, K or Q) |
     | 2♦ (after 1♥) or 2♥ (after 1♠) | 6–10 points, 3+ cards in overcaller’s suit, no top honor                       |
     | Others                         | Same as after 1♥ or 1♠ opening and opponent’s double                           |
 
