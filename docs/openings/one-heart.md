@@ -20,7 +20,7 @@
     | 3♦       | 10-11; invitational, 6+♦                                             |
     | 3♥       | Preemptive; 4+♥ support                                              |
     | 3♠       | 12-16; 4+♥, splinter with shortness                                  |
-    | 3NT      | 9-14; good raise to 4♥, 4♥ support                                   |
+    | 3NT      | 9-14; good raise to 4♥, 4+♥ support                                   |
     | 4♣       | 12-16; 4+♥, splinter with shortness                                  |
     | 4♥       | 0-8; blocking raise, 3+♥ support                                     |
     | 4♠       | Blocking, long ♠, weak honors                                        |

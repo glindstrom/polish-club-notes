@@ -27,7 +27,7 @@
     | 3♣             | 15-17; 4+♣                     |
     | 3♦             | 15-17; 4+♦                     |
     | 3♥             | 15-17; 4+♥ fit                 |
-    | 3NT            | 12-14; 3♥ fit, minor shortness |
+    | 3NT            | 12-14; 3+♥ fit, minor shortness |
     | 4♣             | 15-17; splinter, 4+♥ fit       |
     | 4♦             | 15-17; splinter, 4+♥ fit       |
     | 4♥             | 12-14; ♥ fit, no shortness     |
