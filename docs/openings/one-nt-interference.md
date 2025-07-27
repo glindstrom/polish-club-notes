@@ -1,5 +1,14 @@
 # 1NT Opening - Interference
 
+### General Principles for Natural Overcalls
+
+After an opponent’s natural overcall over our 1NT opening, we apply the following principles:
+
+- Double is for takeout, 5+ points.
+- A new suit at the two level is natural and non-forcing.
+- Bids from 2NT to 3♥ are transfers with at least invitational strength; a transfer to the opponent’s suit asks for a stopper in that suit.
+- 3♠ shows at least 5-4 in the minors and is game forcing.
+
 ??? note "Responses after 1NT - (X, Conventional)"
     ### Responses after 1NT - (X, Conventional)
 
@@ -37,26 +46,34 @@
 ??? note "Responses after 1NT - (2♥, Natural) - Rubensohl"
     ### Responses after 1NT - (2♥, Natural) - Rubensohl
 
-    | Response | Description                                   |
-    | -------- | --------------------------------------------- |
-    | X        | 6+ HCP, takeout, 4+♠                          |
-    | 2♠       | 0-8 HCP, natural, non-forcing                 |
-    | 2NT      | 6+ HCP, transfer to ♣, 5+♣                    |
-    | 3♣       | 6+ HCP, transfer to ♦, 5+♦                    |
-    | 3♦       | Transfer to ♥, asks for stopper               |
-    | 3♥       | 6+ HCP, transfer to ♠, 5+♠, game invitational |
+    | Response | Description                                                           |
+    | -------- | --------------------------------------------------------------------- |
+    | X        | Takeout, 5+ points, 4+♠                                               |
+    | 2♠       | Natural, non-forcing                                                  |
+    | 2NT      | At least invitational strength, transfer to ♣, 5+♣                    |
+    | 3♣       | At least invitational strength, transfer to ♦, 5+♦                    |
+    | 3♦       | Transfer to ♥, asks for ♥ stopper                                     |
+    | 3♥       | At least invitational strength, transfer to ♠, 5+♠, game invitational |
+    | 3♠       | At least 5-4 in minors (♣ and ♦), game forcing                        |
+
+    #### Note
+    - Follows general principles for natural overcalls. 3♥ (transfer to ♠) is game invitational; 3♦ asks for a ♥ stopper.
 
 ??? note "Responses after 1NT - (2♠, Natural) - Rubensohl"
     ### Responses after 1NT - (2♠, Natural) - Rubensohl
 
-    | Response | Description                                   |
-    | -------- | --------------------------------------------- |
-    | X        | 6+ HCP, takeout, 4+♥                          |
-    | 2NT      | 6+ HCP, transfer to ♣, 5+♣                    |
-    | 3♣       | 6+ HCP, transfer to ♦, 5+♦                    |
-    | 3♦       | Transfer to ♠, asks for stopper               |
-    | 3♥       | 6+ HCP, transfer to ♥, 5+♥, game invitational |
-    | 3NT      | Natural, implies ♠ stopper                    |
+    | Response | Description                                                           |
+    | -------- | --------------------------------------------------------------------- |
+    | X        | Takeout, 5+ points, 4+♥                                               |
+    | 2NT      | At least invitational strength, transfer to ♣, 5+♣                    |
+    | 3♣       | At least invitational strength, transfer to ♦, 5+♦                    |
+    | 3♦       | At least invitational strength, transfer to ♥, 5+♥, game invitational |
+    | 3♥       | Transfer to ♠, asks for ♠ stopper                                     |
+    | 3♠       | At least 5-4 in minors (♣ and ♦), game forcing                        |
+    | 3NT      | Natural, implies ♠ stopper                                            |
+
+    #### Note
+    - Follows general principles for natural overcalls. 3♦ (transfer to ♥) is game invitational; 3♥ asks for a ♠ stopper.
 
 ??? note "Rebids after 1NT - (2♠) - 3♦ (Transfer to ♥)"
     ### Rebids after 1NT - (2♠) - 3♦ (Transfer to ♥)
@@ -68,7 +85,7 @@
     | 4♥             | Exceptional hand, good ♥ fit        |
 
     #### Note
-    - Rubensohl applies after natural 2-level overcalls. 2-level bids are non-forcing; 2NT-3♥ are transfers (6+ HCP, except 3♦ asks for stopper). Opener usually accepts transfers at the lowest level, bids game with exceptional hands.
+    - Opener’s rebids after a 3♦ transfer to ♥: accepts transfer (3♥), shows a ♥ stopper (3NT), or bids game with a strong ♥ fit (4♥).
 
 ??? note "Responses after 1NT - (2♣, Artificial, Both Majors)"
     ### Responses after 1NT - (2♣, Artificial, Both Majors)
@@ -76,21 +93,18 @@
     | Response | Description                                        |
     | -------- | -------------------------------------------------- |
     | X        | 8+ HCP, interest in penalizing opponents           |
-    | 2♦       | 0-8 HCP, natural, non-forcing, 5+♦                 |
-    | 2♥       | 0-8 HCP, natural, non-forcing, 5+♥                 |
-    | 2♠       | 0-8 HCP, natural, non-forcing, 5+♠                 |
+    | 2♦       | Natural, non-forcing, 5+♦                          |
+    | 2♥       | Natural, non-forcing, 5+♥                          |
+    | 2♠       | Natural, non-forcing, 5+♠                          |
     | 2NT      | Transfer to ♣, 5+♣, at least invitational strength |
     | 3♣       | Transfer to ♦, 5+♦, at least invitational strength |
     | 3♦       | Transfer to ♥, 5+♥, at least invitational strength |
     | 3♥       | Transfer to ♠, 5+♠, at least invitational strength |
 
-??? note "Bidding at 3-Level (After Artificial Overcall)"
-    ### Bidding at 3-Level (After Artificial Overcall)
+??? note "Bidding at 3-Level"
+    ### Bidding after overcalls at the three level 
 
     | Response | Description       |
     | -------- | ----------------- |
-    | X        | Negative, forcing |
+    | X        | Negative |
     | Other    | Natural, forcing  |
-
-    #### Note
-    - After artificial 2♣ (both majors), double (8+ HCP) seeks to penalize. 2-level bids are non-forcing; 2NT-3♥ are transfers (at least invitational, 6+ HCP implied). 3-level bidding uses negative double and natural, forcing bids.
