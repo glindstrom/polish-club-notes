@@ -263,6 +263,25 @@
     ### Response 2NT
 
     - **Meaning**: 10-12; invitational with fit, or “bad forcing”: 13-15; 4-3-3-3 shape.
+    ??? note "Opener Rebids"
+        #### Opener Rebids
+
+        | Opener’s Rebid | Description              |
+        | -------------- | ------------------------ |
+        | 3♣             | 4+♣, invites game        |
+        | 3♦             | 4+♦, invites game        |
+        | 3♥             | 12-14; minimum           |
+        | 3♠             | Splinter, shortness in ♠ |
+        | 3NT            | 15-17; 5-3-3-2 pattern   |
+        | 4♣             | Splinter, shortness in ♣ |
+        | 4♦             | Splinter, shortness in ♦ |
+        | 4♥             | To play                  |
+
+        #### Notes
+        - 3♣ and 3♦ are natural, inviting game, typically showing 4+ cards in the bid suit. Responder can accept or clarify with a 4-3-3-3 shape.
+        - 3♥ shows a minimum hand (12-14 HCP), non-forcing, allowing responder to pass with an invitational hand.
+        - 3♠, 4♣, and 4♦ are splinters, showing shortness in the bid suit and 5+♥, encouraging slam exploration if responder has a suitable hand.
+        - 3NT shows a maximum balanced hand (15-17 HCP, 5-3-3-2 shape), suitable for responder’s invitational or forcing hand.
 
 ??? note "Response 3♣"
     ### Response 3♣
