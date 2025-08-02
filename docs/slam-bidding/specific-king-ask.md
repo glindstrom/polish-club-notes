@@ -12,19 +12,19 @@
     #### Responses (Hearts Agreed, 5♠ Ask)
     | Response | Meaning                                                     |
     | -------- | ----------------------------------------------------------- |
+    | 5NT      | King of spades, or two kings without the king of spades     |
     | 6♣       | King of clubs, or two kings without the king of clubs       |
     | 6♦       | King of diamonds, or two kings without the king of diamonds |
-    | 6♥       | King of hearts, or two kings without the king of hearts     |
-    | 6♠       | No kings                                                    |
+    | 6♥       | No kings                                                    |
     | 6NT      | All three kings                                             |
 
     #### Responses (Spades Agreed, 5NT Ask)
     | Response | Meaning                                                     |
     | -------- | ----------------------------------------------------------- |
-    | 5NT      | King of spades, or two kings without the king of spades     |
     | 6♣       | King of clubs, or two kings without the king of clubs       |
     | 6♦       | King of diamonds, or two kings without the king of diamonds |
-    | 6♥       | No kings                                                    |
+    | 6♥       | King of hearts, or two kings without the king of hearts     |
+    | 6♠       | No kings                                                    |
     | 6NT      | All three kings                                             |
 
     #### Note

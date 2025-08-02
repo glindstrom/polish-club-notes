@@ -54,6 +54,7 @@ nav:
       - Four-Level Openings: openings/four-level-openings.md
       - Preemptive Openings Overview: openings/preemptive-openings.md
   - Competitive Bidding in Defence:
+      - Overview: competitive-bidding/overview.md
       - Attacking-Defensive Double: competitive-bidding/attacking-defensive-double.md
       - Balancing: competitive-bidding/balancing.md
       - Defence Against Major Raise: competitive-bidding/defence-against-major-raise.md
@@ -62,7 +63,6 @@ nav:
       - NT Overcalls: competitive-bidding/nt-overcalls.md
       - Overcalls at the One Level: competitive-bidding/overcalls-one-level.md
       - Overcalls at the Two Level and Higher: competitive-bidding/overcalls-two-level.md
-      - Overview: competitive-bidding/overview.md
       - Take-Out Doubles: competitive-bidding/take-out-doubles.md
       - Two-Suited Overcalls: competitive-bidding/two-suited-overcalls.md
   - After Intervention:
