@@ -24,8 +24,12 @@
     | 3NT          | Maximum, heart stopper                                |
     | 3♠           | 3-card spade support                                  |
 
-    - **General Rules for Opener**:
-    - Fourth suit is forcing.
-    - With 5-5 distribution: Rebid the second suit.
+    **Rules for Opener**:
+
     - With 3-card support for responder’s suit: Show the support.
-    - Jump bids show extra strength.
+    - With 5-5 distribution: Rebid the second suit.
+    - With 5-4 distribution without 3-card support, opener bids:
+        - 2NT: minimum opener with at least a half-stopper (Qx) in the fourth suit
+        - first suit: minimum opener without a half-stopper in the fourth suit
+        - 3NT: maximum opener with a stopper in the fourth suit
+        - 3 of the fourth suit: maximum opener without a stopper in the fourth suit

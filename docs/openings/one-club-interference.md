@@ -88,6 +88,49 @@
     | New suit without jump | Forcing                                |
     | Jump in a new suit    | Preemptive (weaker than two-level bid) |
 
+??? note "Bidding by the 1♣ Opener After Intervention"
+    ### Bidding by the 1♣ Opener After Intervention
+
+    A double of an opponent’s artificial 1♣ bid shows a club suit, not a strong version of the 1♣ opening.
+
+    #### Showing a Suit
+    - Showing a club suit after responder’s pass or negative does not show extra values in points.
+    - Bidding a new suit shows a five-card suit and a strong club (18+).
+
+    #### After 1♣ - (Pass) - 1♦ - (1♠)
+    | Opener’s Rebid | Meaning                                    |
+    | -------------- | ------------------------------------------ |
+    | Double         | 15-17 with spade shortage, or 18+; takeout |
+    | 1NT            | 18-20; balanced with spade stopper         |
+    | 2♣             | 12-17; 5+ clubs                            |
+    | 2♦             | 18+; 5+ diamonds                           |
+    | 2♥             | 18+; 5+ hearts                             |
+    | 3♣             | 18+; 6+ clubs                              |
+
+    #### Double Followed by a Suit Bid
+    Bidding a suit after an initial double encourages partner to bid on, showing either a two-suiter or a very strong hand.
+
+    #### Jump in a New Suit After Partner’s Pass or Negative
+    In competitive auctions, when partner has either passed or shown a negative hand, we do not bid two-suiters conventionally in the way we do in an uncontested auction.
+
+    - **After 1♣ - (1♠) - Pass - (Pass)**:
+      - 3♥: Very strong club hand, suggesting "if you can add a trick, we can make game."
+
+    #### Bidding the Opponent’s Suit
+    When we hold a strong hand, and partner has either passed or has made a negative bid, we use Michaels cue bids in a way analogous to defensive bidding. A jump in the opponent’s suit asks for a stopper and shows either a solid minor suit or a very strong hand with one suit.
+
+    #### After 1♣ - (1♦) - Pass - (1♠)
+    | Opener’s Rebid | Meaning                                                     |
+    | -------------- | ----------------------------------------------------------- |
+    | Double         | Two unbid suits (15-17), or 18+                             |
+    | 1NT            | 18-20; with diamond stopper                                 |
+    | 2♣             | 12-17; natural, 5+ clubs                                    |
+    | 2♦             | 18+; both majors, 5-5 shape                                 |
+    | 2♥             | 18+; 5+ hearts                                              |
+    | 2♠             | 18+; 5+ good spades                                         |
+    | 3♦             | Asking for a diamond stopper, or game-forcing single-suiter |
+
+
 ??? note "Bidding after second defender overcalls our 1♣ opening"
     ### Bidding after second defender overcalls our 1♣ opening
 
