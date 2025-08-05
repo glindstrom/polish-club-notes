@@ -32,7 +32,8 @@ Hand evaluation in the Polish Club system uses Honor, Length, Distribution, Fit,
     - 3 Ks: +1 pt  
     - 4 Ks: +2 pts  
     - 4 Qs: +1 pt  
-    - 3+/4 honors in a suit: +1 pt (5-card suit), +2 pts (6-card suit)  
+    - 3+/4 honors in a suit: +1 pt (5-card suit), +2 pts (6-card suit) 
+    - 4 honors or 3 + the 10: +2 pts in a 5-card suit, +3 pts in a 6-card suit 
     - One honor singleton (incl. A): -1 pt  
     - AK, AQ, KQ, QJ doubleton: -1 pt  
 
