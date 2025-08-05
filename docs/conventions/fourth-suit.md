@@ -18,11 +18,12 @@
 
     | Opener’s Bid | Meaning                                               |
     | ------------ | ----------------------------------------------------- |
+    | 2♠           | Minimum, 3-card spade support                         |
     | 2NT          | Minimum, at least a half-stopper (e.g., Qx) in hearts |
     | 3♦           | Minimum, no heart half-stopper                        |
     | 3♥           | Maximum, no heart stopper                             |
     | 3NT          | Maximum, heart stopper                                |
-    | 3♠           | 3-card spade support                                  |
+    | 3♠           | Maximum, 3-card spade support                         |
 
     **Rules for Opener**:
 
