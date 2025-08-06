@@ -133,30 +133,30 @@
             | 3♦/3♥          | 18-21; 5 spades and bid five-card suit; forcing to game |
             | 4♣             | 18+; 4 spades, 5 clubs; forcing                         |
 
-??? note "Notrump Rebids (1NT: 18-20; 2NT: 21-23)"
-    #### Notrump Rebids (1NT: 18-20; 2NT: 21-23)
-    - Similar to 1NT opening sequences (see 1NT opening section for details).
-    - **After 1♣ - 1♦ - 1NT**:
+    ??? note "Notrump Rebids (1NT: 18-20; 2NT: 21-23)"
+        #### Notrump Rebids (1NT: 18-20; 2NT: 21-23)
+        - Similar to 1NT opening sequences (see 1NT opening section for details).
+        - **After 1♣ - 1♦ - 1NT**:
 
-      | Responder's Bid | Meaning                              |
-      | --------------- | ------------------------------------ |
-      | 2♣              | Stayman (up to 6 points)             |
-      | 2♦/2♥/2♠/3♣     | Transfers (up to 6 points)           |
-      | 3♦              | Game invite in diamonds (4-6)        |
-      | 3♥/3♠           | 5-4-3-1 convention (forcing to game) |
+        | Responder's Bid | Meaning                              |
+        | --------------- | ------------------------------------ |
+        | 2♣              | Stayman (up to 6 points)             |
+        | 2♦/2♥/2♠/3♣     | Transfers (up to 6 points)           |
+        | 3♦              | Game invite in diamonds (4-6)        |
+        | 3♥/3♠           | 5-4-3-1 convention (forcing to game) |
 
-    - **After 1♣ - 1♦ - 2NT**:
+        - **After 1♣ - 1♦ - 2NT**:
 
-      | Responder's Bid | Meaning                    |
-      | --------------- | -------------------------- |
-      | 3♣              | Stayman (up to 6 points)   |
-      | 3♦/3♥           | Transfers (up to 6 points) |
-      | 3♠              | 5+4+ in minor suits (6-11) |
-      | 4♣/4♦           | Natural, forcing (8-11)    |
+        | Responder's Bid | Meaning                    |
+        | --------------- | -------------------------- |
+        | 3♣              | Stayman (up to 6 points)   |
+        | 3♦/3♥           | Transfers (up to 6 points) |
+        | 3♠              | 5+4+ in minor suits (6-11) |
+        | 4♣/4♦           | Natural, forcing (8-11)    |
 
-    #### Notes
-    - Stayman and major suit transfers limit responder to 6 points; next bid is non-forcing (e.g., 1♣ - 1♦ - 1NT - 2♥ - 2♠ - 3♠: 4-6 points, non-forcing).
-    - 5-4-3-1 convention and minor suit transfers limit responder to 11 points; 5-4-3-1 is forcing to game.
+        #### Notes
+        - Stayman and major suit transfers limit responder to 6 points; next bid is non-forcing (e.g., 1♣ - 1♦ - 1NT - 2♥ - 2♠ - 3♠: 4-6 points, non-forcing).
+        - 5-4-3-1 convention and minor suit transfers limit responder to 11 points; 5-4-3-1 is forcing to game.
 
     ??? note "2♦ Rebid (Game Forcing, Not Two-Suited)"
         #### 2♦ Rebid (Game Forcing, Not Two-Suited)
