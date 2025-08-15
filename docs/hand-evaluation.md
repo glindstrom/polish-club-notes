@@ -82,12 +82,12 @@ Hand evaluation in the Polish Club system uses Honor, Length, Distribution, Fit,
 - Two mirror suits: -1 pt  
 
 ### Semi-Fit Points
-- Doubleton Kx, Qx, or Jx in partner’s 5+ card suit: +1 pt  
+- Doubleton Kx, Qx, JT or Jx in partner’s 5+ card suit: +1 pt  
 
 ### General Rules
 - Opening hands: Count HLD pts (Honor + Length + Distribution).  
 - Responding hands: Count HL pts initially (max 2 L pts), add D pts after fit.  
-- Cumulative deductions (H + D): Max -2 pts.  
+- Cumulative deductions (H + D): Max -2 pts when opening.  
 
 ### Adjustments in Opponents’ Suit
 - 3 cards: -1 pt  
