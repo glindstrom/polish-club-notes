@@ -15,10 +15,10 @@ Two-suited overcalls show a hand with typically 5-5 or better distribution, incl
 | ---- | --- |
 | 1♥   | ?   |
 
-| Bid  | Meaning |
-| :--- | ------- |              
-| 2♥  | 5+ spades, 5+ minor            |
-| 2NT | 5-5 minors, unlimited strength |
+| Bid  | Meaning                        |
+| :--- | ------------------------------ |
+| 2♥   | 5+ spades, 5+ minor            |
+| 2NT  | 5-5 minors, unlimited strength |
 
 | They | We  |
 | ---- | --- |
@@ -36,6 +36,33 @@ Two-suited overcalls show a hand with typically 5-5 or better distribution, incl
 | Bid  | Meaning                         |
 | :--- | ------------------------------- |
 | 2♦   | 5-5 majors, no maximum strength |
+
+### Responses After 1♣/1♦ – 2♦ (5-5 majors)
+
+| They | We  | They | We  |
+| ---- | --- | ---- | --- |
+| 1♣   | 2♦  | Pass | ?   |
+
+| Bid  | Meaning                                    |
+| :--- | ------------------------------------------ |
+| 2NT  | Asking bid (at least invitational to game) |
+| 3♣   | Invitational to 4♥                         |
+| 3♦   | Invitational to 4♠                         |
+| 3♥   | Pre-emptive, four-card heart fit           |
+| 3♠   | Pre-emptive, four-card spade fit           |
+
+#### Overcaller's Responses to 2NT
+
+| They | We  | They | We  |
+| ---- | --- | ---- | --- |
+| 1♣   | 2♦  | Pass | 2NT |
+| Pass | ?   |      |     |
+
+| Bid  | Meaning              |
+| :--- | -------------------- |
+| 3♣   | Strong; game forcing |
+| 3♦   | Weak, better hearts  |
+| 3♥   | Weak, better spades  |
 
 ### Responses After 1♥ – 2♥ (5+ spades, 5+ minor)
 
