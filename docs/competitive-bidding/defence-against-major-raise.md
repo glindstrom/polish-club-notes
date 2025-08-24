@@ -16,15 +16,16 @@ Defensive bids after opponents open 1♥ or 1♠ and raise to 2♥ or 2♠. A do
 | :--- | ----------------------------------------------------------------------------------------------------------------------- |
 | Pass | Not forcing                                                                                                             |
 | Dbl  | Three-suiter or two-suiter; cannot have a diamond shortage (can have a club shortage, but at least a doubleton diamond) |
-| 2NT  | Both minors (not necessarily equal length)                                                                              |
-| 3♦   | Five diamonds                                                                                                           |
+| 2NT  | Both minors |
 
 ## Responses After Double
 
-| They  | We   | They  | We  | They | We  |
-| ----- | ---- | ----- | --- | ---- | --- |
-| 1♥/1♠ | Pass | 2♥/2♠ | Dbl | Pass | ?   |
+| They  | We   | They  | We  | 
+| ----- | ---- | ----- | --- | 
+| 1♥/1♠ | Pass | 2♥/2♠ | Dbl |
+| Pass  | ? | |  | 
 
 | Bid  | Meaning                                    |
 | :--- | ------------------------------------------ |
 | 2NT  | Both minors (not necessarily equal length) |
+| 3♦   | Five diamonds |
