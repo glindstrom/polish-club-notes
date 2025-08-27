@@ -452,23 +452,29 @@
 ??? note "Responses 2♣/2♦"
     ### Responses 2♣/2♦
 
-    - **Meaning**: 12+ points, 5+ cards, game forcing.
+    - **Meaning**: 12+ points, 5+ cards in the bid suit (2♣ shows 5+♣, 2♦ shows 5+♦), game forcing. Note that the rebid structure is taken from WJ2020 as the structure in WJ2025 isn't playable since e.g. the strong hands with 5+ diamonds have no rebid as the 2♦ rebid is designated to weak hands.
 
     ??? note "After 1♣ - 2♣"
         #### After 1♣ - 2♣
-        | Opener’s Rebid | Meaning                           |
-        | -------------- | --------------------------------- |
-        | 2♦             | 12-14; balanced hand (artificial) |
-        | 2♥/2♠          | 18+; five cards in the bid suit   |
-        | 2NT            | 18+; balanced hand                |
-        | 3♣             | 12-14; 4+ clubs, unbalanced hand  |
-        | 3♦/3♥/3♠       | 15-17; Splinter with club fit     |
+        | Opener’s Rebid | Meaning                     |
+        | -------------- | --------------------------- |
+        | 2♦             | 12+; 4+ diamonds            |
+        | 2♥             | 12+; 4+ hearts              |
+        | 2♠             | 12+; 4+ spades              |
+        | 2NT            | 12-14; no four-card major   |
+        | 3♣             | 12+; club fit               |
+        | 3♦/3♥/3♠       | 15+; splinter with club fit |
 
         #### After 1♣ - 2♣ - 2♦
-        | Responder’s Bid | Meaning                             |
-        | --------------- | ----------------------------------- |
-        | 2♥/2♠           | Natural; four cards in the bid suit |
+        | Responder’s Bid | Meaning                  |
+        | --------------- | ------------------------ |
+        | 2♥/2♠           | Third suit; game forcing |
+        | 2NT             | Game forcing             |
+        | 3♣              | 6+ clubs; game forcing   |
+        | 3♦              | Third suit; game forcing |
+        | 3♥              | 4 hearts; game forcing   |
 
+        Later in the auction, opener’s rebid of their own suit promises five cards and a Strong Club. Bidding after the 2♦ response is analogous, with adjustments for the suits involved.
     ??? note "After 1♣ - 2♦"
         #### After 1♣ - 2♦
         | Opener’s Rebid | Meaning                                 |
