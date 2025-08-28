@@ -18,7 +18,7 @@
     | Pass        | Lots of clubs                       |
     | 1♦          | 0–6 points                          |
     | 1♥/1♠       | 7+ points, usually 4 cards, forcing |
-    | 2♣          | Artificiellt, forcing               |
+    | 2♣          | Artificial, forcing               |
     | 2♦/2♥/2♠    | 7–9 points, 5-card suit             |
     | 3♣/3♦/3♥/3♠ | 9–11 points, 5-card suit            |
     | 4♥/4♠       | 6+ card suit                        |
@@ -38,7 +38,7 @@
 
     #### Responder’s Continuations after (1♣) – Double – (Pass) – 1♥/1♠ - (Pass) - (1♠/1NT)
     - Bidding mirrors responses after a 1♣ opening and 1♥/1♠ response.
-    - 2♣/2♦ by doubler: Two checkbacks (artificial, asking for further description).
+    - 2♣/2♦ by responder: Two checkbacks (artificial, asking for further description).
 
 ??? note "Responses after Other One-Level Openings"
     ### Responses after 1♦/1♥/1♠ Opening and Take-Out Double
