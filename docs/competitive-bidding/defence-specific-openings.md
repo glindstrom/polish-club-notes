@@ -300,7 +300,7 @@
 
     | Bid | Meaning     |
     | --- | ----------- |
-    | 3♦  | 5-5+ majors |
+    | 3♣  | 5-5+ majors |
 
     #### After Opponent’s Asking Bid
     | Sequence | They | We   | They | We  |
