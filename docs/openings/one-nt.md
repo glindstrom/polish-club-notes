@@ -9,9 +9,9 @@
 
 ??? note "Responder Responses to 1NT"
     ### Responder Responses to 1NT
-    | Response | Description                                      |
-    | -------- | ------------------------------------------------ |
-    | 2♣       | Stayman, 0+ HCP, asks for 4-card major suits     |
+    | Response | Description                                  |
+    | -------- | -------------------------------------------- |
+    | 2♣       | Stayman, 0+ HCP, asks for 4-card major suits |
     | 2♦       | 0+; transfer to ♥, 5+♥                       |
     | 2♥       | 0+; transfer to ♠, 5+♠                       |
     | 2♠       | 0+; transfer to ♣, 6+♣                       |
@@ -20,8 +20,8 @@
     | 3♦       | 7-9; invitational, 6♦                        |
     | 3♥       | 9+; 5-4 minors, ♥ shortness, game forcing    |
     | 3♠       | 9+; 5-4 minors, ♠ shortness, game forcing    |
-    | 4♦       | “Big” transfer to ♥                              |
-    | 4♥       | “Big” transfer to ♠                              |
+    | 4♦       | “Big” transfer to ♥                          |
+    | 4♥       | “Big” transfer to ♠                          |
 
     #### Notes
     - **2♣ Stayman**: Can be used with 0+ HCP for competitive auctions or lead suggestion.
@@ -43,8 +43,8 @@
 
     ??? note "After 1NT - 2♣ - 2♦"
         #### Responder Rebids
-        | Responder’s Bid | Description                          |
-        | --------------- | ------------------------------------ |
+        | Responder’s Bid | Description                      |
+        | --------------- | -------------------------------- |
         | 2♥              | 0-8; 4+♥, 4♠                     |
         | 2♠              | 0-8; 5+♠, 4♥                     |
         | 2NT             | 8-9; invitational to 3NT         |
@@ -63,8 +63,8 @@
 
     ??? note "After 1NT - 2♣ - 2♥"
         #### Responder Rebids
-        | Responder’s Bid | Description                       |
-        | --------------- | --------------------------------- |
+        | Responder’s Bid | Description                   |
+        | --------------- | ----------------------------- |
         | 2NT             | 8-9; invitational to 3NT      |
         | 3♣              | 9+; natural, 5+♣, 4♠, forcing |
         | 3♦              | 9+; natural, 5+♦, 4♠, forcing |
@@ -82,8 +82,8 @@
 
     ??? note "After 1NT - 2♣ - 2♠"
         #### Responder Rebids
-        | Responder’s Bid | Description                       |
-        | --------------- | --------------------------------- |
+        | Responder’s Bid | Description                   |
+        | --------------- | ----------------------------- |
         | 2NT             | 8-9; 4♥, invitational to 3NT  |
         | 3♣              | 9+; natural, 5+♣, 4♥, forcing |
         | 3♦              | 9+; natural, 5+♦, 4♥, forcing |
@@ -91,11 +91,26 @@
 
 ??? note "1NT - 2♦ (Transfer to ♥)"
     ### Opener Rebids
-    | Opener’s Rebid | Description                                             |
-    | -------------- | ------------------------------------------------------- |
-    | 2♥             | Majority of hands                                       |
-    | 2NT            | Very good ♥ fit, maximum opener (15-17 HCP), balanced   |
-    | 3♥             | Very good ♥ fit, maximum opener (15-17 HCP), unbalanced |
+    | Opener’s Rebid | Description                           |
+    | -------------- | ------------------------------------- |
+    | 2♥             | Default                               |
+    | 2NT            | Super-accept, 4♥, 4-3-3-3 shape       |
+    | 3♥             | Super-accept, 4♥, doubleton somewhere |
+
+    ??? note "After 1NT - 2♦ - 2♥"
+        #### Responder Rebids
+        | Responder’s Bid | Description                                        |
+        | --------------- | -------------------------------------------------- |
+        | 2♠              | Non-forcing                                        |
+        | 2NT             | Non-forcing, possible 4-card minor                 |
+        | 3♣              | Natural, game forcing (non-forcing if passed hand) |
+        | 3♦              | Natural, game forcing (non-forcing if passed hand) |
+        | 3♥              | Invitational to game, 6♥                           |
+        | 3♠              | Self-splinter, ♠ shortage, slam try with 6♥        |
+        | 4♣              | Self-splinter, ♣ shortage, slam try with 6♥        |
+        | 4♦              | Self-splinter, ♦ shortage, slam try with 6♥        |
+        | 4♥              | Slam try with 6♥, no shortage                      |
+        | 4NT             | Slam try with 5♥                                   |
 
     ??? note "After 1NT - 2♦ - 2♥ - 3♣"
         #### Opener Rebids
@@ -110,11 +125,26 @@
 
 ??? note "1NT - 2♥ (Transfer to ♠)"
     ### Opener Rebids
-    | Opener’s Rebid | Description                                             |
-    | -------------- | ------------------------------------------------------- |
-    | 2♠             | Majority of hands                                       |
-    | 2NT            | Very good ♠ fit, maximum opener (15-17 HCP), balanced   |
-    | 3♠             | Very good ♠ fit, maximum opener (15-17 HCP), unbalanced |
+    | Opener’s Rebid | Description                           |
+    | -------------- | ------------------------------------- |
+    | 2♠             | Default                               |
+    | 2NT            | Super-accept, 4♠, 4-3-3-3 shape       |
+    | 3♠             | Super-accept, 4♠, doubleton somewhere |
+
+    ??? note "After 1NT - 2♥ - 2♠"
+        #### Responder Rebids
+        | Responder’s Bid | Description                                        |
+        | --------------- | -------------------------------------------------- |
+        | 2NT             | Non-forcing, possible 4-card minor                 |
+        | 3♣              | Natural, game forcing (non-forcing if passed hand) |
+        | 3♦              | Natural, game forcing (non-forcing if passed hand) |
+        | 3♥              | Game forcing, 5+♠ and 5+♥                          |
+        | 3♠              | Invitational to game, 6♠                           |
+        | 3NT             | Self-splinter, ♣ shortage, slam try with 6♠        |
+        | 4♣              | Self-splinter, ♥ shortage, slam try with 6♠        |
+        | 4♦              | Self-splinter, ♦ shortage, slam try with 6♠        |
+        | 4♠              | Slam try with 6♠, no shortage                      |
+        | 4NT             | Slam try with 5♠                                   |
 
 ??? note "1NT - 2♠ (Transfer to ♣)"
     ### Opener Rebids
