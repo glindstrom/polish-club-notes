@@ -7,7 +7,7 @@
   - **Club Variant**: At least 5 clubs, unbalanced distribution (12-17 HCP).
   - **Strong Variant**: 18+ HCP.
 - **Guideline**:
-  - Open with a strong club if your hand can make game even if partner has only a king and queen plus average distribution.
+    - Open with a strong club if your hand can make game even if partner has only a king and queen plus average distribution.
 
 ??? note "Response Structure"
     ### Response Structure
