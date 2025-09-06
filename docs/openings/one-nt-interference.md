@@ -98,8 +98,8 @@ After an opponent’s natural overcall over our 1NT opening, we apply the follow
     | 2♠       | Natural, non-forcing, 5+♠                          |
     | 2NT      | Transfer to ♣, 5+♣, at least invitational strength |
     | 3♣       | Transfer to ♦, 5+♦, at least invitational strength |
-    | 3♦       | Transfer to ♥, 6+♥, at least invitational strength |
-    | 3♥       | Transfer to ♠, 6+♠, at least invitational strength |
+    | 3♦       | Transfer to ♥, 5+♥, at least invitational strength |
+    | 3♥       | Transfer to ♠, 5+♠, at least invitational strength |
 
 ??? note "Bidding at 3-Level"
     ### Bidding after overcalls at the three level 
