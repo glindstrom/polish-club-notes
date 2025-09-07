@@ -26,7 +26,7 @@ This section covers bidding situations where we have agreed on a major suit and 
     | Bid    | Meaning                                                   |
     | ------ | --------------------------------------------------------- |
     | Double | Optional; 4 cards in the doubled suit                     |
-    | 3♦     | Extra values (points or distribution); no space to invite |
+    | 3♥     | Extra values (points or distribution); no space to invite |
 
 ??? note "When Opponents Have Agreed a Suit"
     ### When Opponents Have Agreed a Suit
