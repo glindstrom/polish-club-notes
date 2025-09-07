@@ -228,9 +228,11 @@
 
             | Opener’s Bid | Description    |
             | ------------ | -------------- |
-            | 3♣           | 15-17; 6+♦, 3♣ |
-            | 3♦           | 15-17; 6+♦, 3♦ |
-            | 3♠           | 15-17; 6+♦, 3♠ |
+            | 3♣           | 5 diamonds, 4 hearts, 3 clubs |
+            | 3♦           | 6+ diamonds, 4 hearts |
+            | 3♥           | 5 diamonds, 4 hearts, 3 spades
+            | 3♠           | 6 diamonds, 3 spades |
+            | 3NT          | 5422 with 4 hearts |
 
     ??? note "Responder Rebids after 1♦ - 1♠ - 2NT"
         <a id="responder-rebids-1d-1s-2nt"></a>
