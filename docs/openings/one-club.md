@@ -147,16 +147,20 @@
 
         - **After 1♣ - 1♦ - 2NT**:
 
-        | Responder's Bid | Meaning                    |
-        | --------------- | -------------------------- |
-        | 3♣              | Stayman (up to 6 points)   |
-        | 3♦/3♥           | Transfers (up to 6 points) |
-        | 3♠              | 5+4+ in minor suits (6-11) |
-        | 4♣/4♦           | Natural, forcing (8-11)    |
+        | Bid      | Meaning                                                           |
+        | -------- | ----------------------------------------------------------------- |
+        | 3♣       | Stayman (up to 6 points)                                          |
+        | → 3♦     | No 4-card major                                                   |
+        | →→ 3♥/3♠ | Smolen: 4 cards in the bid major, 5 cards in the other major (GF) |
+        | 3♦/3♥    | Transfers (up to 6 points)                                        |
+        | 3♠       | 5+4+ in minor suits (6-11)                                        |
+        | 4♣/4♦    | Natural, forcing (8-11)                                           |
 
         #### Notes
         - Stayman and major suit transfers limit responder to 6 points; next bid is non-forcing (e.g., 1♣ - 1♦ - 1NT - 2♥ - 2♠ - 3♠: 4-6 points, non-forcing).
         - 5-4-3-1 convention and minor suit transfers limit responder to 11 points; 5-4-3-1 is forcing to game.
+        - Smolen applies only after 3♣ Stayman → 3♦ (no 4-card major).
+
 
     ??? note "2♦ Rebid (Game Forcing, Not Two-Suited)"
         #### 2♦ Rebid (Game Forcing, Not Two-Suited)
