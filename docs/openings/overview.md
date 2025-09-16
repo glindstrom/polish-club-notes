@@ -34,6 +34,9 @@ Opening bids in the Polish Club system:
 - **[2♥/2♠ Openings](two-major.md)**: 4-9 (6-11 vulnerable), 5♥/5♠ & 4+ minor (5+ minor vulnerable).
 - **[2NT Opening](two-nt.md)**: 4-11, 5-5 minors.
 
+??? note "Fourth Seat Two-Level Openings"
+    All two-level opening bids in fourth seat (after three passes) show 8-11 points.
+
 #### Preemptive Openings
 - **[Three-Level Openings](three-level-openings.md)**: Preemptive, 6+ cards (7+ vulnerable).
 - **[Four-Level Openings](four-level-openings.md)**: Natural, preemptive.
