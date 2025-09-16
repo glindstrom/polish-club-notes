@@ -56,7 +56,7 @@
     A **2NT overcall** after an opponent’s two-level opening shows 15-18 points and a stopper in the opponent’s suit.
 
     ### Development of the Auction
-    After a **2NT overcall**, Stayman and Jacoby transfers are available to explore the best contract. Additionally:
+    After a **2NT overcall**, (Garbage) Stayman and Jacoby transfers are available to explore the best contract. Additionally:
 
     - **Responder’s Bid**: 3♠ - Game forcing with 5+4+ in the minor suits (clubs and diamonds).
 
@@ -131,7 +131,7 @@
 
     With 16-18 HCP, we double and later bid NT at the cheapest possible level.
 
-    A **2NT overcall** in the balancing position after an opponent’s two-level opening shows 14-17 HCP and a stopper in the opponent’s suit. Stayman and Jacoby transfers are available after this.
+    A **2NT overcall** in the balancing position after an opponent’s two-level opening shows 14-17 HCP and a stopper in the opponent’s suit. (Garbage) Stayman and Jacoby transfers are available after this.
 
     ??? note "Example Sequences"
         1. **1NT in Balancing Position**:
@@ -165,11 +165,11 @@
            | ---- | ---- | ---- | --- |
            | 2♦   | Pass | Pass | 2NT |
 
-           - **2NT**: 14-17 HCP with a diamond stopper. Stayman and Jacoby transfers apply.
+           - **2NT**: 14-17 HCP with a diamond stopper.(Garbage) Stayman and Jacoby transfers apply.
 
     ### Development of the Auction
     After a **1NT overcall** in the balancing position, the same methods apply as after a 1NT overcall in second position (see above), with appropriate adjustments for the 11-15 HCP range.
 
-    After a **2NT overcall** in the balancing position (14-17 HCP or 19-21 HCP), Stayman and Jacoby transfers are available to explore the best contract, similar to a 2NT overcall in second position. Additionally:
+    After a **2NT overcall** in the balancing position (14-17 HCP or 19-21 HCP), (Garbage) Stayman and Jacoby transfers are available to explore the best contract, similar to a 2NT overcall in second position. Additionally:
 
     - **Responder’s Bid**: 3♠ - Game forcing with 5+4+ in the minor suits (clubs and diamonds).
