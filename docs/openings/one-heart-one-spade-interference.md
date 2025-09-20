@@ -10,7 +10,8 @@
     | 1NT      | Transfer to ♣, forcing             |
     | 2♣       | Transfer to ♦, forcing             |
     | 2♦       | Transfer to ♥, weak raise, forcing |
-    | 2♥       | 7-10; standard raise with ♥ fit    |
+    | 2♥       | 7-9(10) HLDF; standard raise with ♥ fit    |
+    | 2NT | invitational with fit |
     | 3♣       | 8-11; 5+♣, 3-card ♥ fit            |
     | 3♦       | 8-11; 5+♦, 3-card ♥ fit            |
 
@@ -28,7 +29,8 @@
     | 2♣       | Transfer to ♦, forcing          |
     | 2♦       | Transfer to ♥, forcing          |
     | 2♥       | 3-6; weak raise with ♠ fit      |
-    | 2♠       | 7-10; standard raise with ♠ fit |
+    | 2♠       | 7-9(10) HLDF; standard raise with ♠ fit |
+    | 2NT      | invitational with fit           |
     | 3♣       | 8-11; 5+♣, 3-card ♠ fit         |
     | 3♦       | 8-11; 5+♦, 3-card ♠ fit         |
 

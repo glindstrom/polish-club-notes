@@ -13,16 +13,16 @@
     | 1NT      | 7-11; denies 3♥                                                      |
     | 2♣       | 12+; 2+♣, game forcing                                               |
     | 2♦       | 12+; 5+♦                                                             |
-    | 2♥       | 6-11; 3+♥ support                                                    |
+    | 2♥       | 7-9(10) HLDF; 3+♥ support                                                    |
     | 2♠       | 4-8; 6♠, to play                                                     |
-    | 2NT      | 10-12; invitational with fit, or “bad forcing”: 13-15; 4-3-3-3 shape |
+    | 2NT      | 10-12 HLDF; invitational with fit, or “bad forcing”: 13-15; 4-3-3-3 shape |
     | 3♣       | 10-11; invitational, 6+♣                                             |
     | 3♦       | 10-11; invitational, 6+♦                                             |
     | 3♥       | Preemptive; 4+♥ support                                              |
-    | 3♠       | 12-16; 4+♥, splinter with shortness                                  |
-    | 3NT      | 9-14; good raise to 4♥, 4+♥ support                                   |
-    | 4♣       | 12-16; 4+♥, splinter with shortness                                  |
-    | 4♥       | 0-8; blocking raise, 3+♥ support                                     |
+    | 3♠       | 12-16 (~16-18 HLDF); 4+♥, splinter with shortness                                  |
+    | 3NT      | 9-14 (13-15 HLDF); good raise to 4♥, 4+♥ support                                   |
+    | 4♣       | 12-16 (~16-18 HLDF); 4+♥, splinter with shortness                                  |
+    | 4♥       | 0-8; blocking raise                                  |
     | 4♠       | Blocking, long ♠, weak honors                                        |
 
     #### Notes
