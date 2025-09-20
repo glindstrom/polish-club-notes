@@ -54,7 +54,7 @@ After an opponent’s natural overcall over our 1NT opening, we apply the follow
     | 3♣       | At least invitational strength, transfer to ♦, 5+♦                    |
     | 3♦       | Transfer to ♥, asks for ♥ stopper                                     |
     | 3♥       | At least invitational strength, transfer to ♠, 5+♠, game invitational |
-    | 3♠       | At least 5-4 in minors (♣ and ♦), game forcing                        |
+    | 3♠       | At least 5-4 in minors, game forcing                        |
 
     #### Note
     - Follows general principles for natural overcalls. 3♥ (transfer to ♠) is game invitational; 3♦ asks for a ♥ stopper.
@@ -87,8 +87,9 @@ After an opponent’s natural overcall over our 1NT opening, we apply the follow
     #### Note
     - Opener’s rebids after a 3♦ transfer to ♥: accepts transfer (3♥), shows a ♥ stopper (3NT), or bids game with a strong ♥ fit (4♥).
 
-??? note "Responses after 1NT - (2♣, Artificial, Both Majors)"
-    ### Responses after 1NT - (2♣, Artificial, Both Majors)
+??? note "Responses after 1NT - (Artificial 2-level overcall)"
+    ### Responses after 1NT - (Artificial 2-level overcall)
+    (e.g. 2♣ majors or 2♦ Multi)
 
     | Response | Description                                        |
     | -------- | -------------------------------------------------- |
@@ -100,7 +101,8 @@ After an opponent’s natural overcall over our 1NT opening, we apply the follow
     | 3♣       | Transfer to ♦, 5+♦, at least invitational strength |
     | 3♦       | Transfer to ♥, 5+♥, at least invitational strength |
     | 3♥       | Transfer to ♠, 5+♠, at least invitational strength |
-
+    | 3♠       | At least 5-4 in minors, game forcing                        |
+    
 ??? note "Bidding at 3-Level"
     ### Bidding after overcalls at the three level 
 
