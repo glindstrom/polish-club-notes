@@ -26,7 +26,7 @@
     | 4♠       | Blocking, long ♠, weak honors                                        |
 
     #### Notes
-    - Adjust responses based on vulnerability: e.g., with 11 HCP, 3♥, balanced, bid 2♥ before vulnerability, 2NT after. 1♠ excludes weak 6♠ hands (use 2♠), making 3♠ a splinter.
+    -  1♠ excludes weak 6♠ hands (use 2♠), 3♠ is splinter.
 
 ??? note "Response 1♠"
     ### Response 1♠
