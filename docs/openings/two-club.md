@@ -51,10 +51,10 @@
     #### Responder’s Continuation (Invitational with 3-card fit)
     | Sequence          | Responder’s Bid | Description              |
     | ----------------- | --------------- | ------------------------ |
-    | 2♣ - 2♦           | 3♥              | Invite with three hearts |
-    | 2♣ - 2♦           | 3♠              | Invite with three spades |
-    | 2♣ - 2♦ - 2♥ - 2♠ | 3♥              | Invite with three hearts |
-    | 2♣ - 2♦ - 2♥ - 2♠ | 3♠              | Invite with three spades |
+    | 2♣ - 2♦ - 2♥       | 3♥ | Invite with three hearts |
+    | 2♣ - 2♦ - 2♥      | 2♠ | Invite with three spades |
+    | 2♣ - 2♦ - 2♠ | 3♥              | Invite with three hearts |
+    | 2♣ - 2♦ - 2♠ | 3♠              | Invite with three spades |
 
     #### Responder’s Notrump Invitation
     | Sequence        | Responder’s Bid | Description             |
