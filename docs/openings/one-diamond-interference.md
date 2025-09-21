@@ -5,7 +5,7 @@
 
     | Response | Description                                      |
     | -------- | ------------------------------------------------ |
-    | XX       | 10+; denies diamond support                  |
+    | XX       | 10+; does not deny diamond support           |
     | 1♥       | 5-9; natural, non-forcing, good suit quality |
     | 1♠       | 5-9; natural, non-forcing, good suit quality |
     | 2♣       | 5-9; natural, non-forcing, good suit quality |
@@ -13,6 +13,7 @@
     | 2♥       | 5-9; preemptive, 6+♥                         |
     | 2♠       | 5-9; preemptive, 6+♠                         |
     | 3♣       | 5-9; preemptive, 6+♣                         |
+    | 3♦       | preemptive                                   |
 
     #### Note
 
