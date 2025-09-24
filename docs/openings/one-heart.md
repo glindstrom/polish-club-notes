@@ -9,20 +9,20 @@
 
     | Response | Description                                                          |
     | -------- | -------------------------------------------------------------------- |
-    | 1♠       | 5+♠                                                                  |
+    | 1♠       | 4+♠                                                                  |
     | 1NT      | 7-11; denies 3♥                                                      |
     | 2♣       | 12+; 2+♣, game forcing                                               |
     | 2♦       | 12+; 5+♦                                                             |
-    | 2♥       | 7-9(10) HLDF; 3+♥ support                                                    |
+    | 2♥       | 7-9(10) HLDF; 3+♥ support                                            |
     | 2♠       | 4-8; 6♠, to play                                                     |
     | 2NT      | 10-12 HLDF; invitational with fit, or “bad forcing”: 13-15; 4-3-3-3 shape |
     | 3♣       | 10-11; invitational, 6+♣                                             |
     | 3♦       | 10-11; invitational, 6+♦                                             |
     | 3♥       | Preemptive; 4+♥ support                                              |
-    | 3♠       | 12-16 (~16-18 HLDF); 4+♥, splinter with shortness                                  |
-    | 3NT      | 9-14 (13-15 HLDF); good raise to 4♥, 4+♥ support                                   |
-    | 4♣       | 12-16 (~16-18 HLDF); 4+♥, splinter with shortness                                  |
-    | 4♥       | 0-8; blocking raise                                  |
+    | 3♠       | 12-16 (~16-18 HLDF); 4+♥, splinter with shortness                    |
+    | 3NT      | 9-14 (13-15 HLDF); good raise to 4♥, 4+♥ support                     |
+    | 4♣       | 12-16 (~16-18 HLDF); 4+♥, splinter with shortness                    |
+    | 4♥       | 0-8; blocking raise                                                  |
     | 4♠       | Blocking, long ♠, weak honors                                        |
 
     #### Notes
@@ -31,7 +31,26 @@
 ??? note "Response 1♠"
     ### Response 1♠
 
-    - **Meaning**: 5+♠.
+    - **Meaning**: 4+♠.
+    
+    ??? note "Choosing Between 1♠ and 2♥ with 4(5)♠ and 3♥"
+        A common problem is whether to respond 1♠ or 2♥ holding 4(5) spades and 3 hearts.
+
+        - **Guideline**: Respond 1♠ only when you can afford to rebid 3♥ on the next round.  
+        - With weaker hands (7–9(10) HLDF) and 3-card support, prefer raising hearts directly to 2♥ rather than bidding 1♠.
+
+        **Examples**  
+        ```
+        1♥   1♠  
+        2♣   3♥
+        ```
+        Responder shows an invitational hand (10–12 HLDF) with at least 4 spades and 3 hearts.  
+
+        ```
+        1♥   1♠  
+        2♣   2♥
+        ```
+        Responder makes a weak preference with a doubleton. With 3 hearts and 7–9 HCP, responder should not bid spades on the first round, but raise partner’s hearts.  
 
     ??? note "Opener Rebids"
         #### Opener Rebids
@@ -47,7 +66,7 @@
         | 3♣             | 15-17; 5+♣                                        |
         | 3♦             | 15-17; 5+♦                                        |
         | 3♥             | 15-17; 6+♥                                        |
-        | 3♠             | 12-17; 4♠, unbalanced or 15-17 5422 (~17-19 HLDF) |
+        | 3♠             | 12-17; 4♠, 15-17 5422 or unbalanced ~17-19 HLDF |
         | 4♣             | 15-17; 4♠, splinter (20+ HLDF)                    |
         | 4♦             | 15-17; 4♠, splinter (20+ HLDF)                    |
 
@@ -68,29 +87,26 @@
     ??? note "Responder Rebids after 1♥ - 1♠ - 2♣"
         #### Responder Rebids after 1♥ - 1♠ - 2♣
 
-        | Responder’s Bid | Description                                 |
-        | --------------- | ------------------------------------------- |
-        | 2♦              | 12+; fourth suit, forcing                   |
-        | 2♥              | 6-10; 2 or 3♥                               |
-        | 2♠              | 9-11; natural, non-forcing but invitational |
-        | 2NT             | 9-12; natural, invitational                 |
-        | 3♣              | 9-12; natural, invitational                 |
-        | 3♦              | 9-12; natural, invitational                 |
-        | 3♠              | 12+; forcing, encouraging for slam          |
+        | Responder’s Bid | Description                       |
+        | --------------- | --------------------------------- |
+        | 3♦              | Fourth suit, forcing              |
+        | 3♥              | ♥ fit; natural, forcing (agrees)  |
+        | 3♠              | Natural, forcing                  |
 
-        ??? note "After 2♦ (Fourth Suit)"
-            #### After 2♦ (Fourth Suit)
+        ??? note "After 3♦ (Fourth Suit)"
+            #### After 3♦ (Fourth Suit)
 
             | Opener’s Bid | Description                |
             | ------------ | -------------------------- |
-            | 2♥           | 12-14; no 3♠, no ♦ stopper |
-            | 2♠           | 12-14; 3♠                  |
-            | 2NT          | 12-14; ♦ stopper           |
-            | 3♣           | 12-14; 5+♣                 |
-            | 3♦           | 15-17; no 3♠, no ♦ stopper |
-            | 3♥           | 15-17; 6+♥                 |
-            | 3♠           | 15-17; 3♠                  |
-            | 3NT          | 15-17; no 3♠, ♦ stopper    |
+            | 3♥           | 12-14; no 3♠, no ♦ stopper |
+            | 3♠           | 12-14; 3♠                  |
+            | 3NT          | 12-14; ♦ stopper           |
+            | 4♣           | 12-14; 5+♣                 |
+            | 4♦           | 15-17; no 3♠, no ♦ stopper |
+            | 4♥           | 15-17; 6+♥                 |
+            | 4♠           | 15-17; 3♠                  |
+            | 4NT          | 15-17; no 3♠, ♦ stopper    |
+                                                        |
 
     ??? note "Responder Rebids after 1♥ - 1♠ - 2♥"
         <a id="responder-rebids-1h-1s-2h"></a>
@@ -118,14 +134,24 @@
         #### Responder Rebids after 1♥ - 1♠ - 2NT
 
         - **Note**: See [After Opener’s Strong Rebid](../conventions/after-openers-strong-rebid.md) for responder rebid principles (non-forcing: 3NT).
-
     ??? note "Responder Rebids after 1♥ - 1♠ - 3♣"
         #### Responder Rebids after 1♥ - 1♠ - 3♣
 
-        | Responder’s Bid | Description                        |
-        | --------------- | ---------------------------------- |
-        | 3♥              | 2 or 3♥, forcing, does not agree ♥ |
-        | 3♠              | Natural, forcing                   |
+        | Responder’s Bid | Description                       |
+        | --------------- | --------------------------------- |
+        | 3♦              | Fourth suit, forcing              |
+        | 3♥              | ♥ fit; natural, forcing (agrees)  |
+        | 3♠              | Natural, forcing                  |
+
+    ??? note "Responder Rebids after 1♥ - 1♠ - 3♦"
+        #### Responder Rebids after 1♥ - 1♠ - 3♦
+
+        | Responder’s Bid | Description                                                               |
+        | --------------- | ------------------------------------------------------------------------- |
+        | 3♥              | ♥ fit; natural, forcing (agrees)                                          |
+        | 3♠              | 2–3♥; forcing but does not yet agree ♥ (could still land in NT or spades) |
+        | 3NT             | Natural forcing                                                          |
+
 
     ??? note "Responder Rebids after 1♥ - 1♠ - 3♠"
         <a id="responder-rebids-1h-1s-3s"></a>
@@ -238,10 +264,10 @@
 ??? note "Response 2♥"
     ### Response 2♥
 
-    - **Meaning**: 6-11; 3+♥ support.
+    - **Meaning**: 7-9(10) HLDF; 3+♥ support.
 
     #### Notes
-    - 2♥ is 6-11 HCP, 3+♥ support. Opener invites game via side suit for clarification or 3♥ directly.
+    - Opener invites game via side suit for clarification or 3♥ directly.
 
     ??? note "Opener Rebids"
         #### Opener Rebids

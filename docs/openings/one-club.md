@@ -223,7 +223,7 @@
         | 3NT   | 7 solid clubs, stopper outside hearts                                     |
 
         #### Notes
-        - ¹ 15-17 with 5+ clubs and 4 hearts without shortness; lower strength possible with bigger shape (e.g., 6 clubs).
+        - ¹ 15-17 with 5+ clubs and 4 hearts without shortness; lower strength (~17-19 HLDF) possible with bigger shape (e.g., 6 clubs).
 
         #### 2♠ Rebid (18+; 6+ Good Spades)
         - Responder can raise with a second honor in spades.
