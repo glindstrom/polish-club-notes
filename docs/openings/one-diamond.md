@@ -4,7 +4,8 @@
 
 - 12-17, 5+♦ or 4-4-4-1 (singleton ♣)
 
-??? note "Responses to 1♦" ### Responses to 1♦
+??? note "Responses to 1♦"
+    ### Responses to 1♦
 
     | Response | Description                                           |
     | -------- | ----------------------------------------------------- |
@@ -17,7 +18,7 @@
     | 2♠       | 13+; no 4-card majors, game forcing on balanced hands |
     | 2NT      | 11-12; no 4-card majors, invitational to 3NT          |
     | 3♣       | 10-11; 6+♣, invitational                              |
-    | 3♦       | 5-9 (10-12 HLDF); 4+♦, unbalanced without majors, mixed raise                   |
+    | 3♦       | 5-9 (10-12 HLDF); 4+♦, unbalanced without majors, mixed raise |
     | 3♥       | 13-16; 4+♦, splinter, shortness in ♥                  |
     | 3♠       | 13-16; 4+♦, splinter, shortness in ♠                  |
     | 3NT      | 13-16; no 4-card majors                               |
@@ -26,27 +27,28 @@
     | 4♥       | Long ♥, weak in high cards, preemptive                |
     | 4♠       | Long ♠, weak in high cards, preemptive                |
 
-??? note "Response 1♥" ### Response 1♥
+    ??? note "Response 1♥"
+        ### Response 1♥
 
-    - **Meaning**: 5+; 4+♥.
+        - **Meaning**: 5+; 4+♥.
 
-    ??? note "Opener Rebids"
-        #### Opener Rebids
+        ??? note "Opener Rebids"
+            #### Opener Rebids
 
-        | Opener’s Rebid | Description                                   |
-        | -------------- | --------------------------------------------- |
-        | 1♠             | 12-17; 4♠                                     |
-        | 1NT            | 12-14; balanced                               |
-        | 2♣             | 12-17; 4+♣                                    |
-        | 2♦             | 12-14; 5+♦                                    |
-        | 2♥             | 12-14; 3♥                                     |
-        | 2♠             | 15-17; 6+♦, 3-card support, artificial        |
-        | 2NT            | 15-17; 6♦, shapeless                          |
-        | 3♣             | 15-17; 5+♣                                    |
-        | 3♦             | 15-17; 6+♦, colored                           |
-        | 3♥             | 12-17; 5+♦, 4♥, 15-17 with 5422 or unbalanced ~17-19 HLDF |
-        | 3♠             | 15-17; 4♥, splinter (20+ HLDF)                |
-        | 4♣             | 15-17; 4♥, splinter (20+ HLDF)                |
+            | Opener’s Rebid | Description                                   |
+            | -------------- | --------------------------------------------- |
+            | 1♠             | 12-17; 4♠                                     |
+            | 1NT            | 12-14; balanced                               |
+            | 2♣             | 12-17; 4+♣                                    |
+            | 2♦             | 12-14; 5+♦                                    |
+            | 2♥             | 12-14; 3♥                                     |
+            | 2♠             | 15-17; 6+♦, 3-card support, artificial        |
+            | 2NT            | 15-17; 6♦, shapeless                          |
+            | 3♣             | 15-17; 5+♣                                    |
+            | 3♦             | 15-17; 6+♦, colored                           |
+            | 3♥             | 12-17; 5+♦, 4♥, 15-17 with 5422 or unbalanced ~17-19 HLDF |
+            | 3♠             | 15-17; 4♥, splinter (20+ HLDF)                |
+            | 4♣             | 15-17; 4♥, splinter (20+ HLDF)                |
 
     ??? note "Responder Rebids after 1♦ - 1♥ - 1♠"
         <a id="responder-rebids-1d-1h-1s"></a>
@@ -57,7 +59,7 @@
         | 2♣              | 10-12; weak checkback, opener bids 2♦ (mandatory) |
         | 2♦              | 13+; strong checkback, game-forcing               |
         | 3♣              | 7-9; 6+♣, to play                                 |
-        | 3♦              | 10-12; 4♥, 4+♦,= 10-12; 4♥, 4+♦, invitational     |
+        | 3♦              | 10-12; 4♥, 4+♦, invitational                      |
         | 3♥              | 10-12; 6+♥, invitational                          |
 
         ??? note "After Weak Checkback (2♣ - 2♦)"
@@ -118,7 +120,7 @@
             | 2NT          | 12-14; no 3♥ |
 
     ??? note "Responder Rebids after 1♦ - 1♥ - 2♥"
-        <a id="responder-rebids-1d-1hVulnerability
+        <a id="responder-rebids-1d-1h-2h"></a>
         #### Responder Rebids after 1♦ - 1♥ - 2♥
 
         | Responder’s Bid | Description                                                                                 |
@@ -171,7 +173,8 @@
         | 3NT             | Cue bid (spades)                                  |
         | 4♣/4♦           | Cue bid in the bid suit                           |
 
-??? note "Response 1♠" ### Response 1♠
+??? note "Response 1♠"
+    ### Response 1♠
 
     - **Meaning**: 5+; 4+♠.
 
@@ -189,7 +192,7 @@
         | 3♣             | 15-17; 5+♣                                              |
         | 3♦             | 15-17; 6+♦, colored                                     |
         | 3♥             | 15-17; 4♠, splinter (20+ HLDF)                          |
-        | 3♠             | 12-17; 5+♦, 4♠, 15-17 with 5422 or unbalanced ~17-19 HLDF           |
+        | 3♠             | 12-17; 5+♦, 4♠, 15-17 with 5422 or unbalanced ~17-19 HLDF |
         | 4♣             | 15-17; 4♠, splinter (20+ HLDF)                          |
 
     ??? note "Responder Rebids after 1♦ - 1♠ - 1NT"
@@ -219,18 +222,16 @@
         | 3♣              | 10+; asking for a club stopper                                                                   |
         | 3♥              | Forcing, agrees hearts, unless opener bids 3♠ which agrees spades                                |
 
-        - **Note**: See [After Opener’s Strong Rebid](../conventions/after-openers-strong-rebid.md) for complete responder rebid principles (non-forcing: 2♠, 3♦, 3NT).
-
         ??? note "After 2NT (Asking about Distribution)"
             #### After 2NT (Asking about Distribution)
 
-            | Opener’s Bid | Description    |
-            | ------------ | -------------- |
-            | 3♣           | 5 diamonds, 4 hearts, 3 clubs |
-            | 3♦           | 6+ diamonds, 4 hearts |
-            | 3♥           | 5 diamonds, 4 hearts, 3 spades
-            | 3♠           | 6 diamonds, 3 spades |
-            | 3NT          | 5422 with 4 hearts |
+            | Opener’s Bid | Description                     |
+            | ------------ | ------------------------------- |
+            | 3♣           | 5 diamonds, 4 hearts, 3 clubs   |
+            | 3♦           | 6+ diamonds, 4 hearts           |
+            | 3♥           | 5 diamonds, 4 hearts, 3 spades  |
+            | 3♠           | 6 diamonds, 3 spades            |
+            | 3NT          | 5422 with 4 hearts              |
 
     ??? note "Responder Rebids after 1♦ - 1♠ - 2NT"
         <a id="responder-rebids-1d-1s-2nt"></a>
@@ -258,7 +259,8 @@
         | 3NT             | [Shortness ask](../conventions/short-suit-ask.md) |
         | 4♣/4♦/4♥        | Cue bid in the bid suit                           |
 
-??? note "Response 1NT" ### Response 1NT
+??? note "Response 1NT"
+    ### Response 1NT
 
     - **Meaning**: 6-10; no 4-card major.
 
@@ -275,7 +277,8 @@
         | 3♣             | 15-17; 6+♣, invitational |
         | 3♦             | 15-17; 6+♦, invitational |
 
-??? note "Response 2♣" ### Response 2♣
+??? note "Response 2♣"
+    ### Response 2♣
 
     - **Meaning**: 12+; 4+♣, game forcing, can have a 4-card major.
 
@@ -299,7 +302,8 @@
 
         Responder’s 3♣ is non-forcing, allowing the partnership to stop below game if appropriate. All other bids (e.g., 3♦, 3♥, 3♠, or 4-level bids) are forcing to game. Opener can show a minimum hand by bidding game directly (e.g., 3NT over 3♦, 4♥ over 3♥). With a maximum hand, opener can cue-bid to show slam interest (e.g., 4♣, 4♦, 4♥, or 4♠).
 
-??? note "Response 2♦" ### Response 2♦
+??? note "Response 2♦"
+    ### Response 2♦
 
     - **Meaning**: 10+; 4+♦.
 
@@ -328,7 +332,8 @@
         | 2NT             | Forcing, asking about distribution (see [Two NT Forcing](../conventions/two-nt-forcing.md)) |
         | 3♦              | 10-11; 4+♦, non-forcing                                                                     |
 
-??? note "Response 2♥" ### Response 2♥
+??? note "Response 2♥"
+    ### Response 2♥
 
     - **Meaning**: 5-9; 5+♠, 4+♥.
 
@@ -353,7 +358,8 @@
         | 3♠              | 5-9; good spades                                 |
         | 3NT             | 5-9; natural with club stopper                   |
 
-??? note "Response 2♠" ### Response 2♠
+??? note "Response 2♠"
+    ### Response 2♠
 
     - **Meaning**: 13+; no 4-card majors, game forcing on balanced hands.
 
@@ -367,7 +373,8 @@
         | 3♦             | 12-17; 6+ diamonds               |
         | 3NT            | 12-13; minimum, no slam interest |
 
-??? note "Response 2NT" ### Response 2NT
+??? note "Response 2NT"
+    ### Response 2NT
 
     - **Meaning**: 11-12; no 4-card majors, invitational to 3NT.
 
@@ -379,26 +386,32 @@
         | 3♦             | 12-17; non-forcing   |
         | 3♣             | 12-17; forcing to 3♦ |
 
-??? note "Response 3♣" ### Response 3♣
+??? note "Response 3♣"
+    ### Response 3♣
 
     - **Meaning**: 10-11; 6+ clubs, invitational.
 
-??? note "Response 3♦" ### Response 3♦
+??? note "Response 3♦"
+    ### Response 3♦
 
     - **Meaning**: 0-6; preemptive, 4+ diamonds.
 
-??? note "Responses 3♥/3♠" ### Responses 3♥/3♠
+??? note "Responses 3♥/3♠"
+    ### Responses 3♥/3♠
 
     - **Meaning**: 13-16; 4+ diamonds, splinter, shortness in the bid suit, game forcing.
 
-??? note "Response 3NT" ### Response 3NT
+??? note "Response 3NT"
+    ### Response 3NT
 
     - **Meaning**: 13-16; no 4-card majors, to play.
 
-??? note "Response 4♣" ### Response 4♣
+??? note "Response 4♣"
+    ### Response 4♣
 
     - **Meaning**: 13-16; 4+ diamonds, splinter, shortness in clubs, game forcing.
 
-??? note "Responses 4♥/4♠" ### Responses 4♥/4♠
+??? note "Responses 4♥/4♠"
+    ### Responses 4♥/4♠
 
     - **Meaning**: Long suit in the bid major, weak in high cards, preemptive.
