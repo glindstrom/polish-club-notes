@@ -26,8 +26,8 @@
     | 2NT            | 15-17; balanced, may have 3♥   |
     | 3♣             | 15-17; 4+♣                     |
     | 3♦             | 15-17; 4+♦                     |
-    | 3♥             | 15-17; 15–17; with a heart fit in an unbalanced hand (with four hearts or three hearts and a singleton)                 |
-    | 3NT            | 12-14; 3+♥ fit, minor shortness, then 12–14;  then 4♣ is asking about the shortage; 4♦ shows a diamond shortage. |
+    | 3♥             | 15-17; with a heart fit in an unbalanced hand (with four hearts or three hearts and a singleton)                 |
+    | 3NT            | 12-14; 3+♥ fit, minor shortness, then 4♣ is asking about the shortage; 4♦ shows a diamond shortage. |
     | 4♣             | 15-17; splinter, 4+♥ fit       |
     | 4♦             | 15-17; splinter, 4+♥ fit       |
     | 4♥             | 12-14; ♥ fit, no shortness     |
