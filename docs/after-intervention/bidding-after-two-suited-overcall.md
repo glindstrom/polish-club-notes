@@ -46,8 +46,18 @@ The principles outlined below also apply when opponents make a two-suited overca
 | 3♣              | At least invitational with a heart fit    |
 | 3♦              | At least invitational with a spade suit   |
 | 3♥              | Heart fit, non-invitational               |
-| 3♠              | Natural, weaker than non-invitational     |
+| 3♠              | Natural, weaker than invitational     |
 | 4♣/4♦           | Splinters with a heart fit                |
+
+#### After 1♠ Opening and 2NT (Both Minors)
+| Responder’s Bid | Description                               |
+| --------------- | ----------------------------------------- |
+| Double          | 9+ HCP; desire to penalize the opposition |
+| 3♣              | At least invitational with a heart suit    |
+| 3♦              | At least invitational with a spade suit   |
+| 3♥              | Natural, weaker than invitational               |
+| 3♠              | Spade fit, non-invitational     |
+| 4♣/4♦           | Splinters with a spade fit                |
 
 #### After 1♦ Opening and 2NT (Clubs and Hearts)
 | Responder’s Bid | Description                               |
@@ -58,3 +68,9 @@ The principles outlined below also apply when opponents make a two-suited overca
 | 3♥              | At least invitational with a spade suit   |
 | 3♠              | Non-invitational with spades              |
 | 4♣/4♥           | Splinters with a diamond fit              |
+
+### Note on Cuebids After 1M Opening and 2NT Overcall
+After a 1♥ or 1♠ opening and a 2NT overcall (showing both minors), responder’s 3♣ and 3♦ cuebids follow the memory rule: *lower corresponds to lower, higher to higher*. Thus:
+
+- After 1♥ opening: 3♣ shows at least invitational strength with a heart fit, and 3♦ shows at least invitational strength with a spade suit.
+- After 1♠ opening: 3♣ shows at least invitational strength with a heart suit, and 3♦ shows at least invitational strength with a spade fit.
