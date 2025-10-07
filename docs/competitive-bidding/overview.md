@@ -14,3 +14,4 @@ Strategies to counter opponents’ opening bids, using take-out doubles, overcal
 - [Specific Openings](defence-specific-openings.md): Defenses for 1NT, Multi 2♦, others.
 - [Take-Out Doubles](take-out-doubles.md): Show unbid suits, often majors.
 - [Two-Suited Overcalls](two-suited-overcalls.md): Michaels or similar, two suits.
+- [Weak Jump Overcalls](weak-jump-overcalls.md): Preemptive bids showing long suits with limited HCP.

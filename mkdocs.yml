@@ -65,6 +65,7 @@ nav:
       - Overcalls at the Two Level and Higher: competitive-bidding/overcalls-two-level.md
       - Take-Out Doubles: competitive-bidding/take-out-doubles.md
       - Two-Suited Overcalls: competitive-bidding/two-suited-overcalls.md
+      - Weak Jump Overcalls: competitive-bidding/weak-jump-overcalls.md
   - After Intervention:
       - Overview: after-intervention/overview.md
       - Bidding After Major Suit Agreement: after-intervention/bidding-after-major-suit-agreement.md
@@ -91,5 +92,6 @@ nav:
       - Specific King Ask: slam-bidding/specific-king-ask.md
   - Hand Evaluation: hand-evaluation.md
   - Carding Agreements: carding-agreements.md
+  - Changelog: changelog.md
 extra_css:
   - css/custom.css
