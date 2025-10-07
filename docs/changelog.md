@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2025-01-07
+
 ### Added
 
 - Initial changelog implementation
@@ -22,3 +24,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Minor formatting corrections
+
+## [1.0.0] - 2025-01-01
+
+### Added
+
+- Complete Polish Club bidding system documentation
+- MkDocs web documentation with Material theme
+- All existing conventions, openings, and competitive bidding strategies
+- Automated GitHub Pages deployment
+
+_Note: This represents the baseline system as of changelog introduction. Previous development history available in git commits._
