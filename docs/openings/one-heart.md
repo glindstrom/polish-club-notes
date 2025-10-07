@@ -183,13 +183,13 @@
         | 3♦             | 15-17; 5+♥, 5+♦        |
         | 3♥             | 15-17; 6+♥             |
 
-    ??? note "Responder Rebids after 1♥ - 1NT - 2♣"
-        #### Responder Rebids after 1♥ - 1NT - 2♣
+    ??? note "Responder Rebids after 1♥ - 1NT - 2♣/♦"
+        #### Responder Rebids after 1♥ - 1NT - 2♣/♦
 
         | Responder’s Bid | Description |
         | --------------- | ----------- |
-        | 2♠              | 10-11; 5+♣  |
-        | 3♣              | 8-11; 4+♣   |
+        | 2♠              | 10-11; 5+♣/♦ |
+        | 3♣/♦               | 8-11; 4+♣/♦    |
 
 ??? note "Response 2♣"
     ### Response 2♣
