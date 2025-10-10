@@ -27,28 +27,28 @@
     | 4♥       | Long ♥, weak in high cards, preemptive                |
     | 4♠       | Long ♠, weak in high cards, preemptive                |
 
-    ??? note "Response 1♥"
-        ### Response 1♥
+??? note "Response 1♥"
+    ### Response 1♥
 
-        - **Meaning**: 5+; 4+♥.
+    - **Meaning**: 5+; 4+♥.
 
-        ??? note "Opener Rebids"
-            #### Opener Rebids
+    ??? note "Opener Rebids"
+        #### Opener Rebids
 
-            | Opener’s Rebid | Description                                   |
-            | -------------- | --------------------------------------------- |
-            | 1♠             | 12-17; 4♠                                     |
-            | 1NT            | 12-14; balanced                               |
-            | 2♣             | 12-17; 4+♣                                    |
-            | 2♦             | 12-14; 5+♦                                    |
-            | 2♥             | 12-14; 3♥                                     |
-            | 2♠             | 15-17; 6+♦, 3-card support, artificial        |
-            | 2NT            | 15-17; 6♦, shapeless                          |
-            | 3♣             | 15-17; 5+♣                                    |
-            | 3♦             | 15-17; 6+♦, colored                           |
-            | 3♥             | 12-17; 5+♦, 4♥, 15-17 with 5422 or unbalanced ~17-19 HLDF |
-            | 3♠             | 15-17; 4♥, splinter (20+ HLDF)                |
-            | 4♣             | 15-17; 4♥, splinter (20+ HLDF)                |
+        | Opener’s Rebid | Description                                   |
+        | -------------- | --------------------------------------------- |
+        | 1♠             | 12-17; 4♠                                     |
+        | 1NT            | 12-14; balanced                               |
+        | 2♣             | 12-17; 4+♣                                    |
+        | 2♦             | 12-14; 5+♦                                    |
+        | 2♥             | 12-14; 3♥                                     |
+        | 2♠             | 15-17; 6+♦, 3-card support, artificial        |
+        | 2NT            | 15-17; 6♦, shapeless                          |
+        | 3♣             | 15-17; 5+♣                                    |
+        | 3♦             | 15-17; 6+♦, colored                           |
+        | 3♥             | 12-17; 5+♦, 4♥, 15-17 with 5422 or unbalanced ~17-19 HLDF |
+        | 3♠             | 15-17; 4♥, splinter (20+ HLDF)                |
+        | 4♣             | 15-17; 4♥, splinter (20+ HLDF)                |
 
     ??? note "Responder Rebids after 1♦ - 1♥ - 1♠"
         <a id="responder-rebids-1d-1h-1s"></a>
