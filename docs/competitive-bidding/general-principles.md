@@ -97,3 +97,5 @@
     - **Forcing Bids**:
       - New suit: Forcing.
       - Raises or notrump bids: Non-forcing (unless in a forcing situation).
+
+    - **Principle.** In a **competitive auction** (when all four players have bid), a **natural suit bid by the defenders is not forcing**.
