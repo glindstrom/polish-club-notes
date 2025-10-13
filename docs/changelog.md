@@ -5,7 +5,25 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.2.0] - 2025-10-13
+
+### Summary
+Expanded defensive and post-intervention bidding principles for greater clarity in competitive auctions.
+
+### Added
+
+- Added new **general principles** under `after-intervention/overview.md`:
+  - Responder’s double is for takeout whenever the previous bidding has not limited responder’s strength.
+  - When a double is for takeout, its main goal is to search for a major-suit fit; bidding the opponents’ suit looks for a stopper or prepares for slam.
+  - When the opponents have bid two suits, we bid the suit we stop.
+- Added new **principle** under `competitive-bidding/general-principles.md`:
+  - In a **competitive auction** (when all four players have bid), a **natural suit bid by the defenders is not forcing**.
+
+### Changed
+
+- Updated structure of `after-intervention/overview.md` to include the new “Doubles & Stoppers” subsection for better readability and organization.
+
+---
 
 ## [1.1.0] - 2025-01-07
 
@@ -34,4 +52,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - All existing conventions, openings, and competitive bidding strategies
 - Automated GitHub Pages deployment
 
-_Note: This represents the baseline system as of changelog introduction. Previous development history available in git commits._
