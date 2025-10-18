@@ -5,6 +5,19 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.1] - 2025-10-18
+
+### Summary
+Refined hand description for 1♣ – 1♠ continuations to clarify differences between 3♣ and 3♦ rebids.
+
+### Changed
+
+- Updated `openings/one-club.md`:  
+  - Split the previous combined description of **3♣/3♦** after 1♣ – 1♠ into two distinct bids for improved precision:  
+    - **3♣** = 18+, 5+ clubs, 4+ spades  
+    - **3♦** = 18+, 5+ spades, 5+ diamonds  
+
+
 ## [1.2.0] - 2025-10-13
 
 ### Summary
@@ -51,4 +64,3 @@ Expanded defensive and post-intervention bidding principles for greater clarity 
 - MkDocs web documentation with Material theme
 - All existing conventions, openings, and competitive bidding strategies
 - Automated GitHub Pages deployment
-

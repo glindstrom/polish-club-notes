@@ -255,7 +255,8 @@
         | 2♥             | 12-14; 3 hearts, exactly 4-3-1-5 shape¹             |
         | 2♠             | 18-22; 5+ spades (excluding six very good spades)   |
         | 2NT            | 15-17; 4 spades, 5+ clubs (without three hearts)    |
-        | 3♣/3♦          | 18+; 5 spades and a bid five-card suit              |
+        |3♣| 18+, 5+ clubs, 4+ spades|
+        | 3♦          | 18+; 5+ spades, 5+ diamonds              |
         | 3♥             | 15-17; 3 hearts, exactly 4-3-1-5 shape²             |
         | 3NT            | 18-22; 4 spades                                     |
 
