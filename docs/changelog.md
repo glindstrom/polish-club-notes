@@ -5,6 +5,23 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.2] - 2025-10-20
+
+### Summary
+Clarified responder rebids after 1♥ – 1♠ – 2♣, including the corrected “Fourth Suit” (2♦) continuations, aligned with Polish original sources and improved internal consistency.
+
+### Changed
+- Updated `openings/one-heart.md`:
+  - Simplified and corrected the note section under **Responder Rebids after 1♥ – 1♠ – 2♣**:
+    - Removed three unrelated notes not specific to this sequence.
+    - Added explicit in-table footnote references:
+      - **(1)** for 2♠: “With 4–8 HCP and six spades, responder would have bid 2♠ in the previous round.”
+      - **(2)** for 3♠: “3♠ is forcing (including game-try hands), since the invitational role is already taken by 2♠.”
+  - Rewritten **After 2♦ (Fourth Suit)** table for accuracy and clarity:
+    - 2♥, 2♠, 2NT, 3♣, 3♦, 3♥, 3♠, and 3NT now match original Polish definitions for opener’s strength and distribution ranges.
+  - Ensured indentation and note hierarchy match MkDocs formatting.
+
+
 ## [1.2.1] - 2025-10-18
 
 ### Summary

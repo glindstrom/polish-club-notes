@@ -84,29 +84,35 @@
         | 3♥              | 10-12; 3♥, invitational        |
         | 3♠              | 10-12; 6+♠, invitational       |
 
-    ??? note "Responder Rebids after 1♥ - 1♠ - 2♣"
-        #### Responder Rebids after 1♥ - 1♠ - 2♣
+    ??? note "Responder Rebids after 1♥ – 1♠ – 2♣"
+        #### Responder Rebids after 1♥ – 1♠ – 2♣
 
-        | Responder’s Bid | Description                       |
-        | --------------- | --------------------------------- |
-        | 3♦              | Fourth suit, forcing              |
-        | 3♥              | ♥ fit; natural, forcing (agrees)  |
-        | 3♠              | Natural, forcing                  |
+        | Responder’s Bid | Description |
+        | ---------------- | ------------ |
+        | 2♦ | 12+; “fourth suit”, artificial, forcing |
+        | 2♥ | 6–10; 2 or 3 hearts |
+        | 2♠ | 9–11; natural, non-forcing but invitational¹ |
+        | 2NT / 3♣ / 3♦ | 9–12; natural, invitational |
+        | 3♠ | 12+; forcing!² |
 
-        ??? note "After 3♦ (Fourth Suit)"
-            #### After 3♦ (Fourth Suit)
+        #### Notes
+        1. With 4–8 HCP and six spades, responder would have bid **2♠** in the previous round.  
+        2. **3♠** is forcing (including game-try hands), since the invitational role is already taken by **2♠**.
 
-            | Opener’s Bid | Description                |
-            | ------------ | -------------------------- |
-            | 3♥           | 12-14; no 3♠, no ♦ stopper |
-            | 3♠           | 12-14; 3♠                  |
-            | 3NT          | 12-14; ♦ stopper           |
-            | 4♣           | 12-14; 5+♣                 |
-            | 4♦           | 15-17; no 3♠, no ♦ stopper |
-            | 4♥           | 15-17; 6+♥                 |
-            | 4♠           | 15-17; 3♠                  |
-            | 4NT          | 15-17; no 3♠, ♦ stopper    |
-                                                        |
+        ??? note "After 2♦ (Fourth Suit)"
+            #### After 2♦ (Fourth Suit)
+
+            | Opener’s Bid | Description |
+            | -------------- | ------------ |
+            | 2♥ | 12–14; no 3 spades and no diamond stopper |
+            | 2♠ | 12–14; 3 spades |
+            | 2NT | 12–14; with diamond stopper |
+            | 3♣ | 12–14; 5 clubs |
+            | 3♦ | 15–17; no 3 spades and no diamond stopper |
+            | 3♥ | 15–17; 6 hearts |
+            | 3♠ | 15–17; 3 spades |
+            | 3NT | 15–17; no 3 spades but with diamond stopper |
+
 
     ??? note "Responder Rebids after 1♥ - 1♠ - 2♥"
         <a id="responder-rebids-1h-1s-2h"></a>
