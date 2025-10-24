@@ -5,6 +5,16 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+## [1.2.3] - 2025-10-24
+
+### Added
+- Added `overcalls-one-level.md`: New section documenting responses after 1♦ overcall, including non-forcing 1♥/1♠ responses, artificial 2♣, weak 2♦ raise, and natural forcing higher bids. Includes note that continuations after 1♥/1♠ response are identical to after 1♦ opening.
+
+### Fixed
+- Fixed `overcalls-one-level.md`: Minor whitespace and formatting cleanup throughout the file.
+
 ## [1.2.2] - 2025-10-20
 
 ### Summary
