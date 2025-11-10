@@ -442,17 +442,16 @@
 
 ??? note "Response 1NT"
     ### Response 1NT
-
     - **Meaning**: 7-10 points, balanced distribution, without 4-card majors.
-
     ??? note "Opener’s Rebids after 1♣ - 1NT"
         #### Opener’s Rebids after 1♣ - 1NT
-        | Opener’s Rebid | Meaning                                      |
+        | Opener’s Rebid | Meaning |
         | -------------- | -------------------------------------------- |
-        | 2♣             | 12-14; 5+ clubs, non-forcing                 |
-        | 2♦/2♥/2♠       | 18+; at least 5 cards in the bid suit        |
-        | 2NT            | 15-17; 5+ clubs (unsuitable for 1NT opening) |
-        | 3♣             | 18+; 5+ clubs                                |
+        | 2♣ | 12-14; 5+ clubs, non-forcing |
+        | 2♦ | **Gadget**: artificial ask about responder’s shape; GF.<br>Replies:<br>• 2♥ = 2‑3‑4‑4<br>• 2♠ = 3‑2‑4‑4<br>• 2NT = 3‑3‑3‑4 (clubs or diamonds)<br>• 3♣ = 5♣‑3‑3‑2<br>• 3♦ = 5♦‑3‑3‑2 |
+        | 2♥/2♠ | 18+; at least 5 cards in the bid suit |
+        | 2NT | 15-17; 5+ clubs (unsuitable for 1NT opening) |
+        | 3♣ | 18+; 5+ clubs |
 
 ??? note "Responses 2♣/2♦"
     ### Responses 2♣/2♦
