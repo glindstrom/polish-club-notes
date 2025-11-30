@@ -65,6 +65,7 @@
         #### Responder Rebids
         | Responder’s Bid | Description                   |
         | --------------- | ----------------------------- |
+        | 2♠              | 4♠, 5(+)♦, non-forcing        |
         | 2NT             | 8-9; invitational to 3NT      |
         | 3♣              | 9+; natural, 5+♣, 4♠, forcing |
         | 3♦              | 9+; natural, 5+♦, 4♠, forcing |
