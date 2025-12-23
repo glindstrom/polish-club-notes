@@ -225,6 +225,36 @@
         - 2♥/2♠: 21-22 points with a 5-card suit (non-forcing, but partner should continue if possible).
         - 3♣/3♦: 18+ with a 6-card suit.
 
+        ??? note "Responder’s Continuations after 2♥ / 2♠ Rebids"
+            #### Responder’s Continuations after 2♥ / 2♠ Rebids
+
+            Since the opening hand is **very precisely defined in strength**, responder can immediately assess the game potential of the combined hands.
+
+            - **No game**: Pass.  
+            - **Game**: Any other call.
+
+            After these rebids, **invitations to game are not used**.
+
+            ---
+
+            #### Without Fit
+
+            - **Up to 3 HCP**: Pass.
+            - **4+ HCP**: Bid a **5+ card suit**  
+            (with a five-card suit, it should contain **two honours**).
+            - **4–8 or 11+ HCP**: **2NT**  
+            (with 11+ HCP, responder will later invite or bid a small slam).
+            - **9–10 HCP**: **3NT**.
+
+            ---
+
+            #### With Fit
+
+            - **4–10 HLDF**: **Jump to game**.
+            - **11+ HLDF**: **Economical agreement**, inviting slam.
+
+  
+
 ??? note "Response 1♥"
     ### Response 1♥
 

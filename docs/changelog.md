@@ -4,6 +4,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
+## [1.2.8] - 2025-12-23
+### Changed
+- Updated `openings/one-club.md`:
+  - Added new subsection "Responder's Continuations after 2♥ / 2♠ Rebids" detailing responses after opener's 21-22 HCP rebid
+  - Clarified that invitations are not used after these strength-defining rebids
+  - Added guidance for responder without fit (pass with 0-3 HCP, bid suit with 4+ HCP, 2NT with 4-8 or 11+ HCP, 3NT with 9-10 HCP)
+  - Added guidance for responder with fit (jump to game with 4-10 HLDF, economical agreement with 11+ HLDF for slam invitation)
+
 ## [1.2.7] - 2025-12-23
 ### Changed
 - Updated `carding-agreements.md`:
