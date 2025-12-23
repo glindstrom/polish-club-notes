@@ -4,6 +4,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
+## [1.2.7] - 2025-12-23
+### Changed
+- Updated `carding-agreements.md`:
+  - Added new subsection "Returning Partner's Suit (Original Length)" explaining how to show original suit length when returning partner's lead
+  - Clarified that even original length → return lowest spot; odd original length → return high spot
+  - Added example with West ♠ QJ10 and East holding various combinations
+  - Changed "Later Discards" to reference "original count" instead of "present count" for consistency
+  - Updated "Discarding from suit partner led" to show original count rather than current count
+
 ## [1.2.6] - 2025-12-23
 ### Changed
 - Updated `openings/one-club.md`:

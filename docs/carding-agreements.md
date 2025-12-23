@@ -17,8 +17,8 @@ Carding agreements in the Polish Club system cover signalling and leads, using O
 - High odd then low odd in same suit: Cancels encouraging message.  
 - Discarding twice from same suit:  
     - First discard: Attitude.  
-    - Second discard: Present count (play the card you would lead from remaining holding).  
-- Discarding from suit partner led: Show current count (play the card you would lead from remaining holding).  
+    - Second discard: Original count.  
+- Discarding from suit partner led: Show original count
 
 #### Specific Situations
 - Declarer peeling winners (no dummy entry, all tricks but one, worthless hand):  
@@ -40,6 +40,21 @@ Carding agreements in the Polish Club system cover signalling and leads, using O
         - Middling cards: Continue suit.  
     - Partner leads suit you bid/supported, sets up tricks for declarer: Suit preference.  
     - Declarer has two suits (5-4+), lead in unbid suit: Count signals.  
+  
+#### Returning Partner’s Suit (Original Length)
+
+When partner leads and third hand wins the trick, the return shows **original length** in the suit:
+
+- With an **even number of cards originally**, return the **lowest spot**.
+- With an **odd number of cards originally**, return a **high spot**.
+
+**Example**  
+West: ♠ Q J 10  
+East holds:
+
+- ♠ A 9 6 → return **9** (odd length: 3)  
+- ♠ A 9 6 2 → return **2** (even length: 4)  
+- ♠ A 9 6 4 2 → return **9** (odd length: 5)
 
 #### On Declarer’s Lead
 - Show count.  
