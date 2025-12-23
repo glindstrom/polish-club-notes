@@ -4,6 +4,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
+## [1.2.6] - 2025-12-23
+### Changed
+- Updated `openings/one-club.md`:
+  - Added detailed transfer acceptance structure after 1♣ – 1♦ – 2NT, showing how opener indicates support quality and control richness
+  - Clarified when responder should use major-suit transfers after 2NT rebid (only with game-oriented hands)
+  - Improved formatting and readability of notes section in notrump rebids
+
 ## [1.2.5] - 2025-11-30
 ### Changed
 - Updated `openings/one-nt.md`: Added responder rebid after 1NT – 2♣ – 2♥ sequence: 2♠ showing 4♠, 5(+)♦, non-forcing.

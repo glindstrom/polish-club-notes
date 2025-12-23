@@ -156,10 +156,35 @@
         | 3♠       | 5+4+ in minor suits (6-11)                                        |
         | 4♣/4♦    | Natural, forcing (8-11)                                           |
 
+        ??? note "Further Bidding after 1♣ - 1♦ - 2NT – Transfers"
+            #### Further Bidding after 1♣ - 1♦ - 2NT – Transfers
+
+            After a transfer (3♦ → hearts, 3♥ → spades), opener shows the **quality of support** and **control structure**.
+
+            | Opener’s Bid | Meaning |
+            |--------------|--------|
+            | 3♥ / 3♠ | Accepts the transfer with **doubleton support** |
+            | 3NT | **Three-card support**, balanced or not control-rich |
+            | 4♥ / 4♠ | **Four-card support**, but **not control-rich** |
+            | 3♠ / 4♣ / 4♦ | **Side suit + four-card support** (or strong three-card support) and a **control-rich hand** |
+
+            #### Notes
+            - Control-rich implies suitable controls for slam exploration.
+            - Side suit bids show a real suit and help evaluate slam prospects.
+
+
         #### Notes
-        - Stayman and major suit transfers limit responder to 6 points; next bid is non-forcing (e.g., 1♣ - 1♦ - 1NT - 2♥ - 2♠ - 3♠: 4-6 points, non-forcing).
-        - 5-4-3-1 convention and minor suit transfers limit responder to 11 points; 5-4-3-1 is forcing to game.
+        - Stayman and major suit transfers limit responder to 6 points; the next bid is non-forcing  
+        (e.g., 1♣ - 1♦ - 1NT - 2♥ - 2♠ - 3♠: 4-6 points, non-forcing).
+        - The 5-4-3-1 convention and minor suit transfers limit responder to 11 points;  
+        5-4-3-1 is forcing to game.
         - Smolen applies only after 3♣ Stayman → 3♦ (no 4-card major).
+
+        - After **1♣ - 1♦ - 2NT**, responder uses **major-suit transfers only with game-oriented hands**:
+          - With a **six-card major** and **likely 3+ card support** from opener, responder bids **game**.
+          - With a **worthless hand** and only a **five-card major**, responder **does not transfer** and simply **passes**.
+          - With a **five-card major**, responder bids **only when combined strength and a probable fit suggest game values**.
+
 
 
     ??? note "2♦ Rebid (Game Forcing, Not Two-Suited)"
