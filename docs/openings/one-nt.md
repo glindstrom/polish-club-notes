@@ -141,9 +141,9 @@
         | 3♦              | Natural, game forcing (non-forcing if passed hand) |
         | 3♥              | Game forcing, 5+♠ and 5+♥                          |
         | 3♠              | Invitational to game, 6♠                           |
-        | 3NT             | Self-splinter, ♣ shortage, slam try with 6♠        |
-        | 4♣              | Self-splinter, ♥ shortage, slam try with 6♠        |
+        | 4♣             | Self-splinter, ♣ shortage, slam try with 6♠        |
         | 4♦              | Self-splinter, ♦ shortage, slam try with 6♠        |
+        | 4♥              | Self-splinter, ♥ shortage, slam try with 6♠        |
         | 4♠              | Slam try with 6♠, no shortage                      |
         | 4NT             | Slam try with 5♠                                   |
 

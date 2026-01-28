@@ -3,6 +3,8 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
+### Changed
+- Updated `openings/one-nt.md`: Fixed typos in responder rebids after 1NT – 2♥ – 2♠ sequence (self-splinter bids were incorrectly listed as 3NT instead of 4♣ and 4♣ instead of 4♥)
 
 ## [1.2.8] - 2025-12-23
 ### Changed
