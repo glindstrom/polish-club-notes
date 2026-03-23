@@ -43,6 +43,15 @@
     .btn-upd { background: #4a6fa5; color: #fff; }
     .btn-prt { background: #2e7d32; color: #fff; }
 
+    /* ── Language toggle ────────────────────────────────── */
+    .lang-toggle { display: flex; gap: 4px; }
+    .btn-lang {
+      font-size: 11pt; padding: 4px 10px;
+      border: 1px solid #b0b8d8; border-radius: 3px;
+      cursor: pointer; background: #fff; color: #555;
+    }
+    .btn-lang.active { background: #1a237e; color: #fff; border-color: #1a237e; }
+
     @media print  { #name-form { display: none !important; } body { background: #fff; padding: 0; } }
     @media screen { body { padding: 12px; background: #b0b8c8; } .card { background: #fff; padding: 8mm; box-shadow: 0 2px 10px rgba(0,0,0,.35); } }
 
@@ -161,21 +170,29 @@
 
 <!-- ── Screen form ─────────────────────────────────────── -->
 <div id="name-form">
-  <span class="ftitle">Polish Club Convention Card</span>
-  <label>North: <input id="north-in" type="text" placeholder="Partner name"></label>
-  <label>South: <input id="south-in" type="text" placeholder="Your name"></label>
+  <span class="ftitle" id="form-title">Polish Club Convention Card</span>
+  <div class="lang-toggle">
+    <button onclick="setLang('en')" id="btn-en" class="btn-lang active">&#127468;&#127463; EN</button>
+    <button onclick="setLang('sv')" id="btn-sv" class="btn-lang">&#127480;&#127466; SV</button>
+  </div>
+  <label id="lbl-n">North: <input id="north-in" type="text" placeholder="Partner name"></label>
+  <label id="lbl-s">South: <input id="south-in" type="text" placeholder="Your name"></label>
   <button class="btn-upd" onclick="updateNames()">Update</button>
   <button class="btn-prt" onclick="window.print()">Print / Save PDF</button>
 </div>
 
-<div class="card">
 
-  <!-- ══════════════════ TOP PANEL ══════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--  ENGLISH CARD                                         -->
+<!-- ══════════════════════════════════════════════════════ -->
+<div class="card" id="card-en">
+
+  <!-- ══════════ TOP PANEL ══════════════════════════════ -->
   <div class="panel panel-top">
 
     <div class="card-header">
       <div class="player">
-        <div class="player-name" id="dn">&nbsp;</div>
+        <div class="player-name" id="dn-en">&nbsp;</div>
         <div class="player-lbl">North</div>
       </div>
       <div>
@@ -183,7 +200,7 @@
         <div class="sub-title">Convention Card</div>
       </div>
       <div class="player">
-        <div class="player-name" id="ds">&nbsp;</div>
+        <div class="player-name" id="ds-en">&nbsp;</div>
         <div class="player-lbl">South</div>
       </div>
     </div>
@@ -196,45 +213,45 @@
 
       <tr>
         <td>
-          <span class="bid"><span class="c">1♣</span></span><br>
-          <span class="desc">12–14 bal &nbsp;·&nbsp; 15–17 5+<span class="c">♣</span> &nbsp;·&nbsp; 18+ any</span>
+          <span class="bid"><span class="c">1&#9827;</span></span><br>
+          <span class="desc">12&ndash;14 bal &nbsp;&middot;&nbsp; 15&ndash;17 5+<span class="c">&#9827;</span> &nbsp;&middot;&nbsp; 18+ any</span>
         </td>
         <td>
-          <span class="d"><b>1♦</b></span>=0–6 any / 7–11 minor(s) &nbsp;
-          <span class="h"><b>1♥</b></span>/<span class="s"><b>1♠</b></span>=7+, 4+ in bid suit &nbsp;
-          <b>1NT</b>=7–10 &nbsp;
-          <span class="c"><b>2♣</b></span>/<span class="d"><b>2♦</b></span>=12+, 5+ GF<br>
-          <span class="h"><b>2♥</b></span>=7–9, 5+<span class="s">♠</span> 4+<span class="h">♥</span> &nbsp;
-          <span class="s"><b>2♠</b></span>=13+, no 4M/5m GF &nbsp;
-          <b>2NT</b>=11–12, inv
-        </td>
-      </tr>
-
-      <tr>
-        <td>
-          <span class="bid"><span class="d">1♦</span></span><br>
-          <span class="desc">(10)12–17: 5+<span class="d">♦</span>, 4<span class="d">♦</span>441, 4<span class="d">♦</span>5<span class="c">♣</span></span>
-        </td>
-        <td>
-          <span class="c"><b>2♣</b></span>=12+, 5+<span class="c">♣</span> GF &nbsp;
-          <span class="d"><b>2♦</b></span>=10+, 4+<span class="d">♦</span> &nbsp;
-          <span class="h"><b>2♥</b></span>=5–9, 5+<span class="s">♠</span> 4+<span class="h">♥</span> &nbsp;
-          <span class="s"><b>2♠</b></span>=13+ bal &nbsp;
-          <span class="c"><b>3♣</b></span>=10–11, 6+<span class="c">♣</span> inv
+          <span class="d"><b>1&#9830;</b></span>=0&ndash;6 any / 7&ndash;11 minor(s) &nbsp;
+          <span class="h"><b>1&#9829;</b></span>/<span class="s"><b>1&#9824;</b></span>=7+, 4+ in bid suit &nbsp;
+          <b>1NT</b>=7&ndash;10 &nbsp;
+          <span class="c"><b>2&#9827;</b></span>/<span class="d"><b>2&#9830;</b></span>=12+, 5+ GF<br>
+          <span class="h"><b>2&#9829;</b></span>=7&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span> &nbsp;
+          <span class="s"><b>2&#9824;</b></span>=13+, no 4M/5m GF &nbsp;
+          <b>2NT</b>=11&ndash;12, inv
         </td>
       </tr>
 
       <tr>
         <td>
-          <span class="bid"><span class="h">1♥</span> / <span class="s">1♠</span></span><br>
-          <span class="desc">(10)12–17, 5+ cards</span>
+          <span class="bid"><span class="d">1&#9830;</span></span><br>
+          <span class="desc">(10)12&ndash;17: 5+<span class="d">&#9830;</span>, 4<span class="d">&#9830;</span>441, 4<span class="d">&#9830;</span>5<span class="c">&#9827;</span></span>
+        </td>
+        <td>
+          <span class="c"><b>2&#9827;</b></span>=12+, 5+<span class="c">&#9827;</span> GF &nbsp;
+          <span class="d"><b>2&#9830;</b></span>=10+, 4+<span class="d">&#9830;</span> &nbsp;
+          <span class="h"><b>2&#9829;</b></span>=5&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span> &nbsp;
+          <span class="s"><b>2&#9824;</b></span>=13+ bal &nbsp;
+          <span class="c"><b>3&#9827;</b></span>=10&ndash;11, 6+<span class="c">&#9827;</span> inv
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <span class="bid"><span class="h">1&#9829;</span> / <span class="s">1&#9824;</span></span><br>
+          <span class="desc">(10)12&ndash;17, 5+ cards</span>
         </td>
         <td>
           <b>1NT</b>=NF &nbsp;
-          <b>2/1</b>=GF &nbsp;
-          <span class="s"><b>2♠</b></span>=4–8, 6+<span class="s">♠</span> <span class="note">(over 1<span class="h">♥</span>)</span><br>
-          <b>2NT</b>=inv with support, or 13–15 4-3-3-3 &nbsp;
-          <span class="c"><b>3♣</b></span>/<span class="d"><b>3♦</b></span>=10–11, 6+ inv &nbsp;
+          <b>2/1</b>=GF (<span class="c"><b>2&#9827;</b></span>: 2+<span class="c">&#9827;</span>) &nbsp;
+          <span class="s"><b>2&#9824;</b></span>=4&ndash;8, 6+<span class="s">&#9824;</span> <span class="note">(over 1<span class="h">&#9829;</span>)</span><br>
+          <b>2NT</b>=inv with support, or 13&ndash;15 4-3-3-3 &nbsp;
+          <span class="c"><b>3&#9827;</b></span>/<span class="d"><b>3&#9830;</b></span>=6+ inv &nbsp;
           <b>3NT</b>=GF with support
         </td>
       </tr>
@@ -242,37 +259,37 @@
       <tr>
         <td>
           <span class="bid">1NT</span><br>
-          <span class="desc">(14)15–17(18) balanced</span>
+          <span class="desc">(14)15&ndash;17(18) balanced</span>
         </td>
         <td>
-          <span class="c"><b>2♣</b></span>=Stayman &nbsp;
-          <span class="d"><b>2♦</b></span>=Transfer→<span class="h">♥</span> &nbsp;
-          <span class="h"><b>2♥</b></span>=Transfer→<span class="s">♠</span> &nbsp;
-          <span class="s"><b>2♠</b></span>=Transfer→minor &nbsp;
+          <span class="c"><b>2&#9827;</b></span>=Stayman &nbsp;
+          <span class="d"><b>2&#9830;</b></span>=Transfer&rarr;<span class="h">&#9829;</span> &nbsp;
+          <span class="h"><b>2&#9829;</b></span>=Transfer&rarr;<span class="s">&#9824;</span> &nbsp;
+          <span class="s"><b>2&#9824;</b></span>=Transfer&rarr;minor &nbsp;
           <b>4NT</b>=quantitative
         </td>
       </tr>
 
       <tr>
         <td>
-          <span class="bid"><span class="c">2♣</span></span><br>
-          <span class="desc">11–14/15: 6+<span class="c">♣</span>, or 5+<span class="c">♣</span>+4M</span>
+          <span class="bid"><span class="c">2&#9827;</span></span><br>
+          <span class="desc">11&ndash;14/15: 6+<span class="c">&#9827;</span>, or 5+<span class="c">&#9827;</span>+4M</span>
         </td>
         <td>
-          <span class="d"><b>2♦</b></span>=relay, inv+ &nbsp;
-          <span class="h"><b>2♥</b></span>/<span class="s"><b>2♠</b></span>=5+, NF &nbsp;
-          <b>2NT</b>=blocking / 5-5 excl. <span class="c">♣</span> &nbsp;
-          <span class="d"><b>4♦</b></span>=Kickback
+          <span class="d"><b>2&#9830;</b></span>=relay, inv+ &nbsp;
+          <span class="h"><b>2&#9829;</b></span>/<span class="s"><b>2&#9824;</b></span>=5+, NF &nbsp;
+          <b>2NT</b>=blocking / 5-5 excl. <span class="c">&#9827;</span> &nbsp;
+          <span class="d"><b>4&#9830;</b></span>=Kickback
         </td>
       </tr>
 
       <tr>
         <td>
-          <span class="bid"><span class="d">2♦</span></span><br>
-          <span class="desc">(5)6–10: 6+ in one major</span>
+          <span class="bid"><span class="d">2&#9830;</span></span><br>
+          <span class="desc">(5)6&ndash;10: 6+ in one major</span>
         </td>
         <td>
-          <span class="h"><b>2♥</b></span>=pass or correct &nbsp;
+          <span class="h"><b>2&#9829;</b></span>=pass or correct &nbsp;
           <b>2NT</b>=ask &nbsp;
           <b>3M</b>=to play
         </td>
@@ -280,8 +297,8 @@
 
       <tr>
         <td>
-          <span class="bid"><span class="h">2♥</span> / <span class="s">2♠</span></span><br>
-          <span class="desc">(5)6–10: 5M + 4+m (5+m vul)</span>
+          <span class="bid"><span class="h">2&#9829;</span> / <span class="s">2&#9824;</span></span><br>
+          <span class="desc">(5)6&ndash;10: 5M + 4+m (5+m vul)</span>
         </td>
         <td>
           <b>2NT</b>=ask &nbsp;
@@ -293,13 +310,13 @@
       <tr>
         <td>
           <span class="bid">2NT</span><br>
-          <span class="desc">21–22 balanced</span>
+          <span class="desc">21&ndash;22 balanced</span>
         </td>
         <td>
-          <span class="c"><b>3♣</b></span>=Stayman &nbsp;
-          <span class="d"><b>3♦</b></span>=Transfer→<span class="h">♥</span> &nbsp;
-          <span class="h"><b>3♥</b></span>=Transfer→<span class="s">♠</span> &nbsp;
-          <span class="s"><b>3♠</b></span>=minor pref &nbsp;
+          <span class="c"><b>3&#9827;</b></span>=Stayman &nbsp;
+          <span class="d"><b>3&#9830;</b></span>=Transfer&rarr;<span class="h">&#9829;</span> &nbsp;
+          <span class="h"><b>3&#9829;</b></span>=Transfer&rarr;<span class="s">&#9824;</span> &nbsp;
+          <span class="s"><b>3&#9824;</b></span>=minor pref &nbsp;
           <b>4NT</b>=quantitative
         </td>
       </tr>
@@ -315,19 +332,18 @@
       <tr>
         <td>
           <span class="bid">3NT</span><br>
-          <span class="desc">1st/2nd: Gambling &nbsp;·&nbsp; 3rd/4th: To play</span>
+          <span class="desc">1st/2nd: Gambling &nbsp;&middot;&nbsp; 3rd/4th: To play</span>
         </td>
         <td>
-          <span class="c"><b>4♣</b></span>=pass or correct &nbsp;
-          <span class="d"><b>4♦</b></span>=asks for shortness
+          <span class="c"><b>4&#9827;</b></span>=pass or correct &nbsp;
+          <span class="d"><b>4&#9830;</b></span>=asks for shortness
         </td>
       </tr>
 
     </table>
   </div>
 
-
-  <!-- ══════════════════ BOTTOM PANEL (rotated 180°) ════ -->
+  <!-- ══════════ BOTTOM PANEL (rotated 180°) ════════════ -->
   <div class="panel panel-bottom">
     <div class="two-col">
 
@@ -335,9 +351,9 @@
       <div>
         <h2 class="first">Key Conventions</h2>
         <ul class="bl">
-          <li><b>Odwrotka</b>: 1<span class="c">♣</span>–1<span class="h">♥</span>/<span class="s">♠</span>; opener 2<span class="d">♦</span> = 18+ with 3+ support</li>
-          <li><b>Drury</b>: Passed hand after 1<span class="h">♥</span>/<span class="s">♠</span>: 2<span class="c">♣</span> = 10+ with fit</li>
-          <li><b>Checkback</b>: After 1<span class="h">♥</span>–1<span class="s">♠</span>/1NT rebid: 2<span class="c">♣</span>=weak, 2<span class="d">♦</span>=strong (13+)</li>
+          <li><b>Odwrotka</b>: 1<span class="c">&#9827;</span>&ndash;1<span class="h">&#9829;</span>/<span class="s">&#9824;</span>; opener 2<span class="d">&#9830;</span> = 18+ with 3+ support</li>
+          <li><b>Drury</b>: Passed hand after 1<span class="h">&#9829;</span>/<span class="s">&#9824;</span>: 2<span class="c">&#9827;</span> = 10+ with fit</li>
+          <li><b>Checkback</b>: After 1<span class="h">&#9829;</span>&ndash;1<span class="s">&#9824;</span>/1NT rebid: 2<span class="c">&#9827;</span>=relay&rarr;2<span class="d">&#9830;</span>, 2<span class="d">&#9830;</span>=GF</li>
           <li><b>4th Suit Forcing</b>: Artificial and forcing</li>
           <li><b>Cue Bids</b>: Show 1st/2nd round controls</li>
           <li><b>RKCB 1430</b>: 4NT when trump agreed; next step = trump Q ask; DEPO/REPO vs interference</li>
@@ -349,7 +365,7 @@
           <li><b>Take-Out Double</b>: 12+ direct (9+ protective); 3+ in each unbid major</li>
           <li><b>Negative Doubles</b>: After our 1-level opening + overcall</li>
           <li><b>Support Double/Redbl</b>: After our 1-level opening</li>
-          <li><b>1NT Overcall</b>: 15–18 direct, 11–15 protective</li>
+          <li><b>1NT Overcall</b>: 15&ndash;18 direct, 11&ndash;15 protective</li>
           <li><b>Michaels / Unusual 2NT</b>: Two-suited overcalls</li>
         </ul>
       </div>
@@ -361,15 +377,15 @@
           <li><b>Attitude</b>: Low = encouraging</li>
           <li><b>Count</b>: Low-high = even; high-low = odd</li>
           <li><b>1st discard</b>: Odd/Even (odd = encouraging)<br>
-            <span class="note">Exception: trump + dummy solid suit → count<br>
-            Exception: NT + dummy solid suit → suit preference</span>
+            <span class="note">Exception: trump + dummy solid suit &rarr; count<br>
+            Exception: NT + dummy solid suit &rarr; suit preference</span>
           </li>
           <li><b>On partner's lead</b>: Attitude (priority)</li>
           <li><b>On declarer's lead</b>: Count</li>
-          <li><b>Returning suit</b>: Even length → lowest; odd length → high spot</li>
+          <li><b>Returning suit</b>: Even length &rarr; lowest; odd length &rarr; high spot</li>
         </ul>
 
-        <h2>Opening Leads &nbsp;<span style="font-weight:normal;text-transform:none;letter-spacing:0">— 2nd / 4th best</span></h2>
+        <h2>Opening Leads &nbsp;<span style="font-weight:normal;text-transform:none;letter-spacing:0">&mdash; 2nd / 4th best</span></h2>
         <table class="info-table">
           <tr><th>Lead</th><th>vs Suit</th><th>vs NT</th></tr>
           <tr><td>A</td>    <td>AK(+), Ax</td>                     <td>=</td></tr>
@@ -378,8 +394,8 @@
           <tr><td>J</td>    <td>J10(+), Jx, AJ10(+), KJ10(+)</td>  <td>=</td></tr>
           <tr><td>10</td>   <td>10x, H109(+)</td>                   <td>=</td></tr>
           <tr><td>9</td>    <td>H9x, 109x(+)</td>                   <td>=</td></tr>
-          <tr><td>Hi-X</td> <td>HXx, xXx(+)</td>                   <td>=</td></tr>
-          <tr><td>Lo-X</td> <td>xX, HxxX(+)</td>                   <td>=</td></tr>
+          <tr><td>Hi-x</td> <td>HXx, xXx(+)</td>                   <td>=</td></tr>
+          <tr><td>Lo-x</td> <td>xX, HxxX(+)</td>                   <td>=</td></tr>
         </table>
         <p class="note">= same as suit &nbsp;&nbsp; + means additionally vs NT</p>
       </div>
@@ -389,14 +405,265 @@
 
 </div>
 
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!--  SWEDISH CARD                                         -->
+<!-- ══════════════════════════════════════════════════════ -->
+<div class="card" id="card-sv" style="display:none">
+
+  <!-- ══════════ TOP PANEL ══════════════════════════════ -->
+  <div class="panel panel-top">
+
+    <div class="card-header">
+      <div class="player">
+        <div class="player-name" id="dn-sv">&nbsp;</div>
+        <div class="player-lbl">Nord</div>
+      </div>
+      <div>
+        <div class="main-title">POLSK KL&Ouml;VER</div>
+        <div class="sub-title">Konventionskort</div>
+      </div>
+      <div class="player">
+        <div class="player-name" id="ds-sv">&nbsp;</div>
+        <div class="player-lbl">Syd</div>
+      </div>
+    </div>
+
+    <table class="openings">
+      <tr>
+        <th>&Ouml;ppningsbud</th>
+        <th>Huvudsvar</th>
+      </tr>
+
+      <tr>
+        <td>
+          <span class="bid"><span class="c">1&#9827;</span></span><br>
+          <span class="desc">12&ndash;14 bal &nbsp;&middot;&nbsp; 15&ndash;17 5+<span class="c">&#9827;</span> &nbsp;&middot;&nbsp; 18+ valfri</span>
+        </td>
+        <td>
+          <span class="d"><b>1&#9830;</b></span>=0&ndash;6 valfri / 7&ndash;11 minorf&auml;rg(er) &nbsp;
+          <span class="h"><b>1&#9829;</b></span>/<span class="s"><b>1&#9824;</b></span>=7+, 4+ i bjuden f&auml;rg &nbsp;
+          <b>1NT</b>=7&ndash;10 &nbsp;
+          <span class="c"><b>2&#9827;</b></span>/<span class="d"><b>2&#9830;</b></span>=utg&aring;ngskrav, 5+<br>
+          <span class="h"><b>2&#9829;</b></span>=7&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span> &nbsp;
+          <span class="s"><b>2&#9824;</b></span>=utg&aring;ngskrav, ingen 4<span class="h">&#9829;</span>/5+<span class="c">&#9827;</span>/<span class="d">&#9830;</span> &nbsp;
+          <b>2NT</b>=11&ndash;12, invit
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <span class="bid"><span class="d">1&#9830;</span></span><br>
+          <span class="desc">(10)12&ndash;17: 5+<span class="d">&#9830;</span>, 4<span class="d">&#9830;</span>441, 4<span class="d">&#9830;</span>5<span class="c">&#9827;</span></span>
+        </td>
+        <td>
+          <span class="c"><b>2&#9827;</b></span>=utg&aring;ngskrav, 5+<span class="c">&#9827;</span> &nbsp;
+          <span class="d"><b>2&#9830;</b></span>=10+, 4+<span class="d">&#9830;</span> &nbsp;
+          <span class="h"><b>2&#9829;</b></span>=5&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span> &nbsp;
+          <span class="s"><b>2&#9824;</b></span>=13+ bal &nbsp;
+          <span class="c"><b>3&#9827;</b></span>=10&ndash;11, 6+<span class="c">&#9827;</span> invit
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <span class="bid"><span class="h">1&#9829;</span> / <span class="s">1&#9824;</span></span><br>
+          <span class="desc">(10)12&ndash;17, 5+ kort</span>
+        </td>
+        <td>
+          <b>1NT</b>=ej krav &nbsp;
+          <b>2/1</b>=utg&aring;ngskrav (<span class="c"><b>2&#9827;</b></span>: 2+<span class="c">&#9827;</span>) &nbsp;
+          <span class="s"><b>2&#9824;</b></span>=4&ndash;8, 6+<span class="s">&#9824;</span> <span class="note">(&ouml;ver 1<span class="h">&#9829;</span>)</span><br>
+          <b>2NT</b>=invit med st&ouml;d, eller 13&ndash;15 4-3-3-3 &nbsp;
+          <span class="c"><b>3&#9827;</b></span>/<span class="d"><b>3&#9830;</b></span>=6+ invit &nbsp;
+          <b>3NT</b>=utg&aring;ngskrav med st&ouml;d
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <span class="bid">1NT</span><br>
+          <span class="desc">(14)15&ndash;17(18) balanserad</span>
+        </td>
+        <td>
+          <span class="c"><b>2&#9827;</b></span>=Stayman &nbsp;
+          <span class="d"><b>2&#9830;</b></span>=transfer till <span class="h">&#9829;</span> &nbsp;
+          <span class="h"><b>2&#9829;</b></span>=transfer till <span class="s">&#9824;</span> &nbsp;
+          <span class="s"><b>2&#9824;</b></span>=transfer till &#9827;/&#9830; &nbsp;
+          <b>4NT</b>=kvantitativt
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <span class="bid"><span class="c">2&#9827;</span></span><br>
+          <span class="desc">11&ndash;14/15: 6+<span class="c">&#9827;</span>, eller 5+<span class="c">&#9827;</span>+4<span class="h">&#9829;</span>/<span class="s">&#9824;</span></span>
+        </td>
+        <td>
+          <span class="d"><b>2&#9830;</b></span>=relay, invit+ &nbsp;
+          <span class="h"><b>2&#9829;</b></span>/<span class="s"><b>2&#9824;</b></span>=5+, ej krav &nbsp;
+          <b>2NT</b>=sp&auml;rr / 5-5 utan <span class="c">&#9827;</span> &nbsp;
+          <span class="d"><b>4&#9830;</b></span>=Kickback
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <span class="bid"><span class="d">2&#9830;</span></span><br>
+          <span class="desc">(5)6&ndash;10: 6+ i <span class="h">&#9829;</span>/<span class="s">&#9824;</span></span>
+        </td>
+        <td>
+          <span class="h"><b>2&#9829;</b></span>=pass eller korrigera &nbsp;
+          <b>2NT</b>=fr&aring;ga &nbsp;
+          <b>3&#9829;/3&#9824;</b>=att spela
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <span class="bid"><span class="h">2&#9829;</span> / <span class="s">2&#9824;</span></span><br>
+          <span class="desc">(5)6&ndash;10: 5<span class="h">&#9829;</span>/<span class="s">&#9824;</span> + 4+&#9827;/&#9830; (5+&#9827;/&#9830; i zon)</span>
+        </td>
+        <td>
+          <b>2NT</b>=fr&aring;ga &nbsp;
+          <b>3&#9827;/3&#9830;</b>=ej krav &nbsp;
+          h&ouml;jning=att spela
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <span class="bid">2NT</span><br>
+          <span class="desc">21&ndash;22 balanserad</span>
+        </td>
+        <td>
+          <span class="c"><b>3&#9827;</b></span>=Stayman &nbsp;
+          <span class="d"><b>3&#9830;</b></span>=transfer till <span class="h">&#9829;</span> &nbsp;
+          <span class="h"><b>3&#9829;</b></span>=transfer till <span class="s">&#9824;</span> &nbsp;
+          <span class="s"><b>3&#9824;</b></span>=preferens &#9827;/&#9830; &nbsp;
+          <b>4NT</b>=kvantitativt
+        </td>
+      </tr>
+
+      <tr>
+        <td>
+          <span class="bid">3x &nbsp;/&nbsp; 4x</span><br>
+          <span class="desc">Sp&auml;rrbud</span>
+        </td>
+        <td>H&ouml;jning=att spela &nbsp;&nbsp; Ny f&auml;rg=krav</td>
+      </tr>
+
+      <tr>
+        <td>
+          <span class="bid">3NT</span><br>
+          <span class="desc">1:a/2:a: Gambling &nbsp;&middot;&nbsp; 3:e/4:e: att spela</span>
+        </td>
+        <td>
+          <span class="c"><b>4&#9827;</b></span>=pass eller korrigera &nbsp;
+          <span class="d"><b>4&#9830;</b></span>=fr&aring;gar efter kortf&auml;rg
+        </td>
+      </tr>
+
+    </table>
+  </div>
+
+  <!-- ══════════ BOTTOM PANEL (rotated 180°) ════════════ -->
+  <div class="panel panel-bottom">
+    <div class="two-col">
+
+      <!-- Left — Conventions + Competitive -->
+      <div>
+        <h2 class="first">Viktiga konventioner</h2>
+        <ul class="bl">
+          <li><b>Odwrotka</b>: 1<span class="c">&#9827;</span>&ndash;1<span class="h">&#9829;</span>/<span class="s">&#9824;</span>; 2<span class="d">&#9830;</span> = 18+ med 3+ st&ouml;d</li>
+          <li><b>Drury</b>: Passad hand efter 1<span class="h">&#9829;</span>/<span class="s">&#9824;</span>: 2<span class="c">&#9827;</span> = 10+ med st&ouml;d</li>
+          <li><b>Checkback</b>: Efter 1<span class="h">&#9829;</span>&ndash;1<span class="s">&#9824;</span>/1NT: 2<span class="c">&#9827;</span>=relay&rarr;2<span class="d">&#9830;</span>, 2<span class="d">&#9830;</span>=utg&aring;ngskrav</li>
+          <li><b>4:e f&auml;rg</b>: Artificiellt krav</li>
+          <li><b>Cue-bud</b>: Visar 1:a/2:a rondkontroll</li>
+          <li><b>RKCB 1430</b>: 4NT n&auml;r trumf fastst&auml;llt; n&auml;sta steg=trumfdamfr&aring;ga; DEPO/REPO vid st&ouml;rning</li>
+          <li><b>4NT kvantitativt</b>: Efter NT-h&ouml;jning eller efter 1NT + Stayman/transfer</li>
+        </ul>
+
+        <h2>Konkurrensbudgivning</h2>
+        <ul class="bl">
+          <li><b>Upplysningsdubbling</b>: 12+ direkt (9+ i balansl&auml;ge); 3+ i varje objuden h&ouml;gf&auml;rg</li>
+          <li><b>Negativa dubblingar</b>: Efter v&aring;r &ouml;ppning p&aring; 1-niv&aring; + inkliv</li>
+          <li><b>St&ouml;ddubbling/redubbling</b>: Efter v&aring;r &ouml;ppning p&aring; 1-niv&aring;</li>
+          <li><b>1NT inkliv</b>: 15&ndash;18 direkt, 11&ndash;15 i balansl&auml;ge</li>
+          <li><b>Michaels / ovanlig 2NT</b>: Tv&aring;f&auml;rgsh&auml;nder</li>
+        </ul>
+      </div>
+
+      <!-- Right — Signals + Leads -->
+      <div>
+        <h2 class="first">Signaler</h2>
+        <ul class="bl">
+          <li><b>Schneider</b>: L&aring;g = uppmuntrande</li>
+          <li><b>Malm&ouml;</b>: L&aring;g&ndash;h&ouml;g = j&auml;mnt; h&ouml;g&ndash;l&aring;g = udda</li>
+          <li><b>Romersk sakning</b>: udda = positiv<br>
+            <span class="note">Undantag: trumf + bordet har ren f&auml;rg &rarr; l&auml;ngd<br>
+            Undantag: NT + bordet har ren f&auml;rg &rarr; f&auml;rgpreferens</span>
+          </li>
+          <li><b>P&aring; partnerns utspel</b>: Attityd (prioritet)</li>
+          <li><b>P&aring; spelf&ouml;rarens utspel</b>: L&auml;ngd</li>
+          <li><b>V&auml;nda i partnerns f&auml;rg</b>: J&auml;mnt &rarr; l&auml;gsta; udda &rarr; h&ouml;gsta</li>
+        </ul>
+
+        <h2>Utspel &nbsp;<span style="font-weight:normal;text-transform:none;letter-spacing:0">&mdash; 2:a / 4:e h&ouml;gsta</span></h2>
+        <table class="info-table">
+          <tr><th>Utspel</th><th>Mot f&auml;rg</th><th>Mot NT</th></tr>
+          <tr><td>A</td>     <td>AK(+), Ax</td>                     <td>=</td></tr>
+          <tr><td>K</td>     <td>AK, Kx, KQ(+), KQ10(+)</td>        <td>+ AKJ10(+)</td></tr>
+          <tr><td>Q</td>     <td>QJ(+), Qx, AQJ(+)</td>             <td>+ KQ109(+)</td></tr>
+          <tr><td>J</td>     <td>J10(+), Jx, AJ10(+), KJ10(+)</td>  <td>=</td></tr>
+          <tr><td>10</td>    <td>10x, H109(+)</td>                   <td>=</td></tr>
+          <tr><td>9</td>     <td>H9x, 109x(+)</td>                   <td>=</td></tr>
+          <tr><td>H&ouml;g-x</td> <td>HXx, xXx(+)</td>              <td>=</td></tr>
+          <tr><td>L&aring;g-x</td> <td>xX, HxxX(+)</td>             <td>=</td></tr>
+        </table>
+        <p class="note">= samma som mot f&auml;rg &nbsp;&nbsp; + = &auml;ven mot NT</p>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
 <script>
-  function updateNames() {
-    const n = document.getElementById('north-in').value.trim();
-    const s = document.getElementById('south-in').value.trim();
-    document.getElementById('dn').textContent = n || '\u00a0';
-    document.getElementById('ds').textContent = s || '\u00a0';
+  var i18n = {
+    en: { title: 'Polish Club Convention Card', lblN: 'North: ', lblS: 'South: ', phN: 'Partner name', phS: 'Your name' },
+    sv: { title: 'Polsk Kl\u00f6ver \u2013 Konventionskort', lblN: 'Nord: ', lblS: 'Syd: ', phN: 'Partnerns namn', phS: 'Ditt namn' }
+  };
+
+  function setLang(lang) {
+    document.getElementById('card-en').style.display = lang === 'en' ? '' : 'none';
+    document.getElementById('card-sv').style.display = lang === 'sv' ? '' : 'none';
+    document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+    document.getElementById('btn-sv').classList.toggle('active', lang === 'sv');
+    var t = i18n[lang];
+    document.getElementById('form-title').textContent = t.title;
+    var lN = document.getElementById('lbl-n');
+    var lS = document.getElementById('lbl-s');
+    lN.childNodes[0].textContent = t.lblN;
+    lS.childNodes[0].textContent = t.lblS;
+    document.getElementById('north-in').placeholder = t.phN;
+    document.getElementById('south-in').placeholder = t.phS;
+    try { localStorage.setItem('cc-lang', lang); } catch(e) {}
+    updateNames();
   }
-  document.addEventListener('keydown', e => { if (e.key === 'Enter') updateNames(); });
+
+  function updateNames() {
+    var n = document.getElementById('north-in').value.trim();
+    var s = document.getElementById('south-in').value.trim();
+    ['en', 'sv'].forEach(function(lang) {
+      document.getElementById('dn-' + lang).textContent = n || '\u00a0';
+      document.getElementById('ds-' + lang).textContent = s || '\u00a0';
+    });
+  }
+
+  document.addEventListener('keydown', function(e) { if (e.key === 'Enter') updateNames(); });
+
+  try { setLang(localStorage.getItem('cc-lang') || 'en'); } catch(e) { setLang('en'); }
 </script>
 </body>
 </html>
