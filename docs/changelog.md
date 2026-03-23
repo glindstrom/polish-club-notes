@@ -4,6 +4,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
+## [1.3.4] - 2026-03-23
+### Changed
+- `convention-card.html`: Merged Swedish translation into the English card with a language toggle (🇬🇧/🇸🇪); selected language is remembered in localStorage
+- Removed separate `convention-card-sv.html` page; Swedish content is now accessible via the toggle on the convention card page
+- Swedish card uses correct bridge terminology throughout: Schneider, Malmö, Romersk sakning, Vända i partnerns färg, Hög-x/Låg-x, utgångskrav/okrav, Upplysningsdubbling, balanseringsläge
+- Fixed Checkback: `2♣=relay→2♦, 2♦=GF` (was `2♣=weak, 2♦=strong (13+)`)
+- Fixed leads table: `Hi-x`/`Lo-x` (was `Hi-X`/`Lo-X`) in English card
+- Updated 1♥/1♠ responses: `2/1=GF (2♣: 2+♣)`; removed point range from 3♣/3♦ for brevity
+
+## [1.3.3] - 2026-03-23
+### Added
+- New page `convention-card-sv.html`: Swedish translation of the convention card (Polsk Klöver – Konventionskort)
+
 ## [1.3.2] - 2026-03-23
 ### Changed
 - Removed vulnerability-specific HCP ranges throughout, aligning all opening descriptions with the convention card
