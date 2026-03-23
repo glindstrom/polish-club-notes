@@ -92,6 +92,7 @@ nav:
       - Specific King Ask: slam-bidding/specific-king-ask.md
   - Hand Evaluation: hand-evaluation.md
   - Carding Agreements: carding-agreements.md
+  - Convention Card: convention-card.html
   - Changelog: changelog.md
 extra_css:
   - css/custom.css

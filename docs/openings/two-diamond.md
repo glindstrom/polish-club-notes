@@ -2,22 +2,8 @@
 
 ### Opening Description
 
-- **Strength**:
-  - Non-vulnerable: 4-9 points
-  - Vulnerable: 6-11 points
-- **Suit Distribution**:
-  - Shows 6 cards in hearts or spades, at a strength below a one-level opening
-
-#### Minimum Opening Requirements
-- **Non-vulnerable**: ♠QJT932 ♥2 ♦T932 ♣32¹
-- **Vulnerable**: ♠KQT432 ♥2 ♦J932 ♣32
-
-#### Maximum Opening Requirements
-- **Non-vulnerable**: ♠KJ5432 ♥Q2 ♦QJ2 ♣32
-- **Vulnerable**: ♠KJ5432 ♥K2 ♦QJ2 ♣J2
-
-#### Footnote
-- ¹ Extra point for sequential spades and having a side four-card diamond suit.
+- **Strength**: (5)6–10 points
+- **Suit Distribution**: 6 cards in hearts or spades, at a strength below a one-level opening
 
 ??? note "Response Structure"
     ### Response Structure

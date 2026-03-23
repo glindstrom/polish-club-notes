@@ -1,8 +1,7 @@
 # 1♠ Opening
 
 ### Description
-- 10-17 HCP before vulnerability, 12-17 HCP after vulnerability.
-- 5+ spades.
+- (10)12–17 HCP, 5+ spades.
 
 ??? note "Responses to 1♠"
     ### Responses to 1♠

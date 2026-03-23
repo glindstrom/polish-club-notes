@@ -4,6 +4,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
+## [1.3.2] - 2026-03-23
+### Changed
+- Removed vulnerability-specific HCP ranges throughout, aligning all opening descriptions with the convention card
+- `openings/overview.md`: simplified to single-column table; updated 1♥/1♠ to (10)12–17, 1NT to (14)15–17(18), 2♦/2♥/2♠ to (5)6–10
+- `openings/one-heart.md`, `one-spade.md`: updated to (10)12–17 HCP
+- `openings/one-nt.md`: updated to (14)15–17(18) HCP
+- `openings/two-diamond.md`: updated to (5)6–10; removed vulnerability-split min/max hand examples
+- `openings/two-major.md`: updated to (5)6–10, 5+m vul; removed vulnerability-split min/max hand examples
+
+## [1.3.1] - 2026-03-23
+### Added
+- New page `convention-card.html`: Printable A4 portrait convention card (horizontal fold), covering opening bids, 1♣/1NT/2NT/2♣ responses, key conventions (Odwrotka, Drury, Checkback, RKCB 1430, etc.), competitive bidding overview, signals, and opening leads; includes partner name input fields printed on the card
+
 ## [1.3.0] - 2026-03-23
 ### Added
 - New page `openings/strong-two-nt.md`: Strong 2NT opening (21-22 HCP balanced) with full response structure — Stayman (four replies including 3NT for both majors), Smolen after 3♦, transfers with opener's support/control-quality rebids, 3♠ minor preference, and 4NT quantitative

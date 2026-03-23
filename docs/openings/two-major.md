@@ -2,23 +2,9 @@
 
 ### Opening Description
 
-- **Strength**:
-  - Non-vulnerable: 4-9 points
-  - Vulnerable: 6-11 points
-- **Suit Distribution**:
-  - Promises a five-card major suit and a minor suit
-  - Non-vulnerable: Allows 5-4 distribution
-  - Vulnerable: Requires at least 5-5 distribution
-- **Recommendation**:
-  - Not recommended with three cards in the other major suit (especially before partner's pass)
-
-#### Minimum Opening Requirements
-- **Non-vulnerable**: ♠32 ♥JT432 ♦QJ932 ♣3
-- **Vulnerable**: ♠32 ♥QJT32 ♦QJ432 ♣2
-
-#### Maximum Opening Requirements
-- **Non-vulnerable**: ♠32 ♥KJT32 ♦KQ32 ♣32
-- **Vulnerable**: ♠J ♥KQT32 ♦Q5432 ♣K2
+- **Strength**: (5)6–10 points
+- **Suit Distribution**: 5-card major + 4+m (5+m vul)
+- **Recommendation**: Not recommended with three cards in the other major suit (especially before partner's pass)
 
 ??? note "Response Structure"
     ### Response Structure

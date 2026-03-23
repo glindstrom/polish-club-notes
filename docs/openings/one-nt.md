@@ -1,7 +1,7 @@
 # 1NT Opening
 
 ### Description
-- **Strength**: 15-17 HCP, balanced distribution.
+- **Strength**: (14)15–17(18) HCP, balanced distribution.
 - **Permissible Shapes**:
   - May include a 5-card minor suit (even with a side 4-card suit if short suits have honors).
   - May include a weak 6-card minor suit.
