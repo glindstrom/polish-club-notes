@@ -4,7 +4,7 @@
 
 - **Meanings**:
   - **Weak Variant**: Balanced distribution (12-14 HCP), including 4-4-4-1 with four clubs.
-  - **Club Variant**: At least 5 clubs, unbalanced distribution (12-17 HCP).
+  - **Club Variant**: At least 5 clubs, unbalanced distribution (15-17 HCP).
   - **Strong Variant**: 18+ HCP.
 - **Guideline**:
     - Open with a strong club if your hand can make game even if partner has only a king and queen plus average distribution.
@@ -38,10 +38,10 @@
         | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
         | 1♥/1♠ | 1) 12-14 with longer major suit<br>2) 12-21 with four-card suit and 5+ clubs<br>3) 18-21 with five-card suit<br>4) 18-21 with four-card suit and five diamonds |
         | 1NT   | 18-20 balanced                                                                                                                                                 |
-        | 2♣    | 12-17 with 6+ clubs¹                                                                                                                                           |
+        | 2♣    | 15+; 5+ clubs, no 4-card major (unless 20+)                                                                                                                    |
         | 2♦    | Game forcing (not two-suited)                                                                                                                                  |
         | 2♥/2♠ | 21-22 with five-card suit                                                                                                                                      |
-        | 2NT   | 21-23 balanced                                                                                                                                                 |
+        | 2NT   | 23-24 balanced                                                                                                                                                 |
         | 3♣/3♦ | 18-22 with 6+ cards in the bid suit                                                                                                                            |
         | 3♥    | Game forcing; two-suiter with hearts (and any second suit)                                                                                                     |
         | 3♠    | Game forcing; two-suiter with spades (and a minor)                                                                                                             |
@@ -81,7 +81,6 @@
         #### Notes
         - Two-suiters are only shown after a 1♦ response. They are never used after any intervention by the opponents.
         - Two-suiters not strong enough for a game force after a 1♦ response are shown by bidding the major suit at the one level followed by a jump to the three level in the other suit on the next round of bidding.
-        - ¹ With 5-3-3-2 including clubs, bid better major; with 5 clubs and 4 diamonds, bid 3-card major if available, otherwise 2♣.
         - With a two-suited hand (at least 5-5) that’s game forcing, opener bids with a double jump (3♥, 3♠, 4♣).
         - With a minor five-card suit and a major four-card suit, opener bids the major unless they have game forcing strength.
         - With a weak balanced variant (12-14), opener bids 1♥ or 1♠, showing their longer major (can be three cards in extreme cases).
@@ -120,7 +119,7 @@
             #### Notes
             - ¹ Weaker than a direct jump to 2♠.
             - ² With 18-20 balanced, opener would bid 1NT after 1♦.
-            - ³ With 21-22 balanced, opener would bid 2NT after 1♦.
+            - ³ With 23-24 balanced, opener would bid 2NT after 1♦.
 
             #### Further Bidding after 1♣ - 1♦ - 1♠ - 2♣
             | Opener’s Rebid | Meaning                                                 |
@@ -133,8 +132,8 @@
             | 3♦/3♥          | 18-21; 5 spades and bid five-card suit; forcing to game |
             | 4♣             | 18+; 4 spades, 5 clubs; forcing                         |
 
-    ??? note "Notrump Rebids (1NT: 18-20; 2NT: 21-23)"
-        #### Notrump Rebids (1NT: 18-20; 2NT: 21-23)
+    ??? note "Notrump Rebids (1NT: 18-20; 2NT: 23-24)"
+        #### Notrump Rebids (1NT: 18-20; 2NT: 23-24)
         - Similar to 1NT opening sequences (see 1NT opening section for details).
         - **After 1♣ - 1♦ - 1NT**:
 
@@ -145,16 +144,19 @@
         | 3♦              | Game invite in diamonds (4-6)        |
         | 3♥/3♠           | 5-4-3-1 convention (forcing to game) |
 
-        - **After 1♣ - 1♦ - 2NT**:
+        - **After 1♣ - 1♦ - 2NT**: Continuations are identical to after the [Strong 2NT Opening](strong-two-nt.md).
 
         | Bid      | Meaning                                                           |
         | -------- | ----------------------------------------------------------------- |
-        | 3♣       | Stayman (up to 6 points)                                          |
+        | 3♣       | Stayman                                                           |
         | → 3♦     | No 4-card major                                                   |
         | →→ 3♥/3♠ | Smolen: 4 cards in the bid major, 5 cards in the other major (GF) |
-        | 3♦/3♥    | Transfers (up to 6 points)                                        |
-        | 3♠       | 5+4+ in minor suits (6-11)                                        |
-        | 4♣/4♦    | Natural, forcing (8-11)                                           |
+        | 3♦/3♥    | Transfers                                                         |
+        | 3♠       | Minor preference; 5-4+ in minors with a major singleton           |
+        | 3NT      | Natural, to play                                                  |
+        | 4♣/4♦    | Natural, forcing                                                  |
+        | 4♥/4♠    | Natural, 6+, to play                                              |
+        | 4NT      | Quantitative slam invitation; balanced, no four-card major        |
 
         ??? note "Further Bidding after 1♣ - 1♦ - 2NT – Transfers"
             #### Further Bidding after 1♣ - 1♦ - 2NT – Transfers
@@ -201,7 +203,7 @@
             #### Further Bidding after 1♣ - 1♦ - 2♦ - 2♥
             - **Meaning**: Responder’s 2♥ is a second negative, indicating a weak hand with no significant features.
             - **Opener’s Rebids**:
-            - **2NT**: Shows a balanced hand with at least 24 HCP, game-forcing (even if responder has zero points, the auction cannot stop short of game). The auction proceeds as it would after `1♣ - 1♦ - 2NT` (see [Notrump Rebids](#notrump-rebids-1nt-18-20-2nt-21-23) for responder’s bids).
+            - **2NT**: Shows a balanced hand with at least 24 HCP, game-forcing (even if responder has zero points, the auction cannot stop short of game). The auction proceeds as it would after `1♣ - 1♦ - 2NT` (see [Notrump Rebids](#notrump-rebids-1nt-18-20-2nt-23-24) for responder’s bids).
             - **2♠, 3♣, 3♦, 3♥**: Natural, showing a 5+ card suit in the bid suit.
 
             #### Notes
@@ -377,31 +379,27 @@
         | 3♥              | Invitational with good suit           |
         | 3♠/4♣/4♦        | Auto-splinter (with hearts), slam try |
 
-    ??? note "2♣ Rebid (12-17; 5+ Clubs; Non-Forcing)"
-        #### 2♣ Rebid (12-17; 5+ Clubs; Non-Forcing)
+    ??? note "2♣ Rebid (15-17; 5+ Clubs)"
+        #### 2♣ Rebid (15-17; 5+ Clubs)
         - After 1♥: Denies four spades.
         - After 1♠: Doesn’t deny four hearts.
 
-        | Responder’s Bid | Meaning                                |
-        | --------------- | -------------------------------------- |
-        | 2♦              | 11+; artificial, forcing for one round |
-        | 2♠              | 13+; natural, game forcing             |
-        | 2♥/2NT/3♣       | 7-10; non-forcing                      |
-        | 3♥              | 9-11, invitational                     |
+        | Responder’s Bid | Meaning                     |
+        | --------------- | --------------------------- |
+        | 2♦              | Artificial, one round force |
+        | 2♠              | Natural, forcing            |
+        | 2♥/2NT/3♣       | 7-8; non-forcing            |
+        | 3♥              | Natural, forcing            |
 
         ??? note "After 1♣ - 1♥ - 2♣ - 2♦ (Artificial, Forcing)"
             #### After 1♣ - 1♥ - 2♣ - 2♦ (Artificial, Forcing)
-            | Opener’s Rebid | Meaning                       |
-            | -------------- | ----------------------------- |
-            | 2♥             | 12-13; 3 hearts; minimum hand |
-            | 2♠             | 15-17; six clubs              |
-            | 2NT            | 12-14; natural                |
-            | 3♣             | 12-14; natural                |
-            | 3♦             | 15-17; 5 clubs, 4 diamonds    |
-            | 3♥             | 14-16; 3 hearts¹              |
-
-            #### Notes
-            - ¹ With 17 points, natural clubs, and heart support, use [Odwrotka](../conventions/odwrotka.md).
+            | Opener’s Rebid | Meaning                                              |
+            | -------------- | ---------------------------------------------------- |
+            | 2♥             | 15-17; three hearts; not interested in a slam        |
+            | 2♠             | Artificial, 18+; game force; rest of auction natural |
+            | 2NT/3♣         | 15-17; natural                                       |
+            | 3♦             | 15-17; 5 clubs, 4 diamonds                           |
+            | 3♥             | 15-17; three hearts; interested in a slam            |
 
     ??? note "2♥ Rebid (12-14; Four Hearts)"
         <a id="responder-rebids-1c-1h-2h"></a>
@@ -453,28 +451,22 @@
 
     - **Meaning**: 7+ points, 4+ spades (similar to 1♥ response).
     - **Differences from 1♥**:
-      - After 1♣ - 1♠ - 2♣ (12-17; 5+ clubs):
+      - After 1♣ - 1♠ - 2♣ (15+; 5+ clubs), opener does not deny four hearts:
 
-        | Responder’s Bid | Meaning                                                |
-        | --------------- | ------------------------------------------------------ |
-        | 2♦              | Artificial, forcing for one round, without four hearts |
-        | 2♥              | 10+; 5+ spades, 4+ hearts                              |
+        | Responder’s Bid | Meaning                                          |
+        | --------------- | ------------------------------------------------ |
+        | 2♦              | Artificial, one round force; without four hearts |
+        | 2♥              | 10+; 5+ spades, 4+ hearts                        |
+
+        #### Notes
+        - With 5+ spades and 4+ hearts but only 7-9 points, respond 2♥ directly over the 1♣ opening; 2♥ on the second round therefore shows 10+.
 
     ??? note "After 1♣ - 1♠ - 2♣ - 2♦ (Artificial, Forcing)"
         #### After 1♣ - 1♠ - 2♣ - 2♦ (Artificial, Forcing)
-        | Opener’s Rebid | Meaning                    |
-        | -------------- | -------------------------- |
-        | 2♥             | 15-17; 6+ clubs            |
-        | 2♠             | 12-13; 3 spades            |
-        | 2NT            | 12-14; natural             |
-        | 3♣             | 12-14; natural             |
-        | 3♦             | 15-17; 5 clubs, 4 diamonds |
-        | 3♥             | 15-17; 4 hearts            |
-        | 3♠             | 14-16; 3 spades¹           |
-
-        #### Notes
-        - ¹ With 17 points and a three-card fit, use [Odwrotka](../conventions/odwrotka.md).
-        - With 7-9 points, 5 spades, 4 hearts, respond 2♥ directly over 1♣.
+        | Opener’s Rebid | Meaning                                              |
+        | -------------- | ---------------------------------------------------- |
+        | 2♥             | Artificial, 18+; game force; rest of auction natural |
+        | Others         | 15-17; natural                                       |
 
     ??? note "2♠ Rebid (12-14; Four Spades)"
         <a id="responder-rebids-1c-1s-2s"></a>

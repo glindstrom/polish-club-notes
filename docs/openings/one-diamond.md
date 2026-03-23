@@ -2,7 +2,7 @@
 
 ### Description
 
-- 12-17, 5+♦ or 4-4-4-1 (singleton ♣)
+- 12-17; 5+♦, or any 4♦441, or 12-15; 4♦ 5♣
 
 ??? note "Responses to 1♦"
     ### Responses to 1♦

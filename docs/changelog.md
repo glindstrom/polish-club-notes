@@ -3,8 +3,26 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
+
+## [1.3.0] - 2026-03-23
+### Added
+- New page `openings/strong-two-nt.md`: Strong 2NT opening (21-22 HCP balanced) with full response structure — Stayman (four replies including 3NT for both majors), Smolen after 3♦, transfers with opener's support/control-quality rebids, 3♠ minor preference, and 4NT quantitative
+- New page `openings/precision-two-club.md`: Precision 2♣ opening (11-14/15 HCP, 6+ clubs or 5+ clubs with a four-card major) with 2♦ relay system, opener's rebid structure (major, 2NT/3♣ club variants, singleton-showing 3♦/3♥/3♠, solid 3NT), continuations after each rebid, 2NT ambiguous response, and bidding after intervention
+
+### Removed
+- Removed `openings/two-nt.md`: Weak 2NT (5-5 minors) replaced by the strong 2NT opening
+- Removed `openings/two-club.md`: Weak 2♣ (both majors) replaced by the precision 2♣ opening
+- Removed `openings/two-club-interference.md`: No longer applicable after replacing the weak 2♣ opening
+
 ### Changed
 - Updated `openings/one-nt.md`: Fixed typos in responder rebids after 1NT – 2♥ – 2♠ sequence (self-splinter bids were incorrectly listed as 3NT instead of 4♣ and 4♣ instead of 4♥)
+- Updated `openings/one-club.md`:
+  - 1♣ club variant strength changed from 12-17 to 15-17 HCP
+  - 1♣ – 1♦ – 2♣ rebid updated to 15+; 5+ clubs, no 4-card major (unless 20+)
+  - 1♣ – 1♦ – 2NT rebid updated from 21-23 to 23-24 HCP; continuations now reference and match the Strong 2NT Opening page
+  - 1♣ – 1♥ – 2♣ and 1♣ – 1♠ – 2♣ rebid structures updated per reference material: strength corrected to 15-17, response ranges and forcing status revised, and after-2♦ continuations corrected
+- Updated `openings/one-diamond.md`: Description updated to 12-17 5+♦, any 4♦441, or 12-15 4♦ 5♣
+- Updated `openings/overview.md`: Descriptions updated for 1♣, 1♦, and 2♣ openings to reflect new system agreements
 
 ## [1.2.8] - 2025-12-23
 ### Changed
