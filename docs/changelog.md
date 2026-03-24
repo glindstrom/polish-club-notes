@@ -4,6 +4,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
+## [1.3.5] - 2026-03-24
+### Changed
+- `convention-card.html`: Added defenses vs strong 1♣ (X=♣, 1NT=♣+♦, 2X=Multi-Landy) and vs NT (Multi-Landy direct; reopen: 2♣=♥+♠, 2♦/2♥/♠=NAT)
+- Replaced Negative Doubles and Support Double/Redbl with transfers after overcall (vs 1♦/1♥) and transfers after double of 1M
+- Fixed 1NT overcall range: 15–17 (was 15–18)
+- Changed discard: Odd/Even with Lavinthal on even; Swedish: Italiensk sakning
+- Transfer notation unified to arrow style (→) throughout both cards
+- 1NT responses: explicit `2♠→♣, 3♣→♦`; 2NT: `3♠=♣&♦`
+- Suit symbols consistently coloured throughout Swedish card
+
 ## [1.3.4] - 2026-03-23
 ### Changed
 - `convention-card.html`: Merged Swedish translation into the English card with a language toggle (🇬🇧/🇸🇪); selected language is remembered in localStorage
