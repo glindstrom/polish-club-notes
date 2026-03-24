@@ -158,8 +158,13 @@
     .h { color: #b71c1c; font-weight: bold; }
     .s { color: #000;    font-weight: bold; }
 
-    /* ── 1♣ row highlight ───────────────────────────────── */
-    .openings tr.row-club td { background: #dcedc8 !important; }
+    /* ── 1♣ row accent bar ──────────────────────────────── */
+    .openings tr.row-club td:first-child { border-left: 3pt solid #2e7d32 !important; }
+
+    /* ── Response lines ─────────────────────────────────── */
+    .r-line { padding: 0.15mm 0; line-height: 1.3; }
+    .r-line + .r-line { padding-top: 0.35mm; }
+    .sep { color: #999; font-weight: normal; font-size: 8.5pt; margin: 0 0.6mm; }
 
     /* ── Bullet list ────────────────────────────────────── */
     ul.bl    { list-style: none; padding: 0; margin: 0 0 0.5mm; }
@@ -217,15 +222,13 @@
       <tr class="row-club">
         <td>
           <span class="bid"><span class="c">1&#9827;</span></span><br>
-          <span class="desc">12&ndash;14 bal (or 4<span class="d">&#9830;</span>441) &nbsp;&middot;&nbsp; 15&ndash;17 5+<span class="c">&#9827;</span> &nbsp;&middot;&nbsp; 18+ any</span>
+          <span class="desc">12&ndash;14 bal (or 4<span class="d">&#9830;</span>441)<br>15&ndash;17 5+<span class="c">&#9827;</span> <span class="sep">|</span> 18+ any</span>
         </td>
         <td>
-          <span class="d"><b>1&#9830;</b></span>=0&ndash;6 any / 7&ndash;11 minor(s) &nbsp;
-          <span class="h"><b>1&#9829;</b></span>/<span class="s"><b>1&#9824;</b></span>=7+, 4+ in bid suit &nbsp;
-          <b>1NT</b>=7&ndash;10 &nbsp;
-          <span class="c"><b>2&#9827;</b></span>/<span class="d"><b>2&#9830;</b></span>=12+, 5+ GF<br><span class="h"><b>2&#9829;</b></span>=7&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span> &nbsp;
-          <span class="s"><b>2&#9824;</b></span>=13+, no 4M/5m GF &nbsp;
-          <b>2NT</b>=11&ndash;12, inv
+          <div class="r-line"><span class="d"><b>1&#9830;</b></span>=0&ndash;6 any <span class="sep">|</span> 7&ndash;11 minor(s)</div>
+          <div class="r-line"><span class="h"><b>1&#9829;</b></span>/<span class="s"><b>1&#9824;</b></span>=7+, 4+ in bid suit <span class="sep">•</span> <b>1NT</b>=7&ndash;10</div>
+          <div class="r-line"><span class="c"><b>2&#9827;</b></span>/<span class="d"><b>2&#9830;</b></span>=12+, 5+ GF <span class="sep">•</span> <span class="h"><b>2&#9829;</b></span>=7&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span></div>
+          <div class="r-line"><span class="s"><b>2&#9824;</b></span>=13+, no 4M/5m GF <span class="sep">•</span> <b>2NT</b>=11&ndash;12, inv</div>
         </td>
       </tr>
 
@@ -235,11 +238,9 @@
           <span class="desc">5+<span class="d">&#9830;</span> or 4<span class="d">&#9830;</span>441: (10)12&ndash;17<br>4<span class="d">&#9830;</span>5<span class="c">&#9827;</span>: (10)12&ndash;15</span>
         </td>
         <td>
-          <span class="c"><b>2&#9827;</b></span>=12+, 5+<span class="c">&#9827;</span> GF &nbsp;
-          <span class="d"><b>2&#9830;</b></span>=10+, 4+<span class="d">&#9830;</span> &nbsp;
-          <span class="h"><b>2&#9829;</b></span>=5&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span> &nbsp;
-          <span class="s"><b>2&#9824;</b></span>=13+ bal &nbsp;
-          <span class="c"><b>3&#9827;</b></span>=10&ndash;11, 6+<span class="c">&#9827;</span> inv
+          <div class="r-line"><span class="c"><b>2&#9827;</b></span>=12+, 5+<span class="c">&#9827;</span> GF <span class="sep">•</span> <span class="d"><b>2&#9830;</b></span>=10+, 4+<span class="d">&#9830;</span></div>
+          <div class="r-line"><span class="h"><b>2&#9829;</b></span>=5&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span> <span class="sep">•</span> <span class="s"><b>2&#9824;</b></span>=13+ bal</div>
+          <div class="r-line"><span class="c"><b>3&#9827;</b></span>=10&ndash;11, 6+<span class="c">&#9827;</span> inv</div>
         </td>
       </tr>
 
@@ -249,12 +250,9 @@
           <span class="desc">(10)12&ndash;17, 5+ cards</span>
         </td>
         <td>
-          <b>1NT</b>=NF &nbsp;
-          <b>2/1</b>=GF (<span class="c"><b>2&#9827;</b></span>: 2+<span class="c">&#9827;</span>) &nbsp;
-          <span class="s"><b>2&#9824;</b></span>=4&ndash;8, 6+<span class="s">&#9824;</span> <span class="note">(over 1<span class="h">&#9829;</span>)</span><br>
-          <b>2NT</b>=inv with support, or 13&ndash;15 4-3-3-3 &nbsp;
-          <span class="c"><b>3&#9827;</b></span>/<span class="d"><b>3&#9830;</b></span>=6+ inv &nbsp;
-          <b>3NT</b>=GF with support
+          <div class="r-line"><b>1NT</b>=NF <span class="sep">•</span> <b>2/1</b>=GF (<span class="c"><b>2&#9827;</b></span>: 2+<span class="c">&#9827;</span>) <span class="sep">•</span> <span class="s"><b>2&#9824;</b></span>=4&ndash;8, 6+<span class="s">&#9824;</span> <span class="note">(over 1<span class="h">&#9829;</span>)</span></div>
+          <div class="r-line"><b>2NT</b>=inv w/ support <span class="sep">|</span> 13&ndash;15 4-3-3-3</div>
+          <div class="r-line"><span class="c"><b>3&#9827;</b></span>/<span class="d"><b>3&#9830;</b></span>=6+ inv <span class="sep">•</span> <b>3NT</b>=GF w/ support</div>
         </td>
       </tr>
 
@@ -264,11 +262,8 @@
           <span class="desc">(14)15&ndash;17(18) balanced</span>
         </td>
         <td>
-          <span class="c"><b>2&#9827;</b></span>=Stayman &nbsp;
-          <span class="d"><b>2&#9830;</b></span>&rarr;<span class="h">&#9829;</span> &nbsp;
-          <span class="h"><b>2&#9829;</b></span>&rarr;<span class="s">&#9824;</span> &nbsp;
-          <span class="s"><b>2&#9824;</b></span>&rarr;<span class="c">&#9827;</span>, <span class="c"><b>3&#9827;</b></span>&rarr;<span class="d">&#9830;</span> &nbsp;
-          <b>4NT</b>=quantitative
+          <div class="r-line"><span class="c"><b>2&#9827;</b></span>=Stayman <span class="sep">•</span> <span class="d"><b>2&#9830;</b></span>&rarr;<span class="h">&#9829;</span> <span class="sep">•</span> <span class="h"><b>2&#9829;</b></span>&rarr;<span class="s">&#9824;</span></div>
+          <div class="r-line"><span class="s"><b>2&#9824;</b></span>&rarr;<span class="c">&#9827;</span> <span class="sep">•</span> <span class="c"><b>3&#9827;</b></span>&rarr;<span class="d">&#9830;</span> <span class="sep">•</span> <b>4NT</b>=quantitative</div>
         </td>
       </tr>
 
@@ -278,10 +273,8 @@
           <span class="desc">11&ndash;14/15: 6+<span class="c">&#9827;</span>, or 5+<span class="c">&#9827;</span>+4M</span>
         </td>
         <td>
-          <span class="d"><b>2&#9830;</b></span>=relay, inv+ &nbsp;
-          <span class="h"><b>2&#9829;</b></span>/<span class="s"><b>2&#9824;</b></span>=5+, NF &nbsp;
-          <b>2NT</b>=blocking / 5-5 excl. <span class="c">&#9827;</span> &nbsp;
-          <span class="d"><b>4&#9830;</b></span>=Kickback
+          <div class="r-line"><span class="d"><b>2&#9830;</b></span>=relay, inv+ <span class="sep">•</span> <span class="h"><b>2&#9829;</b></span>/<span class="s"><b>2&#9824;</b></span>=5+, NF</div>
+          <div class="r-line"><b>2NT</b>=blocking <span class="sep">|</span> 5-5 excl. <span class="c">&#9827;</span> <span class="sep">•</span> <span class="d"><b>4&#9830;</b></span>=Kickback</div>
         </td>
       </tr>
 
@@ -291,9 +284,7 @@
           <span class="desc">(5)6&ndash;10: 6+ in one major</span>
         </td>
         <td>
-          <span class="h"><b>2&#9829;</b></span>=pass or correct &nbsp;
-          <b>2NT</b>=ask &nbsp;
-          <b>3M</b>=to play
+          <div class="r-line"><span class="h"><b>2&#9829;</b></span>=pass or correct <span class="sep">•</span> <b>2NT</b>=ask <span class="sep">•</span> <b>3M</b>=to play</div>
         </td>
       </tr>
 
@@ -303,9 +294,7 @@
           <span class="desc">(5)6&ndash;10: 5M + 4+m (5+m vul)</span>
         </td>
         <td>
-          <b>2NT</b>=ask &nbsp;
-          <b>3m</b>=NF &nbsp;
-          raise=to play
+          <div class="r-line"><b>2NT</b>=ask <span class="sep">•</span> <b>3m</b>=NF <span class="sep">•</span> raise=to play</div>
         </td>
       </tr>
 
@@ -315,11 +304,8 @@
           <span class="desc">21&ndash;22 balanced</span>
         </td>
         <td>
-          <span class="c"><b>3&#9827;</b></span>=Stayman &nbsp;
-          <span class="d"><b>3&#9830;</b></span>=Transfer&rarr;<span class="h">&#9829;</span> &nbsp;
-          <span class="h"><b>3&#9829;</b></span>=Transfer&rarr;<span class="s">&#9824;</span> &nbsp;
-          <span class="s"><b>3&#9824;</b></span>=<span class="c">&#9827;</span>&amp;<span class="d">&#9830;</span> &nbsp;
-          <b>4NT</b>=quantitative
+          <div class="r-line"><span class="c"><b>3&#9827;</b></span>=Stayman <span class="sep">•</span> <span class="d"><b>3&#9830;</b></span>&rarr;<span class="h">&#9829;</span> <span class="sep">•</span> <span class="h"><b>3&#9829;</b></span>&rarr;<span class="s">&#9824;</span></div>
+          <div class="r-line"><span class="s"><b>3&#9824;</b></span>=<span class="c">&#9827;</span>&amp;<span class="d">&#9830;</span> <span class="sep">•</span> <b>4NT</b>=quantitative</div>
         </td>
       </tr>
 
@@ -328,17 +314,16 @@
           <span class="bid">3x &nbsp;/&nbsp; 4x</span><br>
           <span class="desc">Preemptive</span>
         </td>
-        <td>Raise=to play &nbsp;&nbsp; New suit=forcing</td>
+        <td><div class="r-line">Raise=to play <span class="sep">•</span> New suit=forcing</div></td>
       </tr>
 
       <tr>
         <td>
           <span class="bid">3NT</span><br>
-          <span class="desc">1st/2nd: Gambling &nbsp;&middot;&nbsp; 3rd/4th: To play</span>
+          <span class="desc">1st/2nd: Gambling <span class="sep">|</span> 3rd/4th: To play</span>
         </td>
         <td>
-          <span class="c"><b>4&#9827;</b></span>=pass or correct &nbsp;
-          <span class="d"><b>4&#9830;</b></span>=asks for shortness
+          <div class="r-line"><span class="c"><b>4&#9827;</b></span>=pass or correct <span class="sep">•</span> <span class="d"><b>4&#9830;</b></span>=asks for shortness</div>
         </td>
       </tr>
 
@@ -443,15 +428,13 @@
       <tr class="row-club">
         <td>
           <span class="bid"><span class="c">1&#9827;</span></span><br>
-          <span class="desc">12&ndash;14 bal (eller 4<span class="d">&#9830;</span>441) &nbsp;&middot;&nbsp; 15&ndash;17 5+<span class="c">&#9827;</span> &nbsp;&middot;&nbsp; 18+ valfri</span>
+          <span class="desc">12&ndash;14 bal (eller 4<span class="d">&#9830;</span>441)<br>15&ndash;17 5+<span class="c">&#9827;</span> <span class="sep">|</span> 18+ valfri</span>
         </td>
         <td>
-          <span class="d"><b>1&#9830;</b></span>=0&ndash;6 valfri / 7&ndash;11 l&aring;gf&auml;rg(er) &nbsp;
-          <span class="h"><b>1&#9829;</b></span>/<span class="s"><b>1&#9824;</b></span>=7+, 4+ i bjuden f&auml;rg &nbsp;
-          <span style="white-space:nowrap"><b>1NT</b>=7&ndash;10</span>
-          <span class="c"><b>2&#9827;</b></span>/<span class="d"><b>2&#9830;</b></span>=utg&aring;ngskrav, 5+<br><span class="h"><b>2&#9829;</b></span>=7&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span> &nbsp;
-          <span class="s"><b>2&#9824;</b></span>=utg&aring;ngskrav, ingen 4<span class="h">&#9829;</span>/5+<span class="c">&#9827;</span>/<span class="d">&#9830;</span> &nbsp;
-          <b>2NT</b>=11&ndash;12, invit
+          <div class="r-line"><span class="d"><b>1&#9830;</b></span>=0&ndash;6 valfri <span class="sep">|</span> 7&ndash;11 l&aring;gf&auml;rg(er)</div>
+          <div class="r-line"><span class="h"><b>1&#9829;</b></span>/<span class="s"><b>1&#9824;</b></span>=7+, 4+ i bjuden f&auml;rg <span class="sep">•</span> <b>1NT</b>=7&ndash;10</div>
+          <div class="r-line"><span class="c"><b>2&#9827;</b></span>/<span class="d"><b>2&#9830;</b></span>=utg&aring;ngskrav, 5+ <span class="sep">•</span> <span class="h"><b>2&#9829;</b></span>=7&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span></div>
+          <div class="r-line"><span class="s"><b>2&#9824;</b></span>=utg&aring;ngskrav, ingen 4<span class="h">&#9829;</span>/5+<span class="c">&#9827;</span>/<span class="d">&#9830;</span> <span class="sep">•</span> <b>2NT</b>=11&ndash;12, invit</div>
         </td>
       </tr>
 
@@ -461,11 +444,9 @@
           <span class="desc">5+<span class="d">&#9830;</span> eller 4<span class="d">&#9830;</span>441: (10)12&ndash;17<br>4<span class="d">&#9830;</span>5<span class="c">&#9827;</span>: (10)12&ndash;15</span>
         </td>
         <td>
-          <span class="c"><b>2&#9827;</b></span>=utg&aring;ngskrav, 5+<span class="c">&#9827;</span> &nbsp;
-          <span class="d"><b>2&#9830;</b></span>=10+, 4+<span class="d">&#9830;</span> &nbsp;
-          <span class="h"><b>2&#9829;</b></span>=5&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span> &nbsp;
-          <span class="s"><b>2&#9824;</b></span>=13+ bal &nbsp;
-          <span class="c"><b>3&#9827;</b></span>=10&ndash;11, 6+<span class="c">&#9827;</span> invit
+          <div class="r-line"><span class="c"><b>2&#9827;</b></span>=utg&aring;ngskrav, 5+<span class="c">&#9827;</span> <span class="sep">•</span> <span class="d"><b>2&#9830;</b></span>=10+, 4+<span class="d">&#9830;</span></div>
+          <div class="r-line"><span class="h"><b>2&#9829;</b></span>=5&ndash;9, 5+<span class="s">&#9824;</span> 4+<span class="h">&#9829;</span> <span class="sep">•</span> <span class="s"><b>2&#9824;</b></span>=13+ bal</div>
+          <div class="r-line"><span class="c"><b>3&#9827;</b></span>=10&ndash;11, 6+<span class="c">&#9827;</span> invit</div>
         </td>
       </tr>
 
@@ -475,12 +456,9 @@
           <span class="desc">(10)12&ndash;17, 5+ kort</span>
         </td>
         <td>
-          <b>1NT</b>=ej krav &nbsp;
-          <b>2/1</b>=utg&aring;ngskrav (<span class="c"><b>2&#9827;</b></span>: 2+<span class="c">&#9827;</span>) &nbsp;
-          <span class="s"><b>2&#9824;</b></span>=4&ndash;8, 6+<span class="s">&#9824;</span> <span class="note">(&ouml;ver 1<span class="h">&#9829;</span>)</span><br>
-          <b>2NT</b>=invit med st&ouml;d, eller 13&ndash;15 4-3-3-3 &nbsp;
-          <span class="c"><b>3&#9827;</b></span>/<span class="d"><b>3&#9830;</b></span>=6+ invit &nbsp;
-          <b>3NT</b>=utg&aring;ngskrav med st&ouml;d
+          <div class="r-line"><b>1NT</b>=ej krav <span class="sep">•</span> <b>2/1</b>=utg&aring;ngskrav (<span class="c"><b>2&#9827;</b></span>: 2+<span class="c">&#9827;</span>) <span class="sep">•</span> <span class="s"><b>2&#9824;</b></span>=4&ndash;8, 6+<span class="s">&#9824;</span> <span class="note">(&ouml;ver 1<span class="h">&#9829;</span>)</span></div>
+          <div class="r-line"><b>2NT</b>=invit med st&ouml;d <span class="sep">|</span> 13&ndash;15 4-3-3-3</div>
+          <div class="r-line"><span class="c"><b>3&#9827;</b></span>/<span class="d"><b>3&#9830;</b></span>=6+ invit <span class="sep">•</span> <b>3NT</b>=utg&aring;ngskrav med st&ouml;d</div>
         </td>
       </tr>
 
@@ -490,11 +468,8 @@
           <span class="desc">(14)15&ndash;17(18) balanserad</span>
         </td>
         <td>
-          <span class="c"><b>2&#9827;</b></span>=Stayman &nbsp;
-          <span class="d"><b>2&#9830;</b></span>&rarr;<span class="h">&#9829;</span> &nbsp;
-          <span class="h"><b>2&#9829;</b></span>&rarr;<span class="s">&#9824;</span> &nbsp;
-          <span class="s"><b>2&#9824;</b></span>&rarr;<span class="c">&#9827;</span>, <span class="c"><b>3&#9827;</b></span>&rarr;<span class="d">&#9830;</span> &nbsp;
-          <b>4NT</b>=kvantitativt
+          <div class="r-line"><span class="c"><b>2&#9827;</b></span>=Stayman <span class="sep">•</span> <span class="d"><b>2&#9830;</b></span>&rarr;<span class="h">&#9829;</span> <span class="sep">•</span> <span class="h"><b>2&#9829;</b></span>&rarr;<span class="s">&#9824;</span></div>
+          <div class="r-line"><span class="s"><b>2&#9824;</b></span>&rarr;<span class="c">&#9827;</span> <span class="sep">•</span> <span class="c"><b>3&#9827;</b></span>&rarr;<span class="d">&#9830;</span> <span class="sep">•</span> <b>4NT</b>=kvantitativt</div>
         </td>
       </tr>
 
@@ -504,10 +479,8 @@
           <span class="desc">11&ndash;14/15: 6+<span class="c">&#9827;</span>, eller 5+<span class="c">&#9827;</span>+4<span class="h">&#9829;</span>/<span class="s">&#9824;</span></span>
         </td>
         <td>
-          <span class="d"><b>2&#9830;</b></span>=relay, invit+ &nbsp;
-          <span class="h"><b>2&#9829;</b></span>/<span class="s"><b>2&#9824;</b></span>=5+, ej krav &nbsp;
-          <b>2NT</b>=sp&auml;rr / 5-5 utan <span class="c">&#9827;</span> &nbsp;
-          <span class="d"><b>4&#9830;</b></span>=Kickback
+          <div class="r-line"><span class="d"><b>2&#9830;</b></span>=relay, invit+ <span class="sep">•</span> <span class="h"><b>2&#9829;</b></span>/<span class="s"><b>2&#9824;</b></span>=5+, ej krav</div>
+          <div class="r-line"><b>2NT</b>=sp&auml;rr <span class="sep">|</span> 5-5 utan <span class="c">&#9827;</span> <span class="sep">•</span> <span class="d"><b>4&#9830;</b></span>=Kickback</div>
         </td>
       </tr>
 
@@ -517,9 +490,7 @@
           <span class="desc">(5)6&ndash;10: 6+ i <span class="h">&#9829;</span>/<span class="s">&#9824;</span></span>
         </td>
         <td>
-          <span class="h"><b>2&#9829;</b></span>=pass eller korrigera &nbsp;
-          <b>2NT</b>=fr&aring;ga &nbsp;
-          <span class="h"><b>3&#9829;</b></span>/<span class="s"><b>3&#9824;</b></span>=att spela
+          <div class="r-line"><span class="h"><b>2&#9829;</b></span>=pass eller korrigera <span class="sep">•</span> <b>2NT</b>=fr&aring;ga <span class="sep">•</span> <span class="h"><b>3&#9829;</b></span>/<span class="s"><b>3&#9824;</b></span>=att spela</div>
         </td>
       </tr>
 
@@ -529,9 +500,7 @@
           <span class="desc">(5)6&ndash;10: 5<span class="h">&#9829;</span>/<span class="s">&#9824;</span> + 4+<span class="c">&#9827;</span>/<span class="d">&#9830;</span> (5+<span class="c">&#9827;</span>/<span class="d">&#9830;</span> i zon)</span>
         </td>
         <td>
-          <b>2NT</b>=fr&aring;ga &nbsp;
-          <span class="c"><b>3&#9827;</b></span>/<span class="d"><b>3&#9830;</b></span>=ej krav &nbsp;
-          h&ouml;jning=att spela
+          <div class="r-line"><b>2NT</b>=fr&aring;ga <span class="sep">•</span> <span class="c"><b>3&#9827;</b></span>/<span class="d"><b>3&#9830;</b></span>=ej krav <span class="sep">•</span> h&ouml;jning=att spela</div>
         </td>
       </tr>
 
@@ -541,11 +510,8 @@
           <span class="desc">21&ndash;22 balanserad</span>
         </td>
         <td>
-          <span class="c"><b>3&#9827;</b></span>=Stayman &nbsp;
-          <span class="d"><b>3&#9830;</b></span>&rarr;<span class="h">&#9829;</span> &nbsp;
-          <span class="h"><b>3&#9829;</b></span>&rarr;<span class="s">&#9824;</span> &nbsp;
-          <span class="s"><b>3&#9824;</b></span>=<span class="c">&#9827;</span>&amp;<span class="d">&#9830;</span> &nbsp;
-          <b>4NT</b>=kvantitativt
+          <div class="r-line"><span class="c"><b>3&#9827;</b></span>=Stayman <span class="sep">•</span> <span class="d"><b>3&#9830;</b></span>&rarr;<span class="h">&#9829;</span> <span class="sep">•</span> <span class="h"><b>3&#9829;</b></span>&rarr;<span class="s">&#9824;</span></div>
+          <div class="r-line"><span class="s"><b>3&#9824;</b></span>=<span class="c">&#9827;</span>&amp;<span class="d">&#9830;</span> <span class="sep">•</span> <b>4NT</b>=kvantitativt</div>
         </td>
       </tr>
 
@@ -554,17 +520,16 @@
           <span class="bid">3x &nbsp;/&nbsp; 4x</span><br>
           <span class="desc">Sp&auml;rrbud</span>
         </td>
-        <td>H&ouml;jning=att spela &nbsp;&nbsp; Ny f&auml;rg=krav</td>
+        <td><div class="r-line">H&ouml;jning=att spela <span class="sep">•</span> Ny f&auml;rg=krav</div></td>
       </tr>
 
       <tr>
         <td>
           <span class="bid">3NT</span><br>
-          <span class="desc">1:a/2:a: Gambling &nbsp;&middot;&nbsp; 3:e/4:e: att spela</span>
+          <span class="desc">1:a/2:a: Gambling <span class="sep">|</span> 3:e/4:e: att spela</span>
         </td>
         <td>
-          <span class="c"><b>4&#9827;</b></span>=pass eller korrigera &nbsp;
-          <span class="d"><b>4&#9830;</b></span>=fr&aring;gar efter kortf&auml;rg
+          <div class="r-line"><span class="c"><b>4&#9827;</b></span>=pass eller korrigera <span class="sep">•</span> <span class="d"><b>4&#9830;</b></span>=fr&aring;gar efter kortf&auml;rg</div>
         </td>
       </tr>
 

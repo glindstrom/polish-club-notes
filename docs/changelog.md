@@ -3,6 +3,12 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.8] - 2026-03-24
+### Changed
+- Convention card: multi-line response rows with `•` (item separator) and `|` (group separator) for better visual scanning
+- 1♣ row: replaced green background with left accent bar (3pt solid green border)
+- 3NT opening description: switched to `|` separator style
+
 ## [1.3.6] - 2026-03-24
 ### Added
 - Bilingual convention card (`convention-card.html`) with 🇬🇧/🇸🇪 language toggle; preference saved in localStorage
