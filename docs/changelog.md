@@ -4,6 +4,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
+## [1.3.6] - 2026-03-24
+### Changed
+- `convention-card.html`: 1♣ desc adds "(or 4♦441)"; 1♦ desc splits into two strength ranges (5+♦/4♦441: (10)12–17 and 4♦5♣: (10)12–15)
+- Removed exceptions note under Odd/Even / Italiensk sakning
+
 ## [1.3.5] - 2026-03-24
 ### Changed
 - `convention-card.html`: Added defenses vs strong 1♣ (X=♣, 1NT=♣+♦, 2X=Multi-Landy) and vs NT (Multi-Landy direct; reopen: 2♣=♥+♠, 2♦/2♥/♠=NAT)
