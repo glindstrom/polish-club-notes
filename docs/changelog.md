@@ -3,6 +3,12 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.4] - 2026-03-28
+### Changed
+- Convention card: split opening column into four columns — Bid / Cards (Ant. kort) / Description (Beskrivning) / Responses (Svar)
+- Renamed "Key Responses" / "Huvudsvar" header to "Responses" / "Svar"
+- Cards column values: 1♣=0, 1♦=4+, 1♥/1♠=5+, 1NT=blank, 2♣=5+, 2♦=0, 2♥/2♠=5+, 2NT=blank, 3x/4x=6+/7+, 3NT=blank
+
 ## [1.3.8] - 2026-03-24
 ### Changed
 - Convention card: multi-line response rows with `•` (item separator) and `|` (group separator) for better visual scanning
