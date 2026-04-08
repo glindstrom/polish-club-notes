@@ -19,10 +19,10 @@
     | 2NT      | 11-12; no 4-card majors, invitational to 3NT          |
     | 3♣       | 10-11; 6+♣, invitational                              |
     | 3♦       | 5-9 (10-12 HLDF); 4+♦, unbalanced without majors, mixed raise |
-    | 3♥       | 13-16; 4+♦, splinter, shortness in ♥                  |
-    | 3♠       | 13-16; 4+♦, splinter, shortness in ♠                  |
+    | 3♥       | 13-15; 4+♦, splinter, shortness in ♥                  |
+    | 3♠       | 13-15; 4+♦, splinter, shortness in ♠                  |
     | 3NT      | 13-16; no 4-card majors                               |
-    | 4♣       | 13-16; 4+♦, splinter, shortness in ♣                  |
+    | 4♣       | 13-15; 4+♦, splinter, shortness in ♣                  |
     | 4♦       | 0-6; 5+♦, very unbalanced without major suits         |
     | 4♥       | Long ♥, weak in high cards, preemptive                |
     | 4♠       | Long ♠, weak in high cards, preemptive                |
@@ -399,7 +399,7 @@
 ??? note "Responses 3♥/3♠"
     ### Responses 3♥/3♠
 
-    - **Meaning**: 13-16; 4+ diamonds, splinter, shortness in the bid suit, game forcing.
+    - **Meaning**: 13-15; 4+ diamonds, splinter, shortness in the bid suit, game forcing.
 
 ??? note "Response 3NT"
     ### Response 3NT
@@ -409,7 +409,7 @@
 ??? note "Response 4♣"
     ### Response 4♣
 
-    - **Meaning**: 13-16; 4+ diamonds, splinter, shortness in clubs, game forcing.
+    - **Meaning**: 13-15; 4+ diamonds, splinter, shortness in clubs, game forcing.
 
 ??? note "Responses 4♥/4♠"
     ### Responses 4♥/4♠

@@ -3,6 +3,12 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.5] - 2026-04-08
+### Changed
+- `openings/one-diamond.md`: splinter responses (3♥, 3♠, 4♣) corrected to 13-15 HCP (was 13-16)
+- `openings/one-heart.md`: splinter responses (3♠, 4♣) corrected to 12-14 HCP (was 12-16); HLDF limits unchanged
+- `openings/one-spade.md`: splinter response (4♥) corrected to 12-14 HCP (was 12-16); HLDF limits unchanged
+
 ## [1.4.4] - 2026-03-28
 ### Changed
 - Convention card: split opening column into four columns — Bid / Cards (Ant. kort) / Description (Beskrivning) / Responses (Svar)

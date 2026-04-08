@@ -18,9 +18,9 @@
     | 3♣       | 10-11; invitational, 6+♣                                             |
     | 3♦       | 10-11; invitational, 6+♦                                             |
     | 3♥       | Preemptive; 4+♥ support                                              |
-    | 3♠       | 12-16 (~16-18 HLDF); 4+♥, splinter with shortness                    |
+    | 3♠       | 12-14 (~16-18 HLDF); 4+♥, splinter with shortness                    |
     | 3NT      | 9-14 (13-15 HLDF); good raise to 4♥, 4+♥ support                     |
-    | 4♣       | 12-16 (~16-18 HLDF); 4+♥, splinter with shortness                    |
+    | 4♣       | 12-14 (~16-18 HLDF); 4+♥, splinter with shortness                    |
     | 4♥       | 0-8; blocking raise                                                  |
     | 4♠       | Blocking, long ♠, weak honors                                        |
 
@@ -332,7 +332,7 @@
 ??? note "Response 3♠"
     ### Response 3♠
 
-    - **Meaning**: 12-16; 4+♥, splinter with shortness in spades.
+    - **Meaning**: 12-14; 4+♥, splinter with shortness in spades.
 
 ??? note "Response 3NT"
     ### Response 3NT
@@ -342,7 +342,7 @@
 ??? note "Response 4♣"
     ### Response 4♣
 
-    - **Meaning**: 12-16; 4+♥, splinter with shortness in clubs.
+    - **Meaning**: 12-14; 4+♥, splinter with shortness in clubs.
 
 ??? note "Response 4♥"
     ### Response 4♥

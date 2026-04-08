@@ -10,7 +10,7 @@
     | -------- | ------------------------------------- |
     | 2♥       | 12+; 5+♥, game forcing                |
     | 3♥       | 10-11; 6♥                             |
-    | 4♥       | 12-16 (~16-18 HLDF); splinter, ♥ shortness, 4+♠ fit |
+    | 4♥       | 12-14 (~16-18 HLDF); splinter, ♥ shortness, 4+♠ fit |
 
     #### Note
 
