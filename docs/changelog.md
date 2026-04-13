@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.6] - 2026-04-13
+### Changed
+- `competitive-bidding/take-out-doubles.md`: after (1♦)–X–P–1♠, fix misplaced distribution note — moved from 2♦ to 2♠ row where it belongs; 2♦ now correctly reads "Artificial, forcing, strongest action"
+
 ## [1.4.5] - 2026-04-08
 ### Changed
 - `openings/one-diamond.md`: splinter responses (3♥, 3♠, 4♣) corrected to 13-15 HCP (was 13-16)

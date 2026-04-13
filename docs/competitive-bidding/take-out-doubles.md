@@ -56,9 +56,9 @@
     #### Doubler’s Continuations after (1♦) – Double – (Pass) – 1♠
     | Doubler’s Bid | Meaning                                                                                       |
     | ------------- | --------------------------------------------------------------------------------------------- |
-    | 2♠            | 15–18 points, 4 spades                                                                        |
+    | 2♠            | 15–18 points, 4 spades (may be weaker (13+) with very good distribution)                                                                        |
     | 3♠            | 19–21 points, 4 spades                                                                        |
-    | 2♦            | Artificial, forcing, strongest action (13+ points, may be weaker with very good distribution) |
+    | 2♦            | Artificial, forcing, strongest action |
 
     #### After 1♦ – Double – Pass – 1♠ – 2♦ (opponent’s suit, forcing)
     | Responder’s Bid | Meaning                               |
