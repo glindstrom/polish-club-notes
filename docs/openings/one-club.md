@@ -274,7 +274,8 @@
         | 2♥    | 12-14; four hearts                                                        |
         | 2♠    | 18+; 6+ good spades                                                       |
         | 2NT   | 18+; without three hearts and four spades                                 |
-        | 3♣/3♦ | 18+; 6+ cards in the bid suit                                             |
+        | 3♣    | 18+; 5+ diamonds, 4+ clubs; artificial; denies 3-card heart fit           |
+        | 3♦    | 18+; 6+ diamonds                                                          |
         | 3♥    | 12-17; 5+ clubs, 4 hearts; unbalanced hand¹ (17-19 HLDF)                  |
         | 3♠/4♣/4♦ | Splinters: 15-17 with 4-card heart support and shown shortness (20+ HLDF) |
         | 3NT   | 7 solid clubs, stopper outside hearts                                     |
@@ -285,8 +286,17 @@
         #### 2♠ Rebid (18+; 6+ Good Spades)
         - Responder can raise with a second honor in spades.
 
-        #### 3♣ Rebid (18+; 6+ Clubs)
-        - Denies three-card support in responder’s suit.
+        #### 3♣ Rebid (18+; 5+ Diamonds, 4+ Clubs)
+        - Artificial. Denies three-card heart support. (With 5 clubs and 4 diamonds, opener rebids 2♣ instead, showing 15+.)
+
+        ??? note "Continuations after 1♣ – 1♥ – 3♣"
+            #### Continuations after 1♣ – 1♥ – 3♣
+
+            | Responder’s Bid | Meaning                  |
+            | --------------- | ------------------------ |
+            | 3♦              | Agrees diamonds; forcing |
+            | 3♥              | 6+ hearts                |
+            | 3♠              | Fourth suit              |
 
         #### 3♦ Rebid (18+; 6+ Diamonds)
         - With five diamonds: Bid 2♦ with three-card support, 1♠ with four spades (after 1♥), or 2NT otherwise.

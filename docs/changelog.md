@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.7] - 2026-05-01
+### Changed
+- `openings/one-club.md`: correct 3♣ rebid after 1♣–1♥ — it is artificial (18+; 5+ diamonds, 4+ clubs; denies 3-card heart fit), not natural 6+ clubs; split 3♣/3♦ row; add continuations after 1♣–1♥–3♣ (3♦ agrees diamonds, 3♥ = 6+ hearts, 3♠ = fourth suit)
+
 ## [1.4.6] - 2026-04-13
 ### Changed
 - `competitive-bidding/take-out-doubles.md`: after (1♦)–X–P–1♠, fix misplaced distribution note — moved from 2♦ to 2♠ row where it belongs; 2♦ now correctly reads "Artificial, forcing, strongest action"
