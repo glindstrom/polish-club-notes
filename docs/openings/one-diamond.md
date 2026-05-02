@@ -381,10 +381,25 @@
     ??? note "Opener Rebids"
         #### Opener Rebids
 
-        | Opener’s Rebid | Description          |
-        | -------------- | -------------------- |
-        | 3♦             | 12-17; non-forcing   |
-        | 3♣             | 12-17; forcing to 3♦ |
+        | Opener’s Rebid | Description                                                              |
+        | -------------- | ------------------------------------------------------------------------ |
+        | 3♣             | 12-17; non-forcing; suggests suit contract; may be three-suited or 4+♣   |
+        | 3♦             | 12-17; non-forcing; 6+♦ or strong 5-card diamond suit                    |
+        | 3NT            | 15-17; balanced                                                          |
+        | 3♥             | 15-17; singleton ♥ (responder’s 4♣ shows 5+♣)                           |
+        | 3♠             | 15-17; singleton ♠ (responder’s 4♣ shows 5+♣)                           |
+        | 4♣             | 15-17; 5-5 in diamonds and clubs                                         |
+        | 4♦             | 15-17; 6+♦, club shortness                                               |
+
+    ??? note "Responder Continuations after 1♦ – 2NT – 3♣"
+        #### Responder Continuations after 1♦ – 2NT – 3♣
+
+        3♣ is non-forcing and normally passed. Responder may bid on with extra values.
+
+        | Responder’s Bid | Description                        |
+        | --------------- | ---------------------------------- |
+        | Pass            | No extra values, accepts clubs      |
+        | 3♥/3♠/3NT       | Extra values; natural               |
 
 ??? note "Response 3♣"
     ### Response 3♣

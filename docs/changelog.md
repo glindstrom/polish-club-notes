@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.8] - 2026-05-02
+### Changed
+- `openings/one-diamond.md`: expand 1♦–2NT continuations — fix 3♣ (non-forcing, not forcing to 3♦); add 3NT (balanced, 15-17), 3♥/3♠ (singleton with 5+♣ ask), 4♣ (5-5 minors), 4♦ (6+♦, club shortness); add responder continuations after 3♣
+
 ## [1.4.7] - 2026-05-01
 ### Changed
 - `openings/one-club.md`: correct 3♣ rebid after 1♣–1♥ — it is artificial (18+; 5+ diamonds, 4+ clubs; denies 3-card heart fit), not natural 6+ clubs; split 3♣/3♦ row; add continuations after 1♣–1♥–3♣ (3♦ agrees diamonds, 3♥ = 6+ hearts, 3♠ = fourth suit)
