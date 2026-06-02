@@ -1,6 +1,6 @@
 # Balancing
 
-Summary of balancing actions:
+Summary of balancing actions after an opening bid followed by two passes, for example (1H)-Pass-Pass:
 
 1. A takeout double may be made with as few as 9 HCP, but only with shortness in the opponent’s suit. Partner should consider this possibility when responding.
 2. A balancing 1NT shows 11–15 HCP and a balanced hand. Stayman and transfers apply.
