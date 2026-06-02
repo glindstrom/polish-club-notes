@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.10] - 2026-06-02
+### Added
+- `competitive-bidding/balancing.md`: add balancing agreements and shape-based guidelines after (1H)-Pass-(2H)-Pass-Pass-?
+
 ## [1.4.9] - 2026-06-02
 ### Changed
 - `openings/one-heart-one-spade-interference.md`: after 1♥/1♠ - (X), changed the transfer raise below 2M to show major fit with either 0-6 or game force; standard 2M raise is now 7-10 HLDF
