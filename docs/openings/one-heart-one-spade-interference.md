@@ -9,15 +9,15 @@
     | 1♠       | 5-10; 5+♠, non-forcing             |
     | 1NT      | Transfer to ♣, forcing             |
     | 2♣       | Transfer to ♦, forcing             |
-    | 2♦       | Transfer to ♥, weak raise, forcing |
-    | 2♥       | 7-9(10) HLDF; standard raise with ♥ fit    |
+    | 2♦       | Transfer to ♥; ♥ fit, 0-6 or game force |
+    | 2♥       | 7-10 HLDF; standard raise with ♥ fit    |
     | 2NT | invitational with fit |
     | 3♣       | 8-11; 5+♣, 3-card ♥ fit            |
     | 3♦       | 8-11; 5+♦, 3-card ♥ fit            |
 
     #### Note
 
-    - After opponent’s double, 1NT, 2♣, and 2♦ are transfers showing 5+♣/♦/♥, forcing, usable with weak or strong hands. 3♣/3♦ show own suit and 3-card ♥ fit, aiding game or part-score decisions. Other bids (e.g., 2♠, 2NT) are as without interference.
+    - After opponent’s double, 1NT and 2♣ are transfers showing 5+♣/♦, forcing, usable with weak or strong hands. 2♦ is a transfer to ♥ showing ♥ fit, either 0-6 or game force. 3♣/3♦ show own suit and 3-card ♥ fit, aiding game or part-score decisions. Other bids (e.g., 2♠, 2NT) are as without interference.
 
 ??? note "Responses after 1♠ - (X)"
     ### Responses after 1♠ - (X)
@@ -28,15 +28,15 @@
     | 1NT      | Transfer to ♣, forcing          |
     | 2♣       | Transfer to ♦, forcing          |
     | 2♦       | Transfer to ♥, forcing          |
-    | 2♥       | 3-6; weak raise with ♠ fit      |
-    | 2♠       | 7-9(10) HLDF; standard raise with ♠ fit |
+    | 2♥       | Transfer to ♠; ♠ fit, 0-6 or game force |
+    | 2♠       | 7-10 HLDF; standard raise with ♠ fit |
     | 2NT      | invitational with fit           |
     | 3♣       | 8-11; 5+♣, 3-card ♠ fit         |
     | 3♦       | 8-11; 5+♦, 3-card ♠ fit         |
 
     #### Note
 
-    - After opponent’s double, 1NT, 2♣, and 2♦ are transfers showing 5+♣/♦/♥, forcing, usable with weak or strong hands. 3♣/3♦ show own suit and 3-card ♠ fit. Other bids are as without double.
+    - After opponent’s double, 1NT, 2♣, and 2♦ are transfers showing 5+♣/♦/♥, forcing, usable with weak or strong hands. 2♥ is a transfer to ♠ showing ♠ fit, either 0-6 or game force. 3♣/3♦ show own suit and 3-card ♠ fit. Other bids are as without double.
 
 ??? note "Meaning of Redouble After Interference"
     ### Meaning of Redouble After Interference

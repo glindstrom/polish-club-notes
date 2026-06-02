@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.9] - 2026-06-02
+### Changed
+- `openings/one-heart-one-spade-interference.md`: after 1♥/1♠ - (X), changed the transfer raise below 2M to show major fit with either 0-6 or game force; standard 2M raise is now 7-10 HLDF
+
 ## [1.4.8] - 2026-05-02
 ### Changed
 - `openings/one-diamond.md`: expand 1♦–2NT continuations — fix 3♣ (non-forcing, not forcing to 3♦); add 3NT (balanced, 15-17), 3♥/3♠ (singleton with 5+♣ ask), 4♣ (5-5 minors), 4♦ (6+♦, club shortness); add responder continuations after 3♣
