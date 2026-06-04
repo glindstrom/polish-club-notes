@@ -2,7 +2,15 @@
 
 ### Description
 
-Hand evaluation in the Polish Club system uses Honor, Length, Distribution, Fit, and Misfit points, with adjustments for opponents’ suit and balanced hands (based on Patrik Darricades' Optimal Hand Evaluation).
+Hand evaluation in the Polish Club system uses Honor, Length, Distribution, Fit, and Misfit points, with adjustments for opponents’ suit and balanced hands (based on Patrik Darricades’ Optimal Hand Evaluation).
+
+### Support Points
+Used when raising partner’s major suit.
+
+- **Responder**: HCP + void=3 / singleton=2 / doubleton=1 in side suits + 1 per trump beyond 3
+- **Opener**: HCP + void=3 / singleton=2 / doubleton=1 in side suits + 1 per trump beyond 5
+
+*Trump bonus: +1 for each trump in the combined fit beyond 8 (responder’s 4th+, opener’s 6th+).*
 
 ### Honor Points
 - **A**: 4.5 pts  

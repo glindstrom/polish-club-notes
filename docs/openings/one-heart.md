@@ -12,14 +12,14 @@
     | 1NT      | 7-11; denies 3♥                                                      |
     | 2♣       | 12+; 2+♣, game forcing                                               |
     | 2♦       | 12+; 5+♦                                                             |
-    | 2♥       | 7-9(10) HLDF; 3+♥ support                                            |
+    | 2♥       | 6–10 sp; 3+♥ support                                                  |
     | 2♠       | 4-8; 6♠, to play                                                     |
     | 2NT      | 10-12 HLDF; invitational with fit, or “bad forcing”: 13-15; 4-3-3-3 shape |
     | 3♣       | 10-11; invitational, 6+♣                                             |
     | 3♦       | 10-11; invitational, 6+♦                                             |
-    | 3♥       | Preemptive; 4+♥ support                                              |
+    | 3♥       | 11–12 sp; 3+♥, invitational                                          |
     | 3♠       | 12-14 (~16-18 HLDF); 4+♥, splinter with shortness                    |
-    | 3NT      | 9-14 (13-15 HLDF); good raise to 4♥, 4+♥ support                     |
+    | 3NT      | 13–15 sp; 4+♥ support, no shortness                                   |
     | 4♣       | 12-14 (~16-18 HLDF); 4+♥, splinter with shortness                    |
     | 4♥       | 0-8; blocking raise                                                  |
     | 4♠       | Blocking, long ♠, weak honors                                        |
@@ -269,10 +269,7 @@
 ??? note "Response 2♥"
     ### Response 2♥
 
-    - **Meaning**: 7-9(10) HLDF; 3+♥ support.
-
-    #### Notes
-    - Opener invites game via side suit for clarification or 3♥ directly.
+    - **Meaning**: 6–10 sp; 3+♥ support.
 
     ??? note "Opener Rebids"
         #### Opener Rebids
@@ -283,7 +280,10 @@
         | 2NT            | 15-17; balanced                     |
         | 3♣             | Invites game, 4+♣ for clarification |
         | 3♦             | Invites game, 4+♦ for clarification |
-        | 3♥             | Direct game invitation              |
+        | 3♥             | NV: 18–19 sp; V: 17 sp (invitation) |
+        | 4♥             | NV: ≥20 sp; V: ≥18 sp (game)        |
+
+        *Pass: NV ≤17 sp, V ≤16 sp. Invitation threshold is narrower when vulnerable (one step only).*
 
 ??? note "Response 2♠"
     ### Response 2♠
@@ -327,7 +327,15 @@
 ??? note "Response 3♥"
     ### Response 3♥
 
-    - **Meaning**: Preemptive; 4+♥ support.
+    - **Meaning**: 11–12 sp; 3+♥, invitational.
+
+    ??? note "Opener Rebids"
+        #### Opener Rebids
+
+        | Opener's Rebid | Description     |
+        | -------------- | --------------- |
+        | 4♥             | ≥14 sp (NV & V) |
+        | Pass           | ≤13 sp (NV & V) |
 
 ??? note "Response 3♠"
     ### Response 3♠
@@ -337,7 +345,7 @@
 ??? note "Response 3NT"
     ### Response 3NT
 
-    - **Meaning**: 9-14; good raise to 4♥, 4♥ support.
+    - **Meaning**: 13–15 sp; 4+♥ support, no shortness.
 
 ??? note "Response 4♣"
     ### Response 4♣
