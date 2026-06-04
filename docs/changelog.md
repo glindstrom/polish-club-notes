@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - `hand-evaluation.md`: add Support Points section (responder: HCP + distribution in side suits + extra trumps beyond 3; opener: HCP + distribution in side suits + extra trumps beyond 5)
 ### Changed
-- `openings/one-heart.md`: update major suit raise responses to support points — 2♥ (6–10 sp), 3♥ (11–12 sp, invitational), 3NT (13–15 sp, no shortness); add NV/V opener rebid thresholds after 2♥ and 3♥
+- `openings/one-heart.md`: update major suit raise responses to support points — 2♥ (6–10 sp), 3NT (13–15 sp, no shortness); add NV/V opener rebid thresholds after 2♥
 
 ## [1.4.10] - 2026-06-02
 ### Added

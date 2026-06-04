@@ -17,7 +17,7 @@
     | 2NT      | 10-12 HLDF; invitational with fit, or “bad forcing”: 13-15; 4-3-3-3 shape |
     | 3♣       | 10-11; invitational, 6+♣                                             |
     | 3♦       | 10-11; invitational, 6+♦                                             |
-    | 3♥       | 11–12 sp; 3+♥, invitational                                          |
+    | 3♥       | Preemptive; 4+♥ support                                              |
     | 3♠       | 12-14 (~16-18 HLDF); 4+♥, splinter with shortness                    |
     | 3NT      | 13–15 sp; 4+♥ support, no shortness                                   |
     | 4♣       | 12-14 (~16-18 HLDF); 4+♥, splinter with shortness                    |
@@ -327,15 +327,7 @@
 ??? note "Response 3♥"
     ### Response 3♥
 
-    - **Meaning**: 11–12 sp; 3+♥, invitational.
-
-    ??? note "Opener Rebids"
-        #### Opener Rebids
-
-        | Opener's Rebid | Description     |
-        | -------------- | --------------- |
-        | 4♥             | ≥14 sp (NV & V) |
-        | Pass           | ≤13 sp (NV & V) |
+    - **Meaning**: Preemptive; 4+♥ support.
 
 ??? note "Response 3♠"
     ### Response 3♠
