@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.13] - 2026-06-04
+### Added
+- `openings/two-diamond.md`: add General Principles section with simulation-based guidance for raising to 4M — IMP (≥16 sp: raise directly), BAM (exactly 16 sp: invite; opener accepts with ≥7 HCP or singleton), 3NT special case (17+ HCP, all stoppers, ≤1 card in opener's major)
+
 ## [1.4.12] - 2026-06-04
 ### Added
 - `openings/two-major.md`: add Response 3♦ section with NV/V invitation thresholds — NV (5M+4+m): invite with 16–17 SP, opener accepts SP ≥ 9; V (5M+5+m): bid game directly at 16+ SP

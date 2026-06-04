@@ -21,6 +21,14 @@
     | 4♦    | Bid your suit                         |
     | 4♥/4♠ | To play in own suit                   |
 
+??? note "General Principles"
+    > *Derived from simulations of a weak 2♠ opening; the same principles apply to the multi 2♦.*
+
+    - **IMP**: No invite needed — raise directly to 4M with ≥16 support points, otherwise pass.
+    - **BAM**: Invite holding exactly 16 support points. Opener accepts with ≥7 HCP or a singleton.
+    - **Special case – 3NT**: With 17+ HCP, all stoppers, and ≤1 card in opener's major, prefer 3NT over 4M regardless of scoring.
+    - **Key insight**: A singleton in opener's hand is the strongest predictor of 4M making. This is what makes the BAM invite worthwhile.
+
 ??? note "Response 2♥"
     ### Response 2♥
 
