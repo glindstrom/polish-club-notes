@@ -53,6 +53,21 @@
     | 4♣              | Strong club agreement  |
     | 4♦              | Strong heart agreement |
 
+??? note "Response 3♦"
+    ### Response 3♦
+
+    - **Meaning**: Game invitation with fit in opener's major suit.
+
+    #### Thresholds by Vulnerability
+
+    | Vulnerability | Opener's Shape   | Responder's Action             | Opener Accepts |
+    | ------------- | ---------------- | ------------------------------ | -------------- |
+    | NV            | 5M + 4+ minor    | Invite (3♦) with 16–17 SP      | SP ≥ 9 (≈ HCP ≥ 7) |
+    | V             | 5M + 5+ minor    | Bid 4M directly with 16+ SP    | —              |
+
+    #### Notes
+    - Vulnerable: opener's 5M + 5+ minor shape makes SP = HCP + 3 a constant, so the invitation adds negligible value and game is bid directly.
+
 ??? note "Further Bidding Tactics"
     ### Further Bidding Tactics
 
