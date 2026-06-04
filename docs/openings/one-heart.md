@@ -280,10 +280,10 @@
         | 2NT            | 15-17; balanced                     |
         | 3♣             | Invites game, 4+♣ for clarification |
         | 3♦             | Invites game, 4+♦ for clarification |
-        | 3♥             | NV: 18–19 sp; V: 17 sp (invitation) |
-        | 4♥             | NV: ≥20 sp; V: ≥18 sp (game)        |
+        | 3♥             | NV: 17–19 sp; V: 17–18 sp (invitation) |
+        | 4♥             | NV: ≥20 sp; V: ≥19 sp (game)           |
 
-        *Pass: NV ≤17 sp, V ≤16 sp. Invitation threshold is narrower when vulnerable (one step only).*
+        *Pass: ≤16 sp (both NV/V). Invitation zone: NV 17–19 sp, V 17–18 sp. Game threshold higher NV (≥20 sp) than V (≥19 sp) — larger V game bonus justifies bidding game with slightly less.*
 
 ??? note "Response 2♠"
     ### Response 2♠

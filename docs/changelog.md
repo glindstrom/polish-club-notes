@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.14] - 2026-06-05
+### Changed
+- `openings/one-heart.md`: update opener rebid thresholds after 1♥–2♥ — NV invitation zone widens to 17–19 sp (was 18–19), V game threshold raised to ≥19 sp (was ≥18); pass zone is now ≤16 sp for both NV/V
+
 ## [1.4.13] - 2026-06-04
 ### Added
 - `openings/two-diamond.md`: add General Principles section with simulation-based guidance for raising to 4M — IMP (≥16 sp: raise directly), BAM (exactly 16 sp: invite; opener accepts with ≥7 HCP or singleton), 3NT special case (17+ HCP, all stoppers, ≤1 card in opener's major)
