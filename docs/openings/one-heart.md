@@ -14,7 +14,7 @@
     | 2♦       | 12+; 5+♦                                                             |
     | 2♥       | 6–10 sp; 3+♥ support                                                  |
     | 2♠       | 4-8; 6♠, to play                                                     |
-    | 2NT      | 10-12 HLDF; invitational with fit, or “bad forcing”: 13-15; 4-3-3-3 shape |
+    | 2NT      | 11-12 sp; invitational raise, 3+♥                                         |
     | 3♣       | 10-11; invitational, 6+♣                                             |
     | 3♦       | 10-11; invitational, 6+♦                                             |
     | 3♥       | Preemptive; 4+♥ support                                              |
@@ -88,7 +88,7 @@
 
         | Responder’s Bid | Description |
         | ---------------- | ------------ |
-        | 2♦ | 12+; “fourth suit”, artificial, forcing |
+        | 2♦ | 12+; "fourth suit", artificial, forcing |
         | 2♥ | 6–10; 2 or 3 hearts |
         | 2♠ | 9–11; natural, non-forcing but invitational¹ |
         | 2NT / 3♣ / 3♦ | 9–12; natural, invitational |
@@ -274,14 +274,30 @@
     ??? note "Opener Rebids"
         #### Opener Rebids
 
-        | Opener’s Rebid | Description                         |
-        | -------------- | ----------------------------------- |
-        | 2♠             | Invites game, 4+♠ for clarification |
-        | 2NT            | 15-17; balanced                     |
-        | 3♣             | Invites game, 4+♣ for clarification |
-        | 3♦             | Invites game, 4+♦ for clarification |
-        | 3♥             | 16–17 sp; invitation |
-        | 4♥             | 18+ sp (game)           |
+        | Opener’s Rebid | Description                               |
+        | -------------- | ----------------------------------------- |
+        | Pass           | 5332; HCP ≤ 15                            |
+        | 2NT            | 5332; HCP 16–17, invitational             |
+        | 3♥             | Not 5332; sp 17 (judgment at sp 16 vul.)  |
+        | 4♥             | sp 18+                                    |
+
+        ??? note "After 2NT (Invitational)"
+            #### After 2NT (Invitational)
+
+            | Responder’s Bid | Conditions        |
+            | --------------- | ----------------- |
+            | Pass            | 4333; sp ≤ 7      |
+            | 3♥              | Not 4333; sp 6–7  |
+            | 3NT             | 4333; sp 8–10     |
+            | 4♥              | Not 4333; sp 8–10 |
+
+        ??? note "After 3♥ (Invitational)"
+            #### After 3♥ (Invitational)
+
+            | Responder’s Bid | Conditions |
+            | --------------- | ---------- |
+            | Pass            | sp 6–7     |
+            | 4♥              | sp 8–10    |
 
 
 ??? note "Response 2♠"
@@ -292,26 +308,24 @@
 ??? note "Response 2NT"
     ### Response 2NT
 
-    - **Meaning**: 10-12; invitational with fit, or “bad forcing”: 13-15; 4-3-3-3 shape.
+    - **Meaning**: 11-12 sp; invitational raise, 3+♥.
+
     ??? note "Opener Rebids"
         #### Opener Rebids
 
-        | Opener’s Rebid | Description              |
-        | -------------- | ------------------------ |
-        | 3♣             | 4+♣, invites game        |
-        | 3♦             | 4+♦, invites game        |
-        | 3♥             | 12-14; minimum           |
-        | 3♠             | Splinter, shortness in ♠ |
-        | 3NT            | 15-17; 5-3-3-2 pattern   |
-        | 4♣             | Splinter, shortness in ♣ |
-        | 4♦             | Splinter, shortness in ♦ |
-        | 4♥             | To play                  |
+        | Opener’s Rebid | Description      |
+        | -------------- | ---------------- |
+        | 3♥             | sp ≤ 13          |
+        | 3NT            | 5332; HCP 13+    |
+        | 4♥             | Not 5332; sp 14+ |
 
-        #### Notes
-        - 3♣ and 3♦ are natural, inviting game, typically showing 4+ cards in the bid suit. Responder can accept or clarify with a 4-3-3-3 shape.
-        - 3♥ shows a minimum hand (12-14 HCP), non-forcing, allowing responder to pass with an invitational hand.
-        - 3♠, 4♣, and 4♦ are splinters, showing shortness in the bid suit and 5+♥, encouraging slam exploration if responder has a suitable hand.
-        - 3NT shows a maximum balanced hand (15-17 HCP, 5-3-3-2 shape), suitable for responder’s invitational or forcing hand.
+        ??? note "After 3NT"
+            #### After 3NT
+
+            | Responder’s Bid | Conditions |
+            | --------------- | ---------- |
+            | Pass            | 4333       |
+            | 4♥              | Not 4333   |
 
 ??? note "Response 3♣"
     ### Response 3♣

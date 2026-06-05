@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.15] - 2026-06-05
+### Changed
+- `openings/one-heart.md`: restructure raise continuations after 1♥–2♥ and 1♥–2NT — opener rebids after 2♥ simplified to pass/2NT/3♥/4♥ based on shape (5332 vs. unbalanced) and support points, with responder continuation tables after invitational 2NT and 3♥; 2NT response updated to 11–12 sp pure limit raise (dropping "bad forcing" 4-3-3-3 variant) with new opener rebid table 3♥/3NT/4♥
+
 ## [1.4.14] - 2026-06-05
 ### Changed
 - `openings/one-heart.md`: update opener rebid thresholds after 1♥–2♥ — NV invitation zone widens to 17–19 sp (was 18–19), V game threshold raised to ≥19 sp (was ≥18); pass zone is now ≤16 sp for both NV/V
