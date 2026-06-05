@@ -14,7 +14,7 @@
     | 2♦       | 12+; 5+♦                                                             |
     | 2♥       | 6–10 sp; 3+♥ support                                                  |
     | 2♠       | 4-8; 6♠, to play                                                     |
-    | 2NT      | 11-12 sp; invitational raise, 3+♥                                         |
+    | 2NT      | 11-12 sp; invitational raise, 3+♥; or "bad forcing": 13-15 sp, 4-3-3-3  |
     | 3♣       | 10-11; invitational, 6+♣                                             |
     | 3♦       | 10-11; invitational, 6+♦                                             |
     | 3♥       | Preemptive; 4+♥ support                                              |
@@ -308,7 +308,7 @@
 ??? note "Response 2NT"
     ### Response 2NT
 
-    - **Meaning**: 11-12 sp; invitational raise, 3+♥.
+    - **Meaning**: 11-12 sp; invitational raise, 3+♥; or "bad forcing": 13-15 sp, 4-3-3-3 shape.
 
     ??? note "Opener Rebids"
         #### Opener Rebids
