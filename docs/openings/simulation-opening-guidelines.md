@@ -35,10 +35,11 @@ These rules are derived from IMP simulations and indicate when opening is profit
 | ----- | ----------- | -------- |
 | 5M–4M (both majors) | — | Always open |
 | 5M–4m (major + minor) | QT ≥ 2.0 | Open |
-| 5m–4M (minor + major) | — | Pending (11 HCP test in progress) |
+| 5m–4M (minor + major), 10 HCP | — | Pass |
+| 5m–4M (minor + major), 11 HCP | QT ≥ 2.0 | Open |
 | 5m–4m (both minors) | — | Pass |
 
-??? note "Detail: 5m–4M at 10–11 HCP"
+??? note "Detail: 5431 5m–4M at 10–11 HCP"
     The singleton in a 5431 hand hits partner's longest suit in approximately 45% of deals.
 
     **10 HCP → Pass**
@@ -58,7 +59,7 @@ These rules are derived from IMP simulations and indicate when opening is profit
 | 5m–4m | Pass |
 | 5M–4M | Pass (negative) |
 
-??? note "Detail: 5m–4M at 10–11 HCP"
+??? note "Detail: 5422 5m–4M at 10–11 HCP"
     Profitable at both 10 and 11 HCP, with no QT requirement. The effect is stronger at 11 HCP.
 
 #### 6-Card Hands
@@ -73,11 +74,13 @@ These rules are derived from IMP simulations and indicate when opening is profit
 
 ## Position 3
 
-Same rules as positions 1 & 2 with all HCP requirements reduced by 1.
+Same rules as positions 1 & 2 with all HCP requirements reduced by 1, with one exception: for 5332 with major, only QT ≥ 2.0 is required — the HLD ≥ 12 condition does not apply in position 3.
 
 ---
 
 ## Position 4 (Fourth Seat)
+
+These rules apply to balanced hands.
 
 ### 10 HCP → Always pass
 
@@ -88,11 +91,9 @@ Open only with the following hand types (IMP NV):
 | Hand type | IMP NV | Decision |
 | --------- | ------- | -------- |
 | 5-card ♥ + 3+ spades | +1.42 | Open |
-| 5-card ♠ + 2 hearts | +0.69 | Open |
-| 5-card ♠ + 4 hearts | +1.74 | Open |
+| 5-card ♠ | — | Open |
 | 4–4 in both majors | +0.78 | Open |
 | 5-card ♥ + 2 spades | +0.32 | Borderline — pass recommended |
-| 5-card ♠ + 3 hearts | +0.01 | Borderline — pass recommended |
 | All other | negative | Pass |
 
 **Rule of thumb:** Open with 11 HCP if you hold a 5-card ♥ with 3+ spades, a 5-card ♠, or 4–4 in the majors.
