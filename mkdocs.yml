@@ -34,6 +34,7 @@ nav:
   - Home: index.md
   - Openings:
       - Opening Bids: openings/overview.md
+      - Opening Guidelines (Simulation): openings/simulation-opening-guidelines.md
       - 1♣ Opening: openings/one-club.md
       - 1♣ Interference: openings/one-club-interference.md
       - 1♦ Opening: openings/one-diamond.md

@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.17] - 2026-06-24
+### Added
+- `openings/simulation-opening-guidelines.md`: new page with simulation-based opening guidelines for positions 1–4 — covers balanced and unbalanced hands with QT thresholds, detailed t-values for 5431/5422 shapes, and selective fourth-seat rules at 11 HCP
+
 ## [1.4.16] - 2026-06-05
 ### Fixed
 - `openings/one-heart.md`: restore "bad forcing" (13-15 HCP, 4-3-3-3) to 2NT response definition — erroneously dropped in v1.4.15
