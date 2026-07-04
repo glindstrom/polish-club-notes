@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.18] - 2026-07-04
+### Changed
+- `openings/simulation-opening-guidelines.md`: expand detail sections into inline prose; clarify that 11 HCP 5m–4M opening requires QT ≥ 2.0; add explicit subject to 5422 5m–4M profitability note
+
 ## [1.4.17] - 2026-06-24
 ### Added
 - `openings/simulation-opening-guidelines.md`: new page with simulation-based opening guidelines for positions 1–4 — covers balanced and unbalanced hands with QT thresholds, open/pass rules for 5431/5422 shapes, and selective fourth-seat rules at 11 HCP
