@@ -39,16 +39,7 @@ These rules are derived from IMP simulations and indicate when opening is profit
 | 5m–4M (minor + major), 11 HCP | QT ≥ 2.0 | Open |
 | 5m–4m (both minors) | — | Pass |
 
-??? note "Detail: 5431 5m–4M at 10–11 HCP"
-    The singleton in a 5431 hand hits partner's longest suit in approximately 45% of deals.
-
-    **10 HCP → Pass**
-
-    The misfit cases are costly enough to make opening unprofitable overall.
-
-    **11 HCP → Open if QT ≥ 2.0**
-
-    At 11 HCP the honours compensate even when partner holds their longest suit in the singleton suit.
+The singleton in a 5431 hand hits partner's longest suit in approximately 45% of deals. At 10 HCP the misfit cases are costly enough to make opening unprofitable overall. At 11 HCP the honours compensate even when partner holds their longest suit in the singleton suit.
 
 #### 5422 Hands
 
@@ -59,8 +50,7 @@ These rules are derived from IMP simulations and indicate when opening is profit
 | 5m–4m | Pass |
 | 5M–4M | Pass (negative) |
 
-??? note "Detail: 5422 5m–4M at 10–11 HCP"
-    Profitable at both 10 and 11 HCP, with no QT requirement. The effect is stronger at 11 HCP.
+Profitable at both 10 and 11 HCP, with no QT requirement. The effect is stronger at 11 HCP.
 
 #### 6-Card Hands
 
