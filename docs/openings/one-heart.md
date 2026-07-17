@@ -1,7 +1,7 @@
 # 1♥ Opening
 
 ### Description
-- (10)12–17 HCP, 5+ hearts.
+- (11)12–17 HCP, 5+ hearts.
 
 ??? note "Responses to 1♥"
     ### Responses to 1♥

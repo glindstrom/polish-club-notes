@@ -6,9 +6,9 @@ Opening bids in the Polish Club system:
 
 | Opening     | Meaning                                          |
 | ----------- | ------------------------------------------------ |
-| 1♣          | 12–14 balanced, or 15–17 5+♣, or 18+ any        |
-| 1♦          | (10)12–17: 5+♦, any 4♦441, or 4♦ 5♣ (12–15)    |
-| 1♥/1♠       | (10)12–17, 5+ cards                              |
+| 1♣          | (11)12–14 balanced, or 15–17 5+♣, or 18+ any        |
+| 1♦          | (11)12–17: 5+♦, any 4♦441, or 4♦ 5♣ (12–15)    |
+| 1♥/1♠       | (11)12–17, 5+ cards                              |
 | 1NT         | (14)15–17(18) balanced                           |
 | 2♣          | 11–14/15: 6+♣ or 5+♣ with 4-card major          |
 | 2♦          | (5)6–10: 6+ cards in one major                   |
@@ -22,10 +22,10 @@ Opening bids in the Polish Club system:
 ### Sections
 
 #### One-Level Openings
-- **[1♣ Opening](one-club.md)**: 12-14 balanced, 15+ 5+♣, or 18+ any.
-- **[1♦ Opening](one-diamond.md)**: 12-17 5+♦, any 4♦441, or 12-15 4♦ 5♣.
-- **[1♥ Opening](one-heart.md)**: (10)12–17, 5+♥.
-- **[1♠ Opening](one-spade.md)**: (10)12–17, 5+♠.
+- **[1♣ Opening](one-club.md)**: (11)12-14 balanced, 15+ 5+♣, or 18+ any.
+- **[1♦ Opening](one-diamond.md)**: (11)12-17 5+♦, any 4♦441, or 12-15 4♦ 5♣.
+- **[1♥ Opening](one-heart.md)**: (11)12–17, 5+♥.
+- **[1♠ Opening](one-spade.md)**: (11)12–17, 5+♠.
 - **[1NT Opening](one-nt.md)**: (14)15–17(18) balanced.
 
 #### Two-Level Openings

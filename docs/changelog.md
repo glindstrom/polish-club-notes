@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.19] - 2026-07-17
+### Changed
+- Raised sub-minimum HCP exception for 1-level openings from (10) to (11) across 1♣/1♦/1♥/1♠, in `convention-card.html` (EN + SV) and `openings/overview.md`, `one-club.md`, `one-diamond.md`, `one-heart.md`, `one-spade.md`
+
 ## [1.4.18] - 2026-07-04
 ### Changed
 - `openings/simulation-opening-guidelines.md`: expand detail sections into inline prose; clarify that 11 HCP 5m–4M opening requires QT ≥ 2.0; add explicit subject to 5422 5m–4M profitability note

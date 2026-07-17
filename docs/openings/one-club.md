@@ -3,7 +3,7 @@
 ### Opening Description
 
 - **Meanings**:
-  - **Weak Variant**: Balanced distribution (12-14 HCP), including 4-4-4-1 with four clubs.
+  - **Weak Variant**: Balanced distribution ((11)12-14 HCP), including 4-4-4-1 with four clubs.
   - **Club Variant**: At least 5 clubs, unbalanced distribution (15-17 HCP).
   - **Strong Variant**: 18+ HCP.
 - **Guideline**:
