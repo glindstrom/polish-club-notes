@@ -14,7 +14,7 @@ These rules are derived from IMP simulations and indicate when opening is profit
 | ----- | ----------- | -------- |
 | 4432 with major | QT ≥ 1.5 | Open |
 | 4432 with major | QT < 1.5 | Pass |
-| 5332 with major | QT ≥ 2.0 and HLD ≥ 12 | Open |
+| 5332 with major | QT ≥ 1.5 | Open |
 | 5332 with major | Otherwise | Pass |
 | 4333 | — | Always pass |
 | Any, ≥ 12 HCP | — | Always open |
@@ -29,28 +29,22 @@ These rules are derived from IMP simulations and indicate when opening is profit
 | 5M–5M | Open (positive; needs more deals to confirm) |
 | 5m–5m | Pass |
 
-#### 5431 Hands
+#### 5–4 Two-Suiters
+
+Rules are by two-suiter family (whether the 5-card and 4-card suits are majors or minors), not by remainder shape (5431 / 5422 / 5440).
 
 | Shape | Requirement | Decision |
 | ----- | ----------- | -------- |
-| 5M–4M (both majors) | — | Always open |
-| 5M–4m (major + minor) | QT ≥ 2.0 | Open |
-| 5m–4M (minor + major), 10 HCP | — | Pass |
-| 5m–4M (minor + major), 11 HCP | QT ≥ 2.0 | Open |
-| 5m–4m (both minors) | — | Pass |
+| 5M–4M | — | Always open |
+| 5M–4m | 11+ HCP | Open |
+| 5M–4m | 10 HCP, position 1 | Open |
+| 5M–4m | 10 HCP, position 2 | Pass |
+| 5m–4M | 11+ HCP | Open |
+| 5m–4M | 10 HCP | Pass |
+| 5m–4m | 11+ HCP | Open |
+| 5m–4m | 10 HCP | Pass |
 
-The singleton in a 5431 hand hits partner's longest suit in approximately 45% of deals. At 10 HCP the misfit cases are costly enough to make opening unprofitable overall. At 11 HCP with QT ≥ 2.0, the honours compensate even when partner holds their longest suit in the singleton suit.
-
-#### 5422 Hands
-
-| Shape | Decision |
-| ----- | -------- |
-| 5m–4M | Open |
-| 5M–4m | Pass |
-| 5m–4m | Pass |
-| 5M–4M | Pass (negative) |
-
-For 5m–4M, opening is profitable at both 10 and 11 HCP, with no QT requirement. The effect is stronger at 11 HCP.
+No QT or HLD gate on 5–4 two-suiters.
 
 #### 6-Card Hands
 
@@ -64,7 +58,7 @@ For 5m–4M, opening is profitable at both 10 and 11 HCP, with no QT requirement
 
 ## Position 3
 
-Same rules as positions 1 & 2 with all HCP requirements reduced by 1, with one exception: for 5332 with major, only QT ≥ 2.0 is required — the HLD ≥ 12 condition does not apply in position 3.
+Same rules as positions 1 & 2 with all HCP requirements reduced by 1. The 5M–4m 10 HCP position-1 exception is not reduced further: in position 3, open 5M–4m from 10 HCP (not 9).
 
 ---
 
