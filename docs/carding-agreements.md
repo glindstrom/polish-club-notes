@@ -2,7 +2,7 @@
 
 ### Description
 
-Carding agreements in the Polish Club system cover signalling and leads, using Odd/Even discards, count, suit preference, and 2nd/4th leads.
+Carding agreements in the Polish Club system cover signalling and leads, using Odd/Even discards, count, suit preference, 2nd/4th leads, and sequence and honor-combination leads.
 
 ### Signalling
 
@@ -63,10 +63,26 @@ East holds:
 
 ### Leads
 - **Standard**: 2nd/4th leads.  
+- **Vs suit and vs notrump**: Same opening leads. Additionally vs notrump: K from AKJ10 or longer, and Q from KQ109 or longer.  
 - **Doubleton (x-x)**: Lead low.  
 - **Hx or 10x doubleton (e.g., Kx, Qx, Jx, 10x)**: Lead H or 10.  
 - **Three worthless cards (x-x-x)**: Lead middle, then down-up.  
 - **Four small (x-x-x-x)**: Lead second-highest, follow with top card to show even number (if affordable).  
+- **Five or more small**: Lead second-highest.  
+- **Honor and three or more spots**: Lead fourth-highest (e.g., 6 from K976; 7 from K9872).  
+- **Honor and two spots (Hxx)**: Lead the higher spot (e.g., 8 from K87).  
+- **9 from H9x**: Lead the 9 (e.g., from K9x).  
 - **Honor third (e.g., K9x)**: Can lead low if second card might cost a trick.  
 - **AK doubleton or AKx+ (5-level and higher)**: Lead K.  
+- **Sequence and honor-combination leads**:  
+    - **K from KQ or longer**: Top of the sequence (e.g., K from KQx).  
+    - **K from AKJ10 or longer**: Additionally vs notrump.  
+    - **Q from QJ or longer**: Top of the sequence (e.g., Q from QJx).  
+    - **Q from AQJ or longer** (e.g., Q from AQJx).  
+    - **Q from KQ109 or longer**: Additionally vs notrump.  
+    - **J from J10 or longer**: Top of the sequence (e.g., J from J10x).  
+    - **J from AJ10 or longer** (e.g., J from AJ10x).  
+    - **J from KJ10 or longer** (e.g., J from KJ10x).  
+    - **10 from an honor with 109 or longer** (e.g., 10 from K109, Q109x).  
+    - **9 from 109x or longer** (e.g., 9 from 109x).  
 - **Subsequent leads**: 2nd/4th, or attitude if clearer.
