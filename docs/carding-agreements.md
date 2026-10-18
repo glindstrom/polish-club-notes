@@ -74,7 +74,9 @@ East holds:
 - **9 from H9x**: Lead the 9 (e.g., from K9x).  
 - **Honor third (e.g., K9x)**: Can lead low if second card might cost a trick.  
 - **AK doubleton (exactly two cards, AK)**: Lead K.  
-- **AKx or longer**: Lead A, at every level.  
+    - **At the 5-level**: Lead A.  
+- **AKx or longer**: Lead A.  
+    - **At the 5-level**: Lead K.  
     - **Exception, vs notrump**: K from AKJ10 or longer. Request to unblock.  
 - **Sequence and honor-combination leads**:  
     - **K from KQ or longer**: Top of the sequence (e.g., K from KQx).  

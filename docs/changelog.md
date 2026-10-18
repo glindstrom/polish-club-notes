@@ -3,6 +3,11 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.21] - 2026-10-18
+### Changed
+- `carding-agreements.md`: add the convention-card opening leads. Lead K from an AK doubleton and A from AKx or longer; at the 5-level, lead A from AK and K from AKx or longer. Vs notrump, also lead K from AKJ10 or longer (unblock request) and Q from KQ109 or longer
+- `convention-card.html`: Ace is from AKx(+) and Ax; King vs notrump adds AKJ10(+) as an unblock exception to Ace from AKx(+). English and Swedish cards note the 5-level reversal (K from AKx(+), A from AK)
+
 ## [1.4.20] - 2026-09-02
 ### Changed
 - `openings/simulation-opening-guidelines.md`: retarget 5–4 opening rules to two-suiter families (drop the 5431/5422 split, QT/HLD gates, and misfit paragraph); open 5m–4m from 11 HCP; 5332 with major at 11 HCP opens on QT ≥ 1.5 only; position 3 is HCP−1 vs the new 1–2 rules (5M–4m from 10 HCP, not 9)
