@@ -63,7 +63,7 @@ East holds:
 
 ### Leads
 - **Standard**: 2nd/4th leads.  
-- **Vs suit and vs notrump**: Same opening leads. Additionally vs notrump: Q from KQ109 or longer.  
+- **Vs suit and vs notrump**: Same opening leads. Additionally vs notrump: K from AKJ10 or longer, and Q from KQ109 or longer.  
 - **Doubleton (x-x)**: Lead low.  
 - **Hx or 10x doubleton (e.g., Kx, Qx, Jx, 10x)**: Lead H or 10.  
 - **Three worthless cards (x-x-x)**: Lead middle, then down-up.  
@@ -75,8 +75,10 @@ East holds:
 - **Honor third (e.g., K9x)**: Can lead low if second card might cost a trick.  
 - **AK doubleton (exactly two cards, AK)**: Lead K.  
 - **AKx or longer**: Lead A, at every level.  
+    - **Exception, vs notrump**: K from AKJ10 or longer. Request to unblock.  
 - **Sequence and honor-combination leads**:  
     - **K from KQ or longer**: Top of the sequence (e.g., K from KQx).  
+    - **K from AKJ10 or longer**: Additionally vs notrump. Exception to Ace from AKx or longer. Request to unblock.  
     - **Q from QJ or longer**: Top of the sequence (e.g., Q from QJx).  
     - **Q from AQJ or longer** (e.g., Q from AQJx).  
     - **Q from KQ109 or longer**: Additionally vs notrump.  
