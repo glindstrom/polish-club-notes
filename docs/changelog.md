@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.22] - 2026-10-25
+### Fixed
+- `openings/one-club.md`: opener’s 2♣ rebid after 1♣–1♥ is 15-17 (five clubs without four spades), matching the 2♣ Rebid section; the summary table had said 12-17
+
 ## [1.4.21] - 2026-10-18
 ### Changed
 - `carding-agreements.md`: add the convention-card opening leads. Lead K from an AK doubleton and A from AKx or longer; at the 5-level, lead A from AK and K from AKx or longer. Vs notrump, also lead K from AKJ10 or longer (unblock request) and Q from KQ109 or longer
