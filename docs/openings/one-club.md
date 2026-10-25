@@ -269,7 +269,7 @@
         | ----- | ------------------------------------------------------------------------- |
         | 1♠    | 12+; 4+ spades; forcing for one round                                     |
         | 1NT   | 12-14; without four spades and four hearts                                |
-        | 2♣    | 12-17; five clubs without four spades                                     |
+        | 2♣    | 15-17; five clubs without four spades                                     |
         | 2♦    | [Odwrotka](../conventions/odwrotka.md)                                    |
         | 2♥    | 12-14; four hearts                                                        |
         | 2♠    | 18+; 6+ good spades                                                       |
