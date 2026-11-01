@@ -53,10 +53,12 @@
     | --------------- | -------------------------------------------- |
     | 2NT             | Game forcing with fit                        |
     | Opponent’s suit | Invitation to game with fit or "bad forcing" |
+    | Jump to 4 in a new minor (e.g., 1♥–(2♠)–4♣) | Fit-showing: 4+ card support for opener’s major plus a good 5+ card suit in the bid minor; game values. Not a splinter. |
 
     - **Note**: For two-suited overcalls (e.g., 2♥ or 2♠ Michaels, or 2NT showing both minors after 1♥), see [Bidding After an Opponent’s Two-Suited Overcall](../after-intervention/bidding-after-two-suited-overcall.md).
 
     #### Note
 
+    - The fit-showing jump to 4♣/4♦ is meant to help find a double fit (for slam or competitive decisions). It is not a splinter; with shortness, use other bids. (Source: Izdebski, Competitive Bidding School 7 – Responder’s Jumps, Continued.)
     - If responder is a passed hand, both bids (2NT and the opponent’s suit) invite game. 2NT is the stronger bid and promises a four-card fit.
     - If the opener has a broken honor sequence in the opponent’s suit, the best contract may be 3NT played from their hand. Therefore, responder with a hand otherwise suitable for 3NT bids the opponent’s suit (as "bad forcing"), while 2NT shows a distributional hand unsuitable for 3NT.

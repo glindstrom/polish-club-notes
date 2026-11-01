@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.24] - 2026-11-01
+### Added
+- `openings/one-heart-one-spade-interference.md`: fit-showing jump to 4♣/4♦ after 1♥/1♠ + opponent overcall (4+ support for opener’s major, good 5+ card minor, game values, not a splinter)
+
 ## [1.4.23] - 2026-10-26
 ### Fixed
 - `openings/one-club.md`: opener’s 2♣ rebid after 1♣–1♥ and 1♣–1♠ is 15+ (five clubs; no four spades after 1♥), not 15-17
