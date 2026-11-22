@@ -2,11 +2,17 @@
 
 Summary of balancing actions after an opening bid followed by two passes, for example (1H)-Pass-Pass:
 
-1. A takeout double may be made with as few as 9 HCP, but only with shortness in the opponent’s suit. Partner should consider this possibility when responding.
+1. A takeout double may be made with as few as 9 HCP, but only with shortness in the opponent’s suit. With the ideal 4-4-4-1 shape (singleton in opener’s suit), about 7 HCP is enough. Partner should consider this possibility when responding.
 2. A balancing 1NT shows 11–15 HCP and a balanced hand. Stayman and transfers apply.
 3. A balancing 2NT shows 19–21 HCP and a balanced hand. Stayman and transfers apply.
 4. With 16–18 HCP and a balanced hand, double first and then bid NT over partner’s response.
 5. A jump-shift (even non-vulnerable) is constructive, showing a good 6-card suit and 11–15 HCP.
+
+### Light double with 4-4-4-1
+
+With 4-4-4-1 and a singleton in opener’s suit, double from about 7 HCP (Lawrence, *Tips on Competitive Bidding*, p. 208). Our singleton suggests that partner has length in their suit, and partner may hold up to 17–18 HCP without a suitable action.
+
+*Simulation note:* (1H)-Pass-Pass-?, 4-1-4-4 with 7–8 HCP, double vs pass (5,000 deals, double dummy): +2.7 IMP/deal non-vulnerable and +2.3 IMP/deal vulnerable; double scores better than pass on about 70% of matchpoint comparisons. 1H makes on 83% of these deals, so passing is expensive.
 
 ## Balancing after (1H)-Pass-(2H)-Pass-Pass-?
 
@@ -56,3 +62,11 @@ At matchpoints we are not necessarily less active, but shape becomes even more i
 - Bid 2NT with real minors, preferably at least 5-4.
 - Bid 3m with a 6+ card suit, not lightly on a five-card suit.
 - Pass hands without a clear landing place, even if they have some points.
+
+## Balancing when the opponents have not found a fit
+
+When the opponents have found a fit, balance actively (see above). When they stop in two of a suit after a **preference** (for example 1H-1S-2C-2H, where responder usually has only two hearts), balance only rarely, especially vulnerable. They are often in a 5-2 fit that may go down, and our own contract is no better (Lawrence, *Tips on Competitive Bidding*, pp. 226–227; *The Complete Book on Balancing*, ch. 5).
+
+This does **not** apply when opener has rebid his own long suit (for example 1C-1H-2C). Opener then usually has six cards, their contract is a good one, and normal balancing rules apply.
+
+*Simulation note:* balancing 3D (5–6 diamonds, 9–12 HCP) vs pass: after 1H-1S-2C-2H, −0.5 IMP/deal non-vulnerable and −3.1 IMP/deal vulnerable; after 1H-2H, +1.0 and +0.2. Balancing 2S (5 spades, 9–11 HCP) after 1C-1H-2C: +1.9 non-vulnerable and +0.9 vulnerable, about as good as against a fit.

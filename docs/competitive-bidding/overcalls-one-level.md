@@ -90,3 +90,10 @@
     | 2NT                       | Natural, 10–12 points          |
     | Opponent's suit (2-level) | Invitation to game, 3-card fit |
     | Opponent's suit (3-level) | Invitation to game, 4-card fit |
+    | Double (after a raise)    | Responsive: the two unbid suits, 8+ points |
+
+    #### Responsive Double
+    - After our simple overcall and a raise by responder (e.g., 1♦ – 1♠ – 2♦ – X), double is **responsive**: it shows the two unbid suits (at least 4-4, preferably 5-4) and about 8+ points. Overcaller chooses the suit.
+    - After a **weak jump overcall** and a raise, double is for penalty.
+    - Source: Lawrence, *Tips on Competitive Bidding*, pp. 92–93.
+    - *Simulation note:* 1♦ – 1♠ – 2♦ – ? with hearts and clubs, 8–11 points: responsive double vs guessing a suit +1.1 IMP/deal non-vulnerable and +1.4 IMP/deal vulnerable (5,000 deals, double dummy).

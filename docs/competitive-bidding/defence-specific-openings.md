@@ -50,6 +50,12 @@
     | 2♣       | Both majors                |
     | 2♦/2♥/2♠ | Natural                    |
 
+    - **Guidelines (1NT 15–17 passed out)**: shape before points (Lawrence, *Tips on Competitive Bidding*, pp. 212–213).
+        - Non-vulnerable: reopen with a 6-card suit from about 6 points.
+        - Vulnerable: reopen with a 6-card suit only with a good suit or extra shape.
+        - With a balanced hand (5332), pass when vulnerable, even with 12–14 points. Non-vulnerable it is optional (matchpoints).
+    - *Simulation note* (natural 2-level bid vs pass, 5,000 deals, double dummy): 6-card suit with 6–9 points +1.9 IMP/deal non-vulnerable, ±0 vulnerable; 6-card suit with 10–12 points vulnerable −0.8; 5332 with 12–14 points vulnerable −2.5, non-vulnerable ±0.
+
 ??? note "Defence to Weak 1NT (13–15 or weaker)"
     ### Defence to Weak 1NT (13–15 or weaker)
 

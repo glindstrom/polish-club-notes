@@ -121,7 +121,7 @@
 
     | Bid      | Meaning                                                                                    |
     | -------- | ------------------------------------------------------------------------------------------ |
-    | Double   | 9+ points, take-out, shortage in opponent’s suit                                           |
+    | Double   | 9+ points (7+ with 4-4-4-1), take-out, shortage in opponent’s suit                         |
     | 1NT      | 11–15 points, balanced                                                                     |
     | 2♣/2♦/2♠ | 11–15 points, constructive                                                                 |
     | 2♥       | Michaels cue-bid: 5+ spades, 5+ in a minor                                                 |
