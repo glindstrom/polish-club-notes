@@ -13,9 +13,9 @@ That is the redouble after [1♣](../openings/one-club-interference.md), [1♦](
 - After 1♣ the redouble does not promise club length. Opener does not pass 1♣ redoubled.
 - After 1♥/1♠ the redouble is 10+ HCP and does not ask to play the redoubled contract. With values in their suit, pass.
 
-After a negative double (Sputnik) of our one-level overcall, redouble shows 10+ HCP and a doubleton in partner’s suit. With three or more cards in partner’s suit, raise or cue-bid. After (1♦) 1♠ (X), a hand with 3+ spades above a 6–10 raise cue-bids 2♦. A 6–10 hand with 3+ spades still raises. See [Overcalls at the One Level](overcalls-one-level.md).
+After a negative double (Sputnik) of our one-level overcall, redouble shows 10+ HCP and a doubleton in partner’s suit. With three or more cards in partner’s suit, raise. Do not redouble with a fit. Transfers apply after the double. A 6–10 hand with 3+ cards in partner’s suit still raises. See [Overcalls at the One Level](overcalls-one-level.md).
 
-Example: (1♦) 1♠ (X) with ♠K6 ♥A95 ♦A872 ♣10843. The bid is redouble. With a full spade fit, bid 2♦.
+Example: (1♦) 1♠ (X) with ♠K6 ♥A95 ♦A872 ♣10843. The bid is redouble.
 
 Izdebski, School 7–9/2022; 10–12/2019.
 

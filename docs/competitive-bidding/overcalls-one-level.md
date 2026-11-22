@@ -26,7 +26,7 @@
     - 2♦ is a weak raise showing 6–10 points.
     - 2♥, 2♠, and 3♣ are natural and forcing.
     - **Important**: If responder bids 1♥ or 1♠ and the next opponent passes, continuations are identical to after our 1♦ opening.
-    - If the next hand makes a negative double, redouble shows 10+ HCP and a doubleton diamond. With 3+ diamonds, do not redouble: 2♦ remains the 6–10 raise, and a stronger hand cue-bids their suit. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md). Izdebski, School 7–9/2022; 10–12/2019.
+    - If the next hand makes a negative double, transfers apply. Redouble shows 10+ HCP and a doubleton diamond. With 3+ diamonds, do not redouble: 2♦ remains the 6–10 raise. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md). Izdebski, School 7–9/2022; 10–12/2019.
 
 ??? note "Responses after 1♥ or 1♠ Overcall"
     ### Responses after 1♥ or 1♠ Overcall
@@ -78,15 +78,16 @@
     | XX                             | 10+ HCP, doubleton in overcaller's suit                                     |
     | 2♥ (after 1♥) or 2♠ (after 1♠) | 6–10 points, 3+ cards in overcaller's suit, includes top honor (A, K, or Q) |
     | 2♦ (after 1♥) or 2♥ (after 1♠) | 6–10 points, 3+ cards in overcaller's suit, no top honor                    |
-    | 2♦ after (1♦) 1♠ (X)       | Cue-bid, 3+ spades, above a 6–10 raise                                     |
-    | Others                         | Same as after 1♥ or 1♠ opening and opponent's double, except redouble and the 2♦ cue above |
+    | Others                         | Same as after 1♥ or 1♠ opening and opponent's double (transfers)            |
+
+    Transfers apply after their negative double, as after a 1♥ or 1♠ opening and a double: 1NT transfers to clubs and 2♣ to diamonds. After a 1♠ overcall, 2♦ transfers to hearts. See [1♥/1♠ Interference](../openings/one-heart-one-spade-interference.md). 2NT is invitational with a fit, as after a doubled 1♥ or 1♠ opening.
 
     #### Redouble after their negative double
-    Redouble shows 10+ HCP and a doubleton in partner’s suit. With 3+ cards in partner’s suit, raise or cue-bid. Do not redouble with a fit.
+    Redouble shows 10+ HCP and a doubleton in partner’s suit. With 3+ cards in partner’s suit, raise. Do not redouble with a fit.
 
-    After (1♦) 1♠ (X), a hand with 3+ spades that is more than a 6–10 raise cue-bids 2♦. A 6–10 hand with 3+ spades still raises: 2♠ with a top honour, 2♥ without. 2♦ is not a transfer to hearts. A hand with 3+ spades does not redouble.
+    After (1♦) 1♠ (X), a 6–10 hand with 3+ spades still raises: 2♠ with a top honour, 2♥ without. 2♦ is a transfer to hearts. A hand with 3+ spades does not redouble.
 
-    Example: (1♦) 1♠ (X) with ♠K6 ♥A95 ♦A872 ♣10843 — redouble. With a full spade fit, bid 2♦. Izdebski, School 7–9/2022; 10–12/2019. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md).
+    Example: (1♦) 1♠ (X) with ♠K6 ♥A95 ♦A872 ♣10843 — redouble. Izdebski, School 7–9/2022; 10–12/2019. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md).
 
 ??? note "After Other Opponent Bids"
     ### After Other Opponent Bids
