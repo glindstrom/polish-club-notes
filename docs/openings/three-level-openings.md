@@ -34,9 +34,7 @@
 ??? note "After an Opponent’s Double"
     ### After an Opponent’s Double
 
-    When our three-level preempt is doubled, do not redouble to show strength. Pass, and double later if they escape. With ♠QJ76 ♥KJ32 ♦6 ♣A863 after 3♦ (X), the bid is pass. Izdebski, School 1–3/2022. See [Penalty Doubles, Redoubles and Passes](../competitive-bidding/penalty-doubles-and-passes.md).
-
-    This does not change the 3NT agreement below: after 3NT is doubled, redouble shows stoppers in the side suits.
+    When our three-level preempt is doubled, do not redouble to show strength. Pass, and double later if they escape. With ♠QJ76 ♥KJ32 ♦6 ♣A863 after 3♦ (X), the bid is pass. The same applies when 3NT is doubled: do not redouble to show stoppers. Izdebski, School 1–3/2022. See [Penalty Doubles, Redoubles and Passes](../competitive-bidding/penalty-doubles-and-passes.md).
 
 ??? note "3NT Opening"
     ### 3NT Opening
@@ -59,5 +57,5 @@
     | 5♣/5♦    | Showing own suit without shortness |
 
     #### Notes
-    - After an opponent's double of 3NT, partner's pass accepts the contract and promises stoppers in side suits.
-    - Opening 3NT after partner's pass (third or fourth seat) may deviate from the standard (opener may have stoppers in addition to the minor suit). Partner’s pass over an opponent's double does not promise stoppers—opener "defends themselves." Partner can redouble to show stoppers in side suits.
+    - After an opponent's double of 3NT, do not redouble to show stoppers or strength. Pass, and double later if they escape. Pass does not promise stoppers. Izdebski, School 1–3/2022.
+    - Opening 3NT after partner's pass (third or fourth seat) may deviate from the standard (opener may have stoppers in addition to the minor suit). Partner’s pass over an opponent's double does not promise stoppers. Opener defends. There is no strength redouble.

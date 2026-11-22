@@ -138,12 +138,14 @@
     |          | 1♥       | Pass | Pass | Double |
     |          | Redouble | ?    |      |        |
 
-    | Bid         | Meaning                                   |
-    | ----------- | ----------------------------------------- |
-    | Pass        | Penalties ("I want to play 1♥ redoubled") |
-    | 2♣/2♦/2♥/2♠ | Natural, non-forcing                      |
+    | Bid         | Meaning                                              |
+    | ----------- | ---------------------------------------------------- |
+    | Pass        | No strength; no suit worth bidding                   |
+    | Simple suit | No strength; the suit you prefer to play             |
+    | 2NT         | At least 5-5 in the minors                           |
+    | Suit jump   | Preemptive                                           |
 
-    This is the passed hand in the reopening seat. Pass is for penalties. It is not the weak hand of the direct-seat doubler after an immediate redouble, described above.
+    The same rules as after an immediate redouble. Partner’s reopening double and the redouble have shown the points, so this hand is weak. Pass is not a penalty pass of the redoubled contract. Do not double their two-level escape without trump length, and the doubler normally passes a preemptive jump. Izdebski, School 1–3/2015; 1–3/2022.
 
     #### After Opponent’s Bid
     | Sequence | They | We   | They | We     |

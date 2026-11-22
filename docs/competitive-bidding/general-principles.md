@@ -32,17 +32,12 @@
     | -------- | ----- | ------ | ----- | --- |
     |          | 3♣/3♦ | Double | 5♣/5♦ | ?   |
 
-    | Bid    | Meaning (Unfavorable Vulnerability) |
-    | ------ | ----------------------------------- |
-    | Pass   | Forcing                             |
-    | Double | Discourages bidding, 0+ points      |
+    | Bid    | Meaning                                                                 |
+    | ------ | ----------------------------------------------------------------------- |
+    | Pass   | Non-forcing, at every vulnerability                                     |
+    | Double | Unfavorable: discourages bidding, 0+ points. Otherwise: suggests bidding on, with some strength |
 
-    | Bid    | Meaning (Other Vulnerabilities)    |
-    | ------ | ---------------------------------- |
-    | Pass   | Non-forcing                        |
-    | Double | Suggests bidding on, some strength |
-
-    A pass over their bid at the four- or five-level is normally not forcing, especially when our own game bid was competitive (Izdebski, School 1–3/2015; 7–9/2019). The unfavorable-vulnerability row above stays forcing. Once partner has doubled, for example (5♣) Pass (Pass) Double, do not pull without a clear offensive reason. The conclusion depends on the type of auction. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md).
+    A pass over their bid at the four- or five-level is not forcing, including after (3♣/3♦) Double (5♣/5♦), and especially when our own game bid was competitive (Izdebski, School 1–3/2015; 7–9/2019). Once partner has doubled, for example (5♣) Pass (Pass) Double, do not pull without a clear offensive reason. The conclusion depends on the type of auction. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md).
 
 ??? note "After Opponent’s Two-Level Bid"
     ### After Opponent’s Two-Level Bid
