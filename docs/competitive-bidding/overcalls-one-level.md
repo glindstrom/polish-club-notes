@@ -94,6 +94,7 @@
 
     #### Responsive Double
     - After our simple overcall and a raise by responder (e.g., 1♦ – 1♠ – 2♦ – X), double is **responsive**: it shows the two unbid suits (at least 4-4, preferably 5-4) and about 8+ points. Overcaller chooses the suit.
-    - After a **weak jump overcall** and a raise, double is for penalty.
+    - After a **weak jump overcall** and a raise (e.g., 1♦ – 2♠ – 3♦ – X), double is for **penalty**: values (about 11+ points) with length or honours in opener's suit, usually a misfit for partner's suit. Same principle as our penalty doubles after an overcall of our weak openings. Without a fit for partner, prefer to pass rather than bid a new suit at the three or four level, especially when vulnerable.
+    - *Simulation note:* penalty vs responsive meaning, hands that would act differently (5,000 deals per vulnerability, double dummy): 1♦ – 2♠ – 3♦ – ? +0.65 IMP/deal non-vulnerable, +1.54 vulnerable; 1♥ – 2♠ – 3♥ – ? −0.15 / +0.57. Penalty doubles with 12+ points gained +3.1/+4.1 IMP/deal vs pass (1♦); with only a trump holding and 8–11 points they broke even or lost.
     - Source: Lawrence, *Tips on Competitive Bidding*, pp. 92–93.
     - *Simulation note:* 1♦ – 1♠ – 2♦ – ? with hearts and clubs, 8–11 points: responsive double vs guessing a suit +1.1 IMP/deal non-vulnerable and +1.4 IMP/deal vulnerable (5,000 deals, double dummy).
