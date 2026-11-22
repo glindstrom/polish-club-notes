@@ -3,6 +3,11 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.30] - 2026-11-22
+### Changed
+- `competitive-bidding/overcalls-one-level.md`: transfers after their negative double apply only when we overcalled 1♥ or 1♠. After our 1♦ overcall and their negative double, the responses are natural. 2♦ remains the 6–10 raise, and a stronger hand cue-bids their suit, as in 1.4.28 (Gabriel, 2026-11-22)
+- `competitive-bidding/penalty-doubles-and-passes.md`: the same limit. Transfers after a negative double are the 1♥/1♠ overcall agreement. After a 1♦ overcall the responses are natural, 2♦ remains the 6–10 raise, and a stronger hand cue-bids their suit
+
 ## [1.4.29] - 2026-11-22
 ### Changed
 - `competitive-bidding/overcalls-one-level.md`: after a negative double of our one-level overcall we play transfers, as after a doubled 1♥/1♠ opening. 2♦ after (1♦) 1♠ (X) is a transfer to hearts again, not Izdebski’s cue-bid (reverts that part of 1.4.28, Gabriel 2026-11-22)
