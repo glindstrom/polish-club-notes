@@ -3,6 +3,10 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.26] - 2026-11-22
+### Changed
+- `openings/one-nt.md`: open 1NT with 5-3-3-2 and a 5-card major when holding exactly 15 HCP (Izdebski); otherwise a 5-card major is still not recommended
+
 ## [1.4.24] - 2026-11-01
 ### Added
 - `openings/one-heart-one-spade-interference.md`: fit-showing jump to 4♣/4♦ after 1♥/1♠ + opponent overcall (4+ support for opener’s major, good 5+ card minor, game values, not a splinter)

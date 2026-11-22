@@ -5,7 +5,7 @@
 - **Permissible Shapes**:
   - May include a 5-card minor suit (even with a side 4-card suit if short suits have honors).
   - May include a weak 6-card minor suit.
-  - Not recommended with a 5-card major suit.
+  - A 5-3-3-2 hand with a 5-card major and exactly 15 HCP is opened 1NT (per Izdebski); otherwise a 5-card major is still not recommended for 1NT.
 
 ??? note "Responder Responses to 1NT"
     ### Responder Responses to 1NT
