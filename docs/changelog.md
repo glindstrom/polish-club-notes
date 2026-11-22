@@ -5,7 +5,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.4.26] - 2026-11-22
 ### Changed
-- `openings/one-nt.md`: open 1NT with 5-3-3-2 and a 5-card major when holding exactly 15 HCP (Izdebski); otherwise a 5-card major is still not recommended
+- `openings/one-nt.md`: open 1NT with 5-3-3-2 and a 5-card major on 15 HCP or a poor 16 (Izdebski); a solid 16 opens the major and rebids 2NT; otherwise a 5-card major is still not recommended
+- `openings/one-heart.md`, `openings/one-spade.md`: opener’s 2NT rebid with 5-3-3-2 after 1♥/1♠ is 16–17 (was 15–17), including after a 1-level response and the balanced rebid after 2♣/2♥
 
 ## [1.4.24] - 2026-11-01
 ### Added

@@ -22,7 +22,7 @@
     | Opener’s Rebid | Description                    |
     | -------------- | ------------------------------ |
     | 2♠             | 12-14; no 3♥ fit               |
-    | 2NT            | 15-17; balanced, may have 3♥   |
+    | 2NT            | 16-17; balanced, may have 3♥   |
     | 3♣             | 15-17; 4+♣                     |
     | 3♦             | 15-17; 4+♦                     |
     | 3♥             | 15-17; with a heart fit in an unbalanced hand (with four hearts or three hearts and a singleton)                 |
