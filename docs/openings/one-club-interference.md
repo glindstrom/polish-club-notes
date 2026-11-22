@@ -21,7 +21,7 @@
 
     #### Notes
     - Pass: Says nothing about clubs, opener should not leave 1♣ doubled if the next opponent passes.
-    - Redouble: Promises at least three clubs, partner may pass.
+    - Redouble: Promises at least three clubs, partner may pass. It also invites opener to penalty-double their escape at the one- or two-level ([Penalty Doubles, Redoubles and Passes](../competitive-bidding/penalty-doubles-and-passes.md)). The three-club promise stays. Izdebski, School 7–9/2022; 10–12/2019.
 
 ??? note "After Opponent’s 1♦ Overcall"
     ### After 1♣ - (1♦)

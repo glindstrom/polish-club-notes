@@ -41,7 +41,11 @@
 ??? note "Meaning of Redouble After Interference"
     ### Meaning of Redouble After Interference
 
-    The aim of the redouble in this situation is not to punish the opposition. With values in the opponent's suit, we pass to dissuade partner from bidding again.
+    The redouble shows a balanced hand with 10+ HCP. It invites opener to penalty-double their escape at the one- or two-level (Izdebski, School 7–9/2022; 10–12/2019). It does not ask to play the redoubled contract. With values in the opponent's suit, pass, to dissuade partner from bidding again.
+
+    Opener’s free rebid in the opened suit is a minimum and not forcing. After 1♥ (X) XX (1♠), 2♥ is a good six-card suit, typical ♠x ♥KQJxxx ♦Qxx ♣QJx, and the redoubler passes. With ♠QJ54 ♥32 ♦KJ98 ♣K98 the bid is pass. The same applies to 2♠ after a 1♠ opening. Do not pull partner’s penalty double of their escape. See [Penalty Doubles, Redoubles and Passes](../competitive-bidding/penalty-doubles-and-passes.md).
+
+    Opposite a third-seat opening that may be light, pass a minimum balanced hand and show the strength on the next round. A jump after an immediate redouble is read as preemptive (Izdebski, School 10–12/2019; 1–3/2022). A hand that fits a transfer still uses it: ♠AJ4 ♥32 ♦AJ876 ♣982 after P (P) 1♥ (X) bids 2♣.
 
 ??? note "Responses after 1♥/1♠ - (Overcall)"
     ### Responses after 1♥/1♠ - (Overcall)

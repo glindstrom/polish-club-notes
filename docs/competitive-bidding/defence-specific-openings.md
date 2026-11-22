@@ -85,12 +85,14 @@
 
         | Response    | Meaning                               |
         | ----------- | ------------------------------------- |
-        | Pass        | 8+, balanced ("let’s double them")    |
+        | Pass        | 8+, balanced; converts to penalty (Izdebski, School 4–6/2018) |
         | 2♣/2♦/2♥/2♠ | 0–7, natural                          |
         | 2NT         | 8+, transfer to clubs (unbalanced)    |
         | 3♣          | 8+, transfer to diamonds (unbalanced) |
         | 3♦          | 8+, transfer to hearts (unbalanced)   |
         | 3♥          | 8+, transfer to hearts (unbalanced)   |
+
+        A weak or unbalanced hand uses the bids above. 2♣ is natural. Izdebski’s usual correction is 2♣ pass-or-correct (School 4–6/2018); that correction is not part of this defence. The 8+ conversion also does not apply to our double of a strong 1NT, which is Multi-Landy.
 
     ??? note "After Opponent’s Natural Bid (e.g., 2♣ or 2♥)"
         #### After Opponent’s Natural Bid (e.g., 2♣ or 2♥)

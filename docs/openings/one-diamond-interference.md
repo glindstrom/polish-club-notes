@@ -17,7 +17,8 @@
 
     #### Note
 
-    - Redouble shows 10+ HCP and does not require diamond support. Unlike after a 1♣ opening, no major suit bid is forcing, as strong hands can redouble even with short diamonds.
+    - Redouble shows 10+ HCP and does not require diamond support. It invites opener to penalty-double their escape at the one- or two-level. Unlike after a 1♣ opening, no major suit bid is forcing, as strong hands can redouble even with short diamonds. After the redouble, opener’s free rebid in his own suit is a minimum and not forcing; the redoubler passes. See [Penalty Doubles, Redoubles and Passes](../competitive-bidding/penalty-doubles-and-passes.md). Izdebski, School 7–9/2022; 10–12/2019.
+    - Izdebski bids 1♥, rather than redouble, with ♠53 ♥KQ983 ♦K1085 ♣Q10 after 1♦ (X): a good heart suit and diamond support (School 10–12/2019). Our 1♥ is 5–9 with good suit quality, and that hand is about 11 HCP, so it redoubles. Diamond support can be shown later.
 
 ??? note "Responder Responses after 1♦ - (1♥)"
     ### Responder Responses after 1♦ - (1♥)

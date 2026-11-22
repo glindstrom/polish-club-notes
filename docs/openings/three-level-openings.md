@@ -31,6 +31,13 @@
     #### Note
     - With greater strength (6-9 HCP) and a seven-card major suit, non-vulnerable, we can start with 2♦ and bid our suit at the three level in the next round.
 
+??? note "After an Opponent’s Double"
+    ### After an Opponent’s Double
+
+    When our three-level preempt is doubled, do not redouble to show strength. Pass, and double later if they escape. With ♠QJ76 ♥KJ32 ♦6 ♣A863 after 3♦ (X), the bid is pass. Izdebski, School 1–3/2022. See [Penalty Doubles, Redoubles and Passes](../competitive-bidding/penalty-doubles-and-passes.md).
+
+    This does not change the 3NT agreement below: after 3NT is doubled, redouble shows stoppers in the side suits.
+
 ??? note "3NT Opening"
     ### 3NT Opening
 

@@ -42,6 +42,8 @@
     | Pass   | Non-forcing                        |
     | Double | Suggests bidding on, some strength |
 
+    A pass over their bid at the four- or five-level is normally not forcing, especially when our own game bid was competitive (Izdebski, School 1–3/2015; 7–9/2019). The unfavorable-vulnerability row above stays forcing. Once partner has doubled, for example (5♣) Pass (Pass) Double, do not pull without a clear offensive reason. The conclusion depends on the type of auction. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md).
+
 ??? note "After Opponent’s Two-Level Bid"
     ### After Opponent’s Two-Level Bid
 
@@ -99,3 +101,5 @@
       - Raises or notrump bids: Non-forcing (unless in a forcing situation).
 
     - **Principle.** In a **competitive auction** (when all four players have bid), a **natural suit bid by the defenders is not forcing**.
+    - **Principle.** A reopening pass is not forcing (Izdebski, School 1–3/2015; 7–9/2019).
+    - **Principle.** When you have already shown a balanced hand, pass partner’s penalty double or reopening double unless the hand has undisclosed extreme shape: a void with 5-5 or with six or more cards, or a suit of seven or more. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md).
