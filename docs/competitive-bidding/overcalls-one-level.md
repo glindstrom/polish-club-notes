@@ -26,7 +26,7 @@
     - 2♦ is a weak raise showing 6–10 points.
     - 2♥, 2♠, and 3♣ are natural and forcing.
     - **Important**: If responder bids 1♥ or 1♠ and the next opponent passes, continuations are identical to after our 1♦ opening.
-    - If the next hand makes a negative double, redouble shows 10+ HCP and a doubleton diamond. With 3+ diamonds, do not redouble: 2♦ remains the 6–10 raise, and a stronger hand cue-bids their suit. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md). Izdebski, School 7–9/2022; 10–12/2019.
+    - If the next hand makes a negative double, the responses are natural. Transfers do not apply. Redouble shows 10+ HCP and a doubleton diamond. With 3+ diamonds, do not redouble: 2♦ remains the 6–10 raise, and a stronger hand cue-bids their suit. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md). Izdebski, School 7–9/2022; 10–12/2019.
 
 ??? note "Responses after 1♥ or 1♠ Overcall"
     ### Responses after 1♥ or 1♠ Overcall
@@ -83,7 +83,7 @@
     #### Redouble after their negative double
     Redouble shows 10+ HCP and a doubleton in partner’s suit. With 3+ cards in partner’s suit, use the support bids in this table, or the fit bids from a doubled 1♥/1♠ opening. Do not redouble with a fit.
 
-    We play transfers after their negative double, as after a doubled [1♥ or 1♠ opening](../openings/one-heart-one-spade-interference.md), so 2♦ after (1♦) 1♠ (X) is a transfer to hearts, not a cue-bid.
+    We play transfers after their negative double of our 1♥ or 1♠ overcall, as after a doubled [1♥ or 1♠ opening](../openings/one-heart-one-spade-interference.md), so 2♦ after (1♦) 1♠ (X) is a transfer to hearts, not a cue-bid.
 
     Example: (1♦) 1♠ (X) with ♠K6 ♥A95 ♦A872 ♣10843 — redouble. With a real spade fit Izdebski cue-bids 2♦ (School 7–9/2022; 10–12/2019), but we do not, because 2♦ is a transfer for us. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md).
 
