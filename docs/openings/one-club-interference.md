@@ -10,7 +10,7 @@
     | Response    | Meaning                                                 |
     | ----------- | ------------------------------------------------------- |
     | Pass        | 0-6; no diamond suit                                    |
-    | Redouble    | 10+; balanced, desire to penalize, at least three clubs |
+    | Redouble    | 10+ HCP; no shape promised; invites a penalty double of their escape |
     | 1♦          | 0-6; natural, 5+ diamonds, non-forcing                  |
     | 1♥/1♠       | 7+; natural, forcing                                    |
     | 1NT         | 8-10; no 4-card majors                                  |
@@ -21,7 +21,7 @@
 
     #### Notes
     - Pass: Says nothing about clubs, opener should not leave 1♣ doubled if the next opponent passes.
-    - Redouble: Promises at least three clubs, partner may pass.
+    - Redouble: 10+ HCP, with no shape and no club length. Opener does not pass 1♣ redoubled. The redouble invites a penalty double if they escape at the one- or two-level. After the redouble, opener’s free bid in his own suit is a minimum and not forcing, and the redoubler passes. See [Penalty Doubles, Redoubles and Passes](../competitive-bidding/penalty-doubles-and-passes.md). Izdebski, School 7–9/2022; 10–12/2019.
 
 ??? note "After Opponent’s 1♦ Overcall"
     ### After 1♣ - (1♦)

@@ -83,14 +83,12 @@
         | ---------- | ------------ | ---- | --- |
         | 1NT (weak) | Double (13+) | Pass | ?   |
 
-        | Response    | Meaning                               |
-        | ----------- | ------------------------------------- |
-        | Pass        | 8+, balanced ("let’s double them")    |
-        | 2♣/2♦/2♥/2♠ | 0–7, natural                          |
-        | 2NT         | 8+, transfer to clubs (unbalanced)    |
-        | 3♣          | 8+, transfer to diamonds (unbalanced) |
-        | 3♦          | 8+, transfer to hearts (unbalanced)   |
-        | 3♥          | 8+, transfer to hearts (unbalanced)   |
+        | Response | Meaning                                                        |
+        | -------- | -------------------------------------------------------------- |
+        | Pass     | 8+ HCP, balanced; converts to penalty                          |
+        | 2♣       | Pass or correct. Weak, or unbalanced                           |
+
+        Pass converts with 8+ HCP and a balanced hand. A weak or unbalanced hand bids 2♣, pass or correct: the doubler passes with clubs and otherwise bids a suit. This replaces a natural 0–7 suit and the 8+ unbalanced transfers in this seat. Izdebski, School 4–6/2018. The double of a strong 1NT is still Multi-Landy, a different agreement. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md).
 
     ??? note "After Opponent’s Natural Bid (e.g., 2♣ or 2♥)"
         #### After Opponent’s Natural Bid (e.g., 2♣ or 2♥)

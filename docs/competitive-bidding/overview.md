@@ -13,5 +13,6 @@ Strategies to counter opponents’ opening bids, using take-out doubles, overcal
 - [Principles](general-principles.md): Rules for competitive and undiscussed bids.
 - [Specific Openings](defence-specific-openings.md): Defenses for 1NT, Multi 2♦, others.
 - [Take-Out Doubles](take-out-doubles.md): Show unbid suits, often majors.
+- [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md): Izdebski on what a redouble promises, converting a take-out double, and when a pass is not forcing.
 - [Two-Suited Overcalls](two-suited-overcalls.md): Michaels or similar, two suits.
 - [Weak Jump Overcalls](weak-jump-overcalls.md): Preemptive bids showing long suits with limited HCP.

@@ -5,7 +5,7 @@
 
     | Response | Description                        |
     | -------- | ---------------------------------- |
-    | XX       | 10+; balanced hand                 |
+    | XX       | 10+ HCP; no shape; invites a penalty double of their escape |
     | 1♠       | 5-10; 5+♠, non-forcing             |
     | 1NT      | Transfer to ♣, forcing             |
     | 2♣       | Transfer to ♦, forcing             |
@@ -17,14 +17,15 @@
 
     #### Note
 
-    - After opponent’s double, 1NT and 2♣ are transfers showing 5+♣/♦, forcing, usable with weak or strong hands. 2♦ is a transfer to ♥ showing ♥ fit, either 0-6 or game force. 3♣/3♦ show own suit and 3-card ♥ fit, aiding game or part-score decisions. Other bids (e.g., 2♠, 2NT) are as without interference.
+    - After a first- or second-seat 1♥, 1NT and 2♣ are transfers showing 5+♣/♦, forcing, usable with weak or strong hands. 2♦ is a transfer to ♥ showing ♥ fit, either 0-6 or game force. 3♣/3♦ show own suit and 3-card ♥ fit. Other bids (e.g., 2♠, 2NT) are as without interference.
+    - After a third-seat 1♥, which may be light, do not redouble and do not use the forcing transfer on a hand that is showing values. Pass, and show the strength on the next round. A jump after an immediate redouble would be read as preemptive. ♠AJ4 ♥32 ♦AJ876 ♣982 passes; it does not bid 2♣. A weak hand with a long minor may still transfer. Izdebski, School 10–12/2019; 1–3/2022. See [Penalty Doubles, Redoubles and Passes](../competitive-bidding/penalty-doubles-and-passes.md).
 
 ??? note "Responses after 1♠ - (X)"
     ### Responses after 1♠ - (X)
 
     | Response | Description                     |
     | -------- | ------------------------------- |
-    | XX       | 10+; balanced hand              |
+    | XX       | 10+ HCP; no shape; invites a penalty double of their escape |
     | 1NT      | Transfer to ♣, forcing          |
     | 2♣       | Transfer to ♦, forcing          |
     | 2♦       | Transfer to ♥, forcing          |
@@ -36,12 +37,17 @@
 
     #### Note
 
-    - After opponent’s double, 1NT, 2♣, and 2♦ are transfers showing 5+♣/♦/♥, forcing, usable with weak or strong hands. 2♥ is a transfer to ♠ showing ♠ fit, either 0-6 or game force. 3♣/3♦ show own suit and 3-card ♠ fit. Other bids are as without double.
+    - After a first- or second-seat 1♠, 1NT, 2♣, and 2♦ are transfers showing 5+♣/♦/♥, forcing, usable with weak or strong hands. 2♥ is a transfer to ♠ showing ♠ fit, either 0-6 or game force. 3♣/3♦ show own suit and 3-card ♠ fit. Other bids are as without double.
+    - After a third-seat 1♠, pass with values instead of redoubling or using a forcing transfer, as after a third-seat 1♥. A weak hand with a long suit may still transfer.
 
 ??? note "Meaning of Redouble After Interference"
     ### Meaning of Redouble After Interference
 
-    The aim of the redouble in this situation is not to punish the opposition. With values in the opponent's suit, we pass to dissuade partner from bidding again.
+    The redouble shows 10+ HCP and no shape. It invites opener to penalty-double their escape at the one- or two-level (Izdebski, School 7–9/2022; 10–12/2019). It does not ask to play the redoubled contract. With values in the opponent's suit, pass, to dissuade partner from bidding again.
+
+    Opener’s free rebid in the opened suit is a minimum and not forcing. After 1♥ (X) XX (1♠), 2♥ is a good six-card suit, typical ♠x ♥KQJxxx ♦Qxx ♣QJx, and the redoubler passes. With ♠QJ54 ♥32 ♦KJ98 ♣K98 the bid is pass. The same applies to 2♠ after a 1♠ opening. Do not pull partner’s penalty double of their escape. See [Penalty Doubles, Redoubles and Passes](../competitive-bidding/penalty-doubles-and-passes.md).
+
+    Opposite a third-seat opening that may be light, pass with values and show the strength on the next round. A jump after an immediate redouble is read as preemptive (Izdebski, School 10–12/2019; 1–3/2022). ♠AJ4 ♥32 ♦AJ876 ♣982 after P (P) 1♥ (X) passes. The forcing minor transfer is not used for that hand. It remains the method opposite a first- or second-seat opening, and a weak hand may still transfer.
 
 ??? note "Responses after 1♥/1♠ - (Overcall)"
     ### Responses after 1♥/1♠ - (Overcall)

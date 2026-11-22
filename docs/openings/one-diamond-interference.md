@@ -5,10 +5,10 @@
 
     | Response | Description                                      |
     | -------- | ------------------------------------------------ |
-    | XX       | 10+; does not deny diamond support           |
-    | 1♥       | 5-9; natural, non-forcing, good suit quality |
-    | 1♠       | 5-9; natural, non-forcing, good suit quality |
-    | 2♣       | 5-9; natural, non-forcing, good suit quality |
+    | XX       | 10+ HCP; no shape; invites a penalty double of their escape |
+    | 1♥       | Good suit, non-forcing. 5–9, or 10+ with a diamond fit |
+    | 1♠       | Good suit, non-forcing. 5–9, or 10+ with a diamond fit |
+    | 2♣       | Good suit, non-forcing. 5–9, or 10+ with a diamond fit |
     | 2♦       | 5-9; weak raise, 3-card diamond support      |
     | 2♥       | 5-9; preemptive, 6+♥                         |
     | 2♠       | 5-9; preemptive, 6+♠                         |
@@ -17,7 +17,7 @@
 
     #### Note
 
-    - Redouble shows 10+ HCP and does not require diamond support. Unlike after a 1♣ opening, no major suit bid is forcing, as strong hands can redouble even with short diamonds.
+    - Redouble shows 10+ HCP and does not promise diamond length. It invites opener to penalty-double their escape at the one- or two-level. A hand with a good suit and a diamond fit bids the suit instead, even above 9 HCP, and shows the diamonds later at the three-level. ♠53 ♥KQ983 ♦K1085 ♣Q10 bids 1♥. The same fit treatment applies to 1♠ and 2♣. After the redouble, opener’s free rebid in his own suit is a minimum and not forcing; the redoubler passes. See [Penalty Doubles, Redoubles and Passes](../competitive-bidding/penalty-doubles-and-passes.md). Izdebski, School 7–9/2022; 10–12/2019; 1–3/2022.
 
 ??? note "Responder Responses after 1♦ - (1♥)"
     ### Responder Responses after 1♦ - (1♥)

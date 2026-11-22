@@ -3,6 +3,22 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.28] - 2026-11-22
+### Added
+- `competitive-bidding/penalty-doubles-and-passes.md`: Izdebski’s principles on penalty doubles, redoubles and passes (School articles in Świat Brydża). A redouble of a take-out double shows 10+ HCP and invites a penalty double of their escape; after a negative double of our one-level overcall it also shows a doubleton in partner’s suit. Opener’s free rebid in his suit after the redouble is a minimum and not forcing. Advancer’s simple suit promises nothing, jumps are preemptive, and 2NT is 5-5+ in the minors. A take-out double of a 3- or 4-level preempt is converted by a pass with a worthless or balanced defensive hand; 4NT over four of a major is a 5-5 two-suiter. Pass partner’s penalty or reopening double once a balanced hand has been shown, and treat a pass at the four- or five-level as normally not forcing
+### Changed
+- `openings/one-club-interference.md`: after 1♣ (X), redouble is 10+ HCP with no shape. Opener does not pass 1♣ redoubled. Opener’s free rebid in his suit after the redouble is a minimum and not forcing
+- `openings/one-diamond-interference.md`: redouble after 1♦ (X) is 10+ HCP with no shape. A good suit with a diamond fit bids the suit above 9 HCP. ♠53 ♥KQ983 ♦K1085 ♣Q10 bids 1♥ and shows the diamonds later. The same fit treatment applies to 1♠ and 2♣
+- `openings/one-heart-one-spade-interference.md`: redouble after 1♥/1♠ (X) is 10+ HCP with no shape. After a third-seat opening, pass with values. ♠AJ4 ♥32 ♦AJ876 ♣982 passes. The forcing minor transfer remains opposite a first- or second-seat opening, and a weak hand may still transfer
+- `competitive-bidding/overcalls-one-level.md`: after (1♦) 1♠ (X), 2♦ is a cue-bid with 3+ spades above a 6–10 raise. The 6–10 raises stay
+- `openings/three-level-openings.md`: after 3NT is doubled, do not redouble to show stoppers. Pass, and double their escape later
+- `openings/two-major-interference.md`: after 2♥/2♠ is doubled, do not redouble. Pass, and double their escape later. Other calls keep their meaning
+- `competitive-bidding/general-principles.md`: after (3♣/3♦) X (5♣/5♦), pass is non-forcing at every vulnerability
+- `competitive-bidding/defence-specific-openings.md`: after a double of a weak 1NT is passed, a weak or unbalanced hand bids 2♣ pass-or-correct. The natural 0–7 suits and the 8+ transfers in that seat are removed
+- `after-intervention/two-suited-bids.md`: 1♥/1♠ (1NT) double is penalty, about 9+ HCP. The double after 1♣/1♦ (1NT) stays 8+
+- `competitive-bidding/take-out-doubles.md`: after a reopening double is redoubled, pass is not for penalties. Simple suits promise nothing, jumps are preemptive, and 2NT is 5-5+ in the minors
+- `competitive-bidding/penalty-doubles-and-passes.md`: the same decisions, with the earlier exceptions removed
+
 ## [1.4.27] - 2026-11-22
 ### Added
 - `competitive-bidding/balancing.md`: light reopening double with 4-4-4-1 (singleton in opener’s suit) from about 7 HCP; new section on balancing when the opponents have not found a fit (rarely balance after a preference auction; normal rules after opener rebids his own long suit). Based on Mike Lawrence, with simulation notes

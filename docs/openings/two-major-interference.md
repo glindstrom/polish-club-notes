@@ -14,7 +14,7 @@ The 2♥/2♠ openings promise a five-card major suit and a minor suit:
     ### Bidding after Opponent's Interference
 
     #### General Approach
-    - After an opponent's double: Bid as if there was no double.
+    - After an opponent's double: do not redouble to show strength. Pass, and double later if they escape (Izdebski, School 1–3/2022). Any other call keeps the meaning it has when there is no double. See [Penalty Doubles, Redoubles and Passes](../competitive-bidding/penalty-doubles-and-passes.md).
     - After an opponent's suit overcall: Double is penalty; bidding the lowest minor suit is to partner's suit.
 
     #### Sequence: 2♥ - (2♠) - ?
