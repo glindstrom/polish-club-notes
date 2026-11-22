@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - `competitive-bidding/balancing.md`: light reopening double with 4-4-4-1 (singleton in opener’s suit) from about 7 HCP; new section on balancing when the opponents have not found a fit (rarely balance after a preference auction; normal rules after opener rebids his own long suit). Based on Mike Lawrence, with simulation notes
 - `competitive-bidding/overcalls-one-level.md`: responsive double after our simple overcall and their raise (the two unbid suits, 8+ points); penalty after a weak jump overcall
-- `competitive-bidding/defence-specific-openings.md`: guidelines for reopening against a passed-out strong 1NT (shape before points, vulnerability-dependent)
+- `competitive-bidding/defence-specific-openings.md`: guidelines for reopening against a passed-out strong 1NT (Colchamiro’s Rule of 2 non-vulnerable, pass-unless-long-suit-or-5-5 vulnerable)
 ### Changed
 - `competitive-bidding/take-out-doubles.md`: re-opening double is 9+ points, or 7+ with 4-4-4-1
 

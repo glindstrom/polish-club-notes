@@ -50,11 +50,8 @@
     | 2♣       | Both majors                |
     | 2♦/2♥/2♠ | Natural                    |
 
-    - **Guidelines (1NT 15–17 passed out)**: shape before points (Lawrence, *Tips on Competitive Bidding*, pp. 212–213).
-        - Non-vulnerable: reopen with a 6-card suit from about 6 points.
-        - Vulnerable: reopen with a 6-card suit only with a good suit or extra shape.
-        - With a balanced hand (5332), pass when vulnerable, even with 12–14 points. Non-vulnerable it is optional (matchpoints).
-    - *Simulation note* (natural 2-level bid vs pass, 5,000 deals, double dummy): 6-card suit with 6–9 points +1.9 IMP/deal non-vulnerable, ±0 vulnerable; 6-card suit with 10–12 points vulnerable −0.8; 5332 with 12–14 points vulnerable −2.5, non-vulnerable ±0.
+    - **Balancing (Colchamiro’s Rule of 2), non-vulnerable:** count shortness points (void 3, singleton 2, doubleton 1). With 2+ reopen regardless of HCP; with 0–1 (5332, 4432, 4333) pass. **Vulnerable:** normally pass; reopen only with a long, good suit or 5-5. With six clubs there is no natural 2♣ in reopening position (2♣ shows both majors), so use 3♣ or pass.
+    - *Simulation note:* double-dummy simulation (12,000 deals per vulnerability): non-vulnerable, Rule of 2 vs pass +0.5 IMP/deal (59 % MP share), +0.1 IMP vs the previous guideline; 0–1 shortness points lose, 2 gains ~+0.9 and 3+ ~+2.0 IMP/deal. Vulnerable it loses 0.6 IMP/deal vs pass (even 3+ shortness points lose ~0.4). Source: Mel Colchamiro’s Rule of 2 as described by Karen Walker, ACBL Bridge Bulletin, https://kwbridge.com/bb/nt-3.htm (she reserves it for matchpoints).
 
 ??? note "Defence to Weak 1NT (13–15 or weaker)"
     ### Defence to Weak 1NT (13–15 or weaker)
