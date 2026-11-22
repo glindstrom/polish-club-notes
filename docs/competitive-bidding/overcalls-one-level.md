@@ -78,15 +78,14 @@
     | XX                             | 10+ HCP, doubleton in overcaller's suit                                     |
     | 2♥ (after 1♥) or 2♠ (after 1♠) | 6–10 points, 3+ cards in overcaller's suit, includes top honor (A, K, or Q) |
     | 2♦ (after 1♥) or 2♥ (after 1♠) | 6–10 points, 3+ cards in overcaller's suit, no top honor                    |
-    | 2♦ after (1♦) 1♠ (X)       | Cue-bid, 3+ spades, above a 6–10 raise                                     |
-    | Others                         | Same as after 1♥ or 1♠ opening and opponent's double, except redouble and the 2♦ cue above |
+    | Others                         | Same as after 1♥ or 1♠ opening and opponent's double, except redouble       |
 
     #### Redouble after their negative double
-    Redouble shows 10+ HCP and a doubleton in partner’s suit. With 3+ cards in partner’s suit, raise or cue-bid. Do not redouble with a fit.
+    Redouble shows 10+ HCP and a doubleton in partner’s suit. With 3+ cards in partner’s suit, use the support bids in this table, or the fit bids from a doubled 1♥/1♠ opening. Do not redouble with a fit.
 
-    After (1♦) 1♠ (X), a hand with 3+ spades that is more than a 6–10 raise cue-bids 2♦. A 6–10 hand with 3+ spades still raises: 2♠ with a top honour, 2♥ without. 2♦ is not a transfer to hearts. A hand with 3+ spades does not redouble.
+    We play transfers after their negative double, as after a doubled [1♥ or 1♠ opening](../openings/one-heart-one-spade-interference.md), so 2♦ after (1♦) 1♠ (X) is a transfer to hearts, not a cue-bid.
 
-    Example: (1♦) 1♠ (X) with ♠K6 ♥A95 ♦A872 ♣10843 — redouble. With a full spade fit, bid 2♦. Izdebski, School 7–9/2022; 10–12/2019. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md).
+    Example: (1♦) 1♠ (X) with ♠K6 ♥A95 ♦A872 ♣10843 — redouble. With a real spade fit Izdebski cue-bids 2♦ (School 7–9/2022; 10–12/2019), but we do not, because 2♦ is a transfer for us. See [Penalty Doubles, Redoubles and Passes](penalty-doubles-and-passes.md).
 
 ??? note "After Other Opponent Bids"
     ### After Other Opponent Bids

@@ -3,6 +3,11 @@ All notable changes to the Polish Club Notes will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.29] - 2026-11-22
+### Changed
+- `competitive-bidding/overcalls-one-level.md`: after a negative double of our one-level overcall we play transfers, as after a doubled 1♥/1♠ opening. 2♦ after (1♦) 1♠ (X) is a transfer to hearts again, not Izdebski’s cue-bid (reverts that part of 1.4.28, Gabriel 2026-11-22)
+- `competitive-bidding/penalty-doubles-and-passes.md`: after a negative double of our one-level overcall we play transfers, as after a doubled 1♥/1♠ opening. 2♦ after (1♦) 1♠ (X) is a transfer to hearts again, not Izdebski’s cue-bid (reverts that part of 1.4.28, Gabriel 2026-11-22)
+
 ## [1.4.28] - 2026-11-22
 ### Added
 - `competitive-bidding/penalty-doubles-and-passes.md`: Izdebski’s principles on penalty doubles, redoubles and passes (School articles in Świat Brydża). A redouble of a take-out double shows 10+ HCP and invites a penalty double of their escape; after a negative double of our one-level overcall it also shows a doubleton in partner’s suit. Opener’s free rebid in his suit after the redouble is a minimum and not forcing. Advancer’s simple suit promises nothing, jumps are preemptive, and 2NT is 5-5+ in the minors. A take-out double of a 3- or 4-level preempt is converted by a pass with a worthless or balanced defensive hand; 4NT over four of a major is a 5-5 two-suiter. Pass partner’s penalty or reopening double once a balanced hand has been shown, and treat a pass at the four- or five-level as normally not forcing
